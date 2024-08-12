@@ -1,0 +1,20 @@
+Dynamic method:
+
+Total time taken in Dynamic method: 68 milliseconds
+Total Number of zero-valued elements in the matrix: 10000000
+Number of zero-valued elements counted by thread1: 800132
+Number of zero-valued elements counted by thread2: 400361
+Number of zero-valued elements counted by thread3: 798290
+Number of zero-valued elements counted by thread4: 801005
+Number of zero-valued elements counted by thread5: 800221
+Number of zero-valued elements counted by thread6: 399886
+Number of zero-valued elements counted by thread7: 400726
+Number of zero-valued elements counted by thread8: 400248
+Number of zero-valued elements counted by thread9: 998490
+Number of zero-valued elements counted by thread10: 799773
+Number of zero-valued elements counted by thread11: 901048
+Number of zero-valued elements counted by thread12: 1000163
+Number of zero-valued elements counted by thread13: 300059
+Number of zero-valued elements counted by thread14: 399259
+Number of zero-valued elements counted by thread15: 400313
+Number of zero-valued elements counted by thread16: 400026
