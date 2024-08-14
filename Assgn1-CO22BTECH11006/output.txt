@@ -1,20 +1,20 @@
-Dynamic method:
+Mixed_Chunk method:
 
-Total time taken in Dynamic method: 68 milliseconds
+Total time taken in Mixed_Chunk method: 65.903718 milliseconds
 Total Number of zero-valued elements in the matrix: 10000000
-Number of zero-valued elements counted by thread1: 800132
-Number of zero-valued elements counted by thread2: 400361
-Number of zero-valued elements counted by thread3: 798290
-Number of zero-valued elements counted by thread4: 801005
-Number of zero-valued elements counted by thread5: 800221
-Number of zero-valued elements counted by thread6: 399886
-Number of zero-valued elements counted by thread7: 400726
-Number of zero-valued elements counted by thread8: 400248
-Number of zero-valued elements counted by thread9: 998490
-Number of zero-valued elements counted by thread10: 799773
-Number of zero-valued elements counted by thread11: 901048
-Number of zero-valued elements counted by thread12: 1000163
-Number of zero-valued elements counted by thread13: 300059
-Number of zero-valued elements counted by thread14: 399259
-Number of zero-valued elements counted by thread15: 400313
-Number of zero-valued elements counted by thread16: 400026
+Number of zero-valued elements counted by thread1: 701048
+Number of zero-valued elements counted by thread2: 701007
+Number of zero-valued elements counted by thread3: 699829
+Number of zero-valued elements counted by thread4: 698939
+Number of zero-valued elements counted by thread5: 599517
+Number of zero-valued elements counted by thread6: 600139
+Number of zero-valued elements counted by thread7: 600723
+Number of zero-valued elements counted by thread8: 600467
+Number of zero-valued elements counted by thread9: 599656
+Number of zero-valued elements counted by thread10: 599815
+Number of zero-valued elements counted by thread11: 599954
+Number of zero-valued elements counted by thread12: 599266
+Number of zero-valued elements counted by thread13: 599166
+Number of zero-valued elements counted by thread14: 600318
+Number of zero-valued elements counted by thread15: 601083
+Number of zero-valued elements counted by thread16: 599073
