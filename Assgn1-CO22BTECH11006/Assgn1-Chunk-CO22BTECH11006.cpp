@@ -62,7 +62,6 @@ int main() {
         return 1;
     }
 
-
     //creating k threads
     vector<pthread_t> threads(k);
 

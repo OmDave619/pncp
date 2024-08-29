@@ -20,7 +20,7 @@ void* Compute_Mixed_Chunk(void* arg) {
     ComputeArgs* args = (ComputeArgs*)arg;
     int thread_id = args->thread_id;
     int start = args->start;
-    int end = n;
+    int end = n;    
 
     for (int p = start; p < end; p += k * rowInc) {
         for (int i = p; i < min(p + rowInc, n); i++) {
