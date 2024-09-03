@@ -55,6 +55,8 @@ int main() {
                 }
             }
         }
+        
+        zeros_by_thread[id] = total_zeros_local;
 
         #pragma omp atomic
         total_zeros += total_zeros_local;

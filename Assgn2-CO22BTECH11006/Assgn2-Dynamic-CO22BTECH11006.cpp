@@ -46,16 +46,22 @@ int main() {
     #pragma omp parallel num_threads(k)
     {
         int id = omp_get_thread_num();
+        int total_zeros_local = 0;
 
-    #pragma omp for schedule(dynamic,1) reduction(+:total_zeros)
+        #pragma omp for schedule(dynamic,rowInc) 
         for (int i = 0; i < n; i++) {
             // if(id==1) printf("Thread %d processing row %d\n", id, i);
             for (int j = 0; j < n; j++) {
                 if (A[i][j] == 0) {
-                    total_zeros++;
+                    total_zeros_local++;
                 }
             }
         }
+
+        zeros_by_thread[id] = total_zeros_local;
+
+        #pragma omp atomic
+        total_zeros += total_zeros_local;
     }
 
     clock_gettime(CLOCK_MONOTONIC, &end_time);
