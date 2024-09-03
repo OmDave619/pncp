@@ -1,20 +1,20 @@
 Chunk method:
 
-Total time taken in chunk method: 70.716423 milliseconds
-Total Number of zero-valued elements in the matrix: 10000000
-Number of zero-valued elements counted by thread1: 623426
-Number of zero-valued elements counted by thread2: 624682
-Number of zero-valued elements counted by thread3: 624851
-Number of zero-valued elements counted by thread4: 624670
-Number of zero-valued elements counted by thread5: 623209
-Number of zero-valued elements counted by thread6: 623775
-Number of zero-valued elements counted by thread7: 624176
-Number of zero-valued elements counted by thread8: 624314
-Number of zero-valued elements counted by thread9: 623855
-Number of zero-valued elements counted by thread10: 623823
-Number of zero-valued elements counted by thread11: 624105
-Number of zero-valued elements counted by thread12: 623315
-Number of zero-valued elements counted by thread13: 623942
-Number of zero-valued elements counted by thread14: 623486
-Number of zero-valued elements counted by thread15: 624564
-Number of zero-valued elements counted by thread16: 639807
+Total time taken in chunk method: 3.447047 milliseconds
+Total Number of zero-valued elements in the matrix: 400000
+Number of zero-valued elements counted by thread1: 24847
+Number of zero-valued elements counted by thread2: 24984
+Number of zero-valued elements counted by thread3: 24699
+Number of zero-valued elements counted by thread4: 24926
+Number of zero-valued elements counted by thread5: 24863
+Number of zero-valued elements counted by thread6: 24703
+Number of zero-valued elements counted by thread7: 24728
+Number of zero-valued elements counted by thread8: 24831
+Number of zero-valued elements counted by thread9: 24707
+Number of zero-valued elements counted by thread10: 24672
+Number of zero-valued elements counted by thread11: 24901
+Number of zero-valued elements counted by thread12: 24862
+Number of zero-valued elements counted by thread13: 24771
+Number of zero-valued elements counted by thread14: 24726
+Number of zero-valued elements counted by thread15: 24792
+Number of zero-valued elements counted by thread16: 27988
