@@ -1,0 +1,76 @@
+<h1 id="pncp---theory-assignment-1">PNCP - Theory Assignment 1</h1>
+<h2 id="co22btech11006">CO22BTECH11006</h2>
+<h2 id="om-dave">OM DAVE</h2>
+<h3 id="problem-1">Problem 1</h3>
+<figure>
+<img src="image.png" alt="" /><figcaption>alt text</figcaption>
+</figure>
+<ol type="a">
+<li><strong>Amdahl’s Law:</strong></li>
+</ol>
+<p><br /><span class="math display">$$
+S = \frac{1}{s + \frac{p}{n}}
+$$</span><br /></p>
+<p>Where:</p>
+<ul>
+<li><strong>S</strong> is the maximum speedup,</li>
+<li><strong>s</strong> is the serial fraction of the program (non-parallelizable),</li>
+<li><strong>p</strong> is the parallelizable fraction,</li>
+<li><strong>n</strong> is the number of processors.</li>
+</ul>
+<p>The formula simplifies to:</p>
+<p><br /><span class="math display">$$
+S = \frac{1}{0.3 + \frac{0.7}{n}}
+$$</span><br /></p>
+<p>for an n-processor machine.</p>
+<p>As <span class="math inline"><em>n</em></span> approaches infinity (Theoritical Maximum limit) (<span class="math inline"><em>n</em> → ∞</span>), the term <span class="math inline">$\frac{0.7}{n}$</span> approaches 0, leading to:</p>
+<p><br /><span class="math display">$$
+S \approx \frac{1}{0.3} \approx 3.33
+$$</span><br /></p>
+<p>Thus, the theoretical maximum speedup that can be achieved, regardless of the number of processors, is approximately 3.33.</p>
+<ol start="2" type="a">
+<li>If M takes t time, then making it k-fold faster, it would take t/k, time, now Since, M take 0.4 of the unit time, after speed up it would take 0.4/k time. For a system with N processors, the overall speed up is given by:</li>
+</ol>
+<p><br /><span class="math display">$$
+\frac{1}{\frac{0.4}{k} + \frac{0.6}{N}} = 2
+$$</span><br /></p>
+<p>Rearrange to solve for k:</p>
+<p><br /><span class="math display"><em>k</em> ⋅ <em>N</em> = 0.8 ⋅ <em>N</em> + 1.2 ⋅ <em>k</em></span><br /></p>
+<p><br /><span class="math display">$$
+k = \frac{0.8 \cdot N}{N - 1.2}
+$$</span><br /></p>
+<ol start="3" type="a">
+<li>Let <strong>s</strong> be the serial fraction of the program that method M accounts for. Then the parallel fraction of the program is <span class="math inline">1 − <em>s</em></span>. With a 4-fold speedup for M in an <span class="math inline"><em>n</em></span>-processor system, the overall speedup is given by:</li>
+</ol>
+<p><br /><span class="math display">$$
+2 = \frac{1}{\frac{s}{4} + \frac{1 - s}{n}}
+$$</span><br /></p>
+<p><br /><span class="math display">$$
+\frac{1}{2} = \frac{s}{4} + \frac{1 - s}{n}
+$$</span><br /></p>
+<p><br /><span class="math display">$$
+s = \frac{2n - 4}{n - 4}
+$$</span><br /></p>
+<h3 id="problem-2">Problem 2</h3>
+<p><img src="image-1.png" alt="alt text" /> <img src="image-2.png" alt="alt text" /></p>
+<h4 id="solution">Solution:</h4>
+<p><strong>Claim: The revised algorithm is deadlock-free.</strong></p>
+<p><strong>Explanation:</strong> Possible scenarios of deadlock are:</p>
+<ol type="1">
+<li><p><strong>When both threads are stuck while acquiring a lock.</strong> This is impossible as due to the correctness of the Peterson lock algorithm; due to the presence of a victim, only one thread is able to enter the critical section, and due to the presence of a flag, at least one thread is able to enter. This always ensures progress in the system.</p></li>
+<li><p><strong>When both threads are stuck while unlocking.</strong> Let thread A be stuck in the unlock loop. At this moment, flag[A] is false, and flag[B] is true. Since flag[A] is false, this means that B, if trying to enter the critical section, would immediately be able to do so. Also, flag[B] is true, which means B is inside the critical section. Now, as soon as B leaves, it sets its flag to false and starts executing the while loop, i.e., while(flag[A] == true) {}. At this moment, the flags of both threads are false, and there is no way to make them true unless one of them exits the unlock method. As both flags are false, at least one of them will leave the unlock method, which contradicts our statement that both of them are stuck at unlock.</p></li>
+<li><p><strong>When one thread is stuck at unlocking and the other is trying to acquire a lock.</strong> Consider the case when thread A is stuck at unlock with its flag false and flag[B] is true. Now, when B tries to enter, it would see the flag of A, which is false. Since A is already stuck, there is no way that this flag becomes true, which means that B could enter the critical section (breaking the while loop as flag[A] = false), and then subsequently execute unlock leading to case 2, which is also deadlock-free.</p></li>
+</ol>
+<p>So, in any scenario, progress is always possible, so the algorithm is deadlock-free.</p>
+<p><strong>Claim: The algorithm is not starvation-free.</strong></p>
+<p><strong>Explanation:</strong> Consider this scenario:</p>
+<p>Let thread A be stuck in the unlock loop. At this moment, flag[A] is false, and flag[B] is true. Since flag[A] is false, this means that B, if trying to enter the critical section, would immediately be able to do so. Also, flag[B] is true, which means B is inside the critical section. Now, as soon as B leaves, it sets its flag to false and starts executing the while loop, i.e., while(flag[A] == true) {}. At this moment, the flags of both threads are false, and both can exit the unlock method. Now, it could be possible that before A exits its unlock method, thread B exits its unlock, enters the lock method, and sets its flag to true. This makes A unable to exit the unlock method. Also, since flag[A] is still false, B could enter the critical section again. This process could repeatedly happen such that B is re-entering the critical section while A is waiting to exit the unlock method. This could lead to starvation of a particular thread, as in this case thread A.</p>
+<h3 id="problem-3">Problem 3</h3>
+<p><img src="image-3.png" alt="alt text" /> <img src="image-4.png" alt="alt text" /> <img src="image-5.png" alt="alt text" /></p>
+<h4 id="solution-1">Solution:</h4>
+<h4 id="linearization-point-at-line-15">Linearization Point at Line 15</h4>
+<p>In the <code>enq()</code> method, line 15 involves the operation <code>tail.getAndIncrement()</code>. To demonstrate the non-linearity at this point, consider a scenario where two threads, Thread A and Thread B, are involved. Thread A calls <code>enq(x)</code> and Thread B calls <code>enq(y)</code>. If Thread A executes <code>tail.getAndIncrement()</code> first and receives a value of 0, followed by Thread B which executes the same method and receives the value 1, and then Thread B completes its enqueue operation before Thread A, the final state of the queue does not reflect the order in which these threads accessed the tail. This scenario shows that the operations by Thread A and Thread B on line 15 are not linearized according to the order in which they were executed, so line 15 can’t be linearization point.</p>
+<h4 id="linearization-point-at-line-16">Linearization Point at Line 16</h4>
+<p>On line 16, where <code>items[i].set(x)</code> is executed, If Thread A and Thread B increment the <code>tail</code> successfully but Thread B is delayed in executing <code>items[i].set(y)</code>, there exists a window where the state of the queue is inconsistent - the <code>tail</code> index is updated, but the item has not been set. This delay can lead to a situation where another operation might see an incremented <code>tail</code> but an unset item at the new tail index, further proving that the <code>enq()</code> operation does not linearize at line 16 either.</p>
+<h4 id="enq-is-linearizable"><code>enq()</code> is Linearizable</h4>
+<p>Given that neither line 15 nor line 16 provides a consistent linearization point and considering that these are the primary operations within the <code>enq()</code> method affecting state, it is concluded that <code>enq()</code> does not have a single linearization point. However, this does not imply that <code>enq()</code> is not linearizable. The method, when viewed as a whole within the context of the queue’s operations, can still behave linearly in a broader multi-threaded environment, ensuring overall system correctness and order.</p>
