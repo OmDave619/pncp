@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>readme.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #1f1ff5;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #c97575; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h1 id="matrix-sparsity-calculation-using-multithreading-openmp-vs-pthreads">Matrix Sparsity Calculation using Multithreading: OpenMP vs PThreads</h1>
+<h2 id="overview">Overview</h2>
+<p>This project aims to calculate the sparsity (the ratio of zero-valued elements) of a square matrix using multithreading. The matrix sparsity calculation is implemented using both OpenMP and PThreads, with three different parallelization techniques: Chunk, Mixed, and Dynamic. The program compares the performance of these techniques by measuring the time taken for different matrix sizes, thread counts, sparsity values, and row increments.</p>
+<h2 id="files-and-structure">Files and Structure</h2>
+<p>The project directory contains the following files:</p>
+<h3 id="source-code-files">Source Code Files</h3>
+<ul>
+<li><code>Assgn2-Chunk-OpenMP-CO22BTECH11006.cpp</code></li>
+<li><code>Assgn2-Chunk-PThreads-CO22BTECH11006.cpp</code></li>
+<li><code>Assgn2-Dynamic-OpenMP-CO22BTECH11006.cpp</code></li>
+<li><code>Assgn2-Dynamic-PThreads-CO22BTECH11006.cpp</code></li>
+<li><code>Assgn2-Mixed-Chunk-OpenMP-CO22BTECH11006.cpp</code></li>
+<li><code>Assgn2-Mixed-Chunk-PThreads-CO22BTECH11006.cpp</code></li>
+<li><code>Assgn2-Mixed-OpenMP-CO22BTECH11006.cpp</code></li>
+<li><code>Assgn2-Mixed-PThreads-CO22BTECH11006.cpp</code></li>
+</ul>
+<h3 id="other-files">Other Files</h3>
+<ul>
+<li><code>Makefile</code>: Script to compile all programs using the <code>make</code> command.</li>
+<li><code>input.txt</code>: Sample input file for running the programs.</li>
+<li><code>Figure_1.png</code>, <code>Figure_2.png</code>, <code>Figure_3.png</code>, <code>Figure_4.png</code>: Graphs for performance analysis.</li>
+</ul>
+<h2 id="compilation-and-execution">Compilation and Execution</h2>
+<h3 id="compilation">Compilation</h3>
+<p>To compile the programs, use the provided <code>Makefile</code>. Run the following command in the terminal:</p>
+<pre class="hljs"><code><div>    make
+</div></code></pre>
+<p>This will generate the following executables:</p>
+<ul>
+<li><code>chunk-omp</code>: Chunk method using OpenMP.</li>
+<li><code>mixed-omp</code>: Mixed method using OpenMP.</li>
+<li><code>dynamic-omp</code>: Dynamic method using OpenMP.</li>
+<li><code>mixedchunk-omp</code>: Mixed-Chunk method using OpenMP.</li>
+<li><code>chunk</code>: Chunk method using PThreads.</li>
+<li><code>mixed</code>: Mixed method using PThreads.</li>
+<li><code>dynamic</code>: Dynamic method using PThreads.</li>
+<li><code>mixedchunk</code>: Mixed-Chunk method using PThreads.</li>
+</ul>
+<h4 id="manual-compilation">Manual Compilation</h4>
+<p>You can also manually compile individual files. Below are example commands to compile each file separately:</p>
+<p>For OpenMP versions:</p>
+<pre class="hljs"><code><div>g++ -fopenmp Assgn2-Chunk-OpenMP-CO22BTECH11006.cpp -o chunk-omp
+g++ -fopenmp Assgn2-Mixed-OpenMP-CO22BTECH11006.cpp -o mixed-omp
+g++ -fopenmp Assgn2-Dynamic-OpenMP-CO22BTECH11006.cpp -o dynamic-omp
+g++ -fopenmp Assgn2-Mixed-Chunk-OpenMP-CO22BTECH11006.cpp -o mixedchunk-omp
+</div></code></pre>
+<p>For PThreads versions:</p>
+<pre class="hljs"><code><div>g++ -pthread Assgn2-Chunk-PThreads-CO22BTECH11006.cpp -o chunk
+g++ -pthread Assgn2-Mixed-PThreads-CO22BTECH11006.cpp -o mixed
+g++ -pthread Assgn2-Dynamic-PThreads-CO22BTECH11006.cpp -o dynamic
+g++ -pthread Assgn2-Mixed-Chunk-PThreads-CO22BTECH11006.cpp -o mixedchunk
+</div></code></pre>
+<h3 id="input">Input</h3>
+<p>The program reads matrix data and parameters from <code>input.txt</code>. The structure of the input file is as follows:</p>
+<ul>
+<li><strong>N</strong>: Matrix size (NxN).</li>
+<li><strong>S</strong>: Sparsity percentage (amount of zero values in the matrix).</li>
+<li><strong>K</strong>: Number of threads to use.</li>
+<li><strong>rowInc</strong>: Row increment for dynamic scheduling.</li>
+<li><strong>Matrix</strong>: The NxN matrix values in row-major order.</li>
+</ul>
+<p>An example of the <code>input.txt</code> file is provided in the project directory.</p>
+<h3 id="execution">Execution</h3>
+<p>After compiling, you can run the executables as follows:</p>
+<p>For OpenMP versions:</p>
+<pre class="hljs"><code><div>    ./chunk-omp
+    ./mixed-omp
+    ./dynamic-omp
+</div></code></pre>
+<p>For PThreads versions:</p>
+<pre class="hljs"><code><div>    ./chunk
+    ./mixed
+    ./dynamic
+</div></code></pre>
+<h3 id="output">Output</h3>
+<p>The output will be written to <code>output.txt</code> and will contain:</p>
+<ul>
+<li>Time taken to compute the matrix sparsity.</li>
+<li>Total number of zero-valued elements.</li>
+<li>Number of zero-valued elements counted by each thread.</li>
+</ul>
+<h3 id="contact">Contact</h3>
+<p>For any questions or further information about this project, please contact:</p>
+<p><strong>Om Dave</strong><br>
+<strong>CO22BTECH11006</strong><br>
+Indian Institute of Technology, Hyderabad<br>
+Email: co22btech11006@iith.ac.in</p>
+
+</body>
+</html>
