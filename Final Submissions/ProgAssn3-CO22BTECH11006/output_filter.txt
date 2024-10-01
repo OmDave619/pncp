@@ -1,0 +1,1610 @@
+n = 16, k = 25, lambdaCS = 1.000000, lambdaRem = 2.000000
+1th CS Entry Request at 0.000129 by thread 1
+1th CS Entry at 0.000173 by thread 1
+1th CS Entry Request at 0.000241 by thread 2
+1th CS Entry Request at 0.000347 by thread 3
+1th CS Exit Request at 0.000377 by thread 1
+1th CS Exit at 0.000388 by thread 1
+1th CS Entry Request at 0.000433 by thread 4
+1th CS Entry at 0.000391 by thread 2
+1th CS Entry Request at 0.000530 by thread 5
+1th CS Entry Request at 0.000609 by thread 6
+1th CS Exit Request at 0.000631 by thread 2
+1th CS Exit at 0.000678 by thread 2
+1th CS Entry at 0.000682 by thread 3
+1th CS Entry Request at 0.000934 by thread 7
+1th CS Entry Request at 0.001043 by thread 8
+1th CS Exit Request at 0.001238 by thread 3
+1th CS Exit at 0.001253 by thread 3
+1th CS Entry at 0.001256 by thread 4
+2th CS Entry Request at 0.001286 by thread 2
+2th CS Entry Request at 0.001376 by thread 3
+1th CS Exit Request at 0.003246 by thread 4
+1th CS Exit at 0.003258 by thread 4
+1th CS Entry at 0.003264 by thread 5
+2th CS Entry Request at 0.003898 by thread 4
+2th CS Entry Request at 0.004500 by thread 1
+1th CS Exit Request at 0.005476 by thread 5
+1th CS Exit at 0.005504 by thread 5
+1th CS Entry at 0.005508 by thread 6
+1th CS Exit Request at 0.006456 by thread 6
+1th CS Exit at 0.006484 by thread 6
+1th CS Entry at 0.006488 by thread 7
+1th CS Exit Request at 0.006650 by thread 7
+1th CS Exit at 0.006672 by thread 7
+1th CS Entry at 0.006675 by thread 8
+2th CS Entry Request at 0.006936 by thread 7
+1th CS Exit Request at 0.006958 by thread 8
+1th CS Exit at 0.006981 by thread 8
+2th CS Entry at 0.006987 by thread 2
+1th CS Entry Request at 0.006997 by thread 9
+2th CS Entry Request at 0.007141 by thread 5
+1th CS Entry Request at 0.007215 by thread 11
+2th CS Entry Request at 0.007451 by thread 6
+1th CS Entry Request at 0.007516 by thread 12
+1th CS Entry Request at 0.007586 by thread 13
+1th CS Entry Request at 0.008169 by thread 16
+1th CS Entry Request at 0.008627 by thread 14
+2th CS Entry Request at 0.009384 by thread 8
+2th CS Exit Request at 0.009837 by thread 2
+2th CS Exit at 0.009845 by thread 2
+1th CS Entry Request at 0.007102 by thread 10
+3th CS Entry Request at 0.011028 by thread 2
+2th CS Entry at 0.013497 by thread 3
+2th CS Exit Request at 0.018921 by thread 3
+2th CS Exit at 0.018936 by thread 3
+2th CS Entry at 0.018938 by thread 4
+3th CS Entry Request at 0.019347 by thread 3
+1th CS Entry Request at 0.020405 by thread 15
+2th CS Exit Request at 0.023949 by thread 4
+2th CS Exit at 0.025586 by thread 4
+3th CS Entry Request at 0.029641 by thread 4
+2th CS Entry at 0.040191 by thread 1
+2th CS Exit Request at 0.060238 by thread 1
+2th CS Exit at 0.060280 by thread 1
+2th CS Entry at 0.060283 by thread 7
+3th CS Entry Request at 0.061364 by thread 1
+2th CS Exit Request at 0.090947 by thread 7
+2th CS Exit at 0.090987 by thread 7
+3th CS Entry Request at 0.094445 by thread 7
+1th CS Entry at 0.090989 by thread 11
+1th CS Exit Request at 0.115007 by thread 11
+1th CS Exit at 0.115025 by thread 11
+2th CS Entry at 0.115037 by thread 6
+2th CS Entry Request at 0.115950 by thread 11
+2th CS Exit Request at 0.130524 by thread 6
+2th CS Exit at 0.130604 by thread 6
+1th CS Entry at 0.130606 by thread 12
+3th CS Entry Request at 0.130868 by thread 6
+1th CS Exit Request at 0.135399 by thread 12
+1th CS Exit at 0.135478 by thread 12
+2th CS Entry Request at 0.138164 by thread 12
+1th CS Entry at 0.135514 by thread 13
+1th CS Exit Request at 0.151278 by thread 13
+1th CS Exit at 0.151284 by thread 13
+2th CS Entry at 0.151288 by thread 5
+2th CS Entry Request at 0.152000 by thread 13
+2th CS Exit Request at 0.171545 by thread 5
+2th CS Exit at 0.171683 by thread 5
+1th CS Entry at 0.171686 by thread 14
+1th CS Exit Request at 0.172036 by thread 14
+1th CS Exit at 0.172041 by thread 14
+1th CS Entry at 0.172043 by thread 16
+2th CS Entry Request at 0.173098 by thread 14
+3th CS Entry Request at 0.173454 by thread 5
+1th CS Exit Request at 0.173735 by thread 16
+1th CS Exit at 0.173739 by thread 16
+1th CS Entry at 0.173748 by thread 9
+2th CS Entry Request at 0.176576 by thread 16
+1th CS Exit Request at 0.190246 by thread 9
+1th CS Exit at 0.190402 by thread 9
+1th CS Entry at 0.190404 by thread 10
+1th CS Exit Request at 0.190609 by thread 10
+1th CS Exit at 0.190616 by thread 10
+2th CS Entry Request at 0.192466 by thread 10
+2th CS Entry Request at 0.200228 by thread 9
+2th CS Entry at 0.190618 by thread 8
+2th CS Exit Request at 0.211028 by thread 8
+2th CS Exit at 0.211035 by thread 8
+3th CS Entry at 0.211048 by thread 3
+3th CS Entry Request at 0.212370 by thread 8
+3th CS Exit Request at 0.230287 by thread 3
+3th CS Exit at 0.230313 by thread 3
+4th CS Entry Request at 0.241037 by thread 3
+3th CS Entry at 0.230315 by thread 2
+3th CS Exit Request at 0.252579 by thread 2
+3th CS Exit at 0.252587 by thread 2
+1th CS Entry at 0.252601 by thread 15
+4th CS Entry Request at 0.254837 by thread 2
+1th CS Exit Request at 0.270243 by thread 15
+1th CS Exit at 0.270286 by thread 15
+3th CS Entry at 0.270290 by thread 4
+3th CS Exit Request at 0.271872 by thread 4
+3th CS Exit at 0.271895 by thread 4
+3th CS Entry at 0.271897 by thread 1
+3th CS Exit Request at 0.272411 by thread 1
+3th CS Exit at 0.272421 by thread 1
+3th CS Entry at 0.272423 by thread 7
+4th CS Entry Request at 0.272761 by thread 4
+3th CS Exit Request at 0.273471 by thread 7
+3th CS Exit at 0.273483 by thread 7
+2th CS Entry at 0.273485 by thread 12
+4th CS Entry Request at 0.276239 by thread 7
+2th CS Exit Request at 0.276326 by thread 12
+2th CS Exit at 0.276337 by thread 12
+2th CS Entry at 0.276339 by thread 14
+2th CS Entry Request at 0.276375 by thread 15
+3th CS Entry Request at 0.278789 by thread 12
+4th CS Entry Request at 0.280297 by thread 1
+2th CS Exit Request at 0.290247 by thread 14
+2th CS Exit at 0.290282 by thread 14
+2th CS Entry at 0.290339 by thread 13
+2th CS Exit Request at 0.291635 by thread 13
+2th CS Exit at 0.291641 by thread 13
+3th CS Entry at 0.291646 by thread 6
+3th CS Exit Request at 0.292217 by thread 6
+3th CS Exit at 0.292226 by thread 6
+2th CS Entry at 0.292228 by thread 11
+4th CS Entry Request at 0.292388 by thread 6
+2th CS Exit Request at 0.292789 by thread 11
+2th CS Exit at 0.292798 by thread 11
+3th CS Entry at 0.292800 by thread 5
+3th CS Entry Request at 0.292996 by thread 13
+3th CS Entry Request at 0.293347 by thread 14
+3th CS Entry Request at 0.293696 by thread 11
+3th CS Exit Request at 0.310248 by thread 5
+3th CS Exit at 0.310276 by thread 5
+3th CS Entry at 0.310278 by thread 8
+4th CS Entry Request at 0.315282 by thread 5
+3th CS Exit Request at 0.330321 by thread 8
+3th CS Exit at 0.330397 by thread 8
+2th CS Entry at 0.330401 by thread 16
+4th CS Entry Request at 0.331693 by thread 8
+2th CS Exit Request at 0.340249 by thread 16
+2th CS Exit at 0.340282 by thread 16
+3th CS Entry Request at 0.340801 by thread 16
+2th CS Entry at 0.341147 by thread 9
+2th CS Exit Request at 0.341407 by thread 9
+2th CS Exit at 0.341414 by thread 9
+3th CS Entry Request at 0.342275 by thread 9
+2th CS Entry at 0.350249 by thread 10
+2th CS Exit Request at 0.352368 by thread 10
+2th CS Exit at 0.352380 by thread 10
+4th CS Entry at 0.352382 by thread 2
+3th CS Entry Request at 0.353213 by thread 10
+4th CS Exit Request at 0.356623 by thread 2
+4th CS Exit at 0.356633 by thread 2
+4th CS Entry at 0.357720 by thread 3
+5th CS Entry Request at 0.357959 by thread 2
+4th CS Exit Request at 0.372469 by thread 3
+4th CS Exit at 0.372575 by thread 3
+4th CS Entry at 0.372579 by thread 4
+5th CS Entry Request at 0.373774 by thread 3
+4th CS Exit Request at 0.374524 by thread 4
+4th CS Exit at 0.374545 by thread 4
+5th CS Entry Request at 0.390249 by thread 4
+3th CS Entry at 0.374546 by thread 12
+3th CS Exit Request at 0.390938 by thread 12
+3th CS Exit at 0.390946 by thread 12
+2th CS Entry at 0.390948 by thread 15
+4th CS Entry Request at 0.391289 by thread 12
+2th CS Exit Request at 0.391492 by thread 15
+2th CS Exit at 0.391499 by thread 15
+4th CS Entry at 0.391501 by thread 6
+4th CS Exit Request at 0.391749 by thread 6
+4th CS Exit at 0.391756 by thread 6
+3th CS Entry Request at 0.391933 by thread 15
+5th CS Entry Request at 0.392793 by thread 6
+4th CS Entry at 0.391759 by thread 1
+4th CS Exit Request at 0.411878 by thread 1
+4th CS Exit at 0.411999 by thread 1
+3th CS Entry at 0.412003 by thread 13
+5th CS Entry Request at 0.413071 by thread 1
+3th CS Exit Request at 0.413280 by thread 13
+3th CS Exit at 0.413356 by thread 13
+4th CS Entry Request at 0.415612 by thread 13
+4th CS Entry at 0.430254 by thread 7
+4th CS Exit Request at 0.431085 by thread 7
+4th CS Exit at 0.431225 by thread 7
+5th CS Entry Request at 0.436387 by thread 7
+3th CS Entry at 0.431226 by thread 16
+3th CS Exit Request at 0.441222 by thread 16
+3th CS Exit at 0.441233 by thread 16
+4th CS Entry Request at 0.443296 by thread 16
+3th CS Entry at 0.450250 by thread 14
+3th CS Exit Request at 0.451121 by thread 14
+3th CS Exit at 0.451154 by thread 14
+3th CS Entry at 0.451159 by thread 11
+3th CS Exit Request at 0.452224 by thread 11
+3th CS Exit at 0.452301 by thread 11
+3th CS Entry at 0.452311 by thread 9
+4th CS Entry Request at 0.452548 by thread 14
+4th CS Entry Request at 0.454226 by thread 11
+3th CS Exit Request at 0.462295 by thread 9
+3th CS Exit at 0.462319 by thread 9
+4th CS Entry at 0.466631 by thread 5
+4th CS Exit Request at 0.470342 by thread 5
+4th CS Exit at 0.470365 by thread 5
+5th CS Entry at 0.470368 by thread 2
+4th CS Entry Request at 0.470660 by thread 9
+5th CS Entry Request at 0.471320 by thread 5
+5th CS Exit Request at 0.473725 by thread 2
+5th CS Exit at 0.473807 by thread 2
+3th CS Entry at 0.474892 by thread 10
+3th CS Exit Request at 0.476197 by thread 10
+3th CS Exit at 0.476205 by thread 10
+4th CS Entry at 0.476217 by thread 8
+6th CS Entry Request at 0.476232 by thread 2
+4th CS Entry Request at 0.480642 by thread 10
+4th CS Exit Request at 0.490242 by thread 8
+4th CS Exit at 0.490265 by thread 8
+5th CS Entry at 0.490268 by thread 3
+5th CS Exit Request at 0.491867 by thread 3
+5th CS Exit at 0.491880 by thread 3
+5th CS Entry at 0.491882 by thread 4
+6th CS Entry Request at 0.494108 by thread 3
+5th CS Exit Request at 0.494208 by thread 4
+5th CS Exit at 0.494259 by thread 4
+4th CS Entry at 0.494262 by thread 12
+4th CS Exit Request at 0.494859 by thread 12
+4th CS Exit at 0.494921 by thread 12
+5th CS Entry Request at 0.496356 by thread 12
+5th CS Entry Request at 0.500260 by thread 8
+3th CS Entry at 0.494923 by thread 15
+6th CS Entry Request at 0.510250 by thread 4
+3th CS Exit Request at 0.510911 by thread 15
+3th CS Exit at 0.510918 by thread 15
+4th CS Entry at 0.510920 by thread 16
+4th CS Exit Request at 0.511527 by thread 16
+4th CS Exit at 0.511547 by thread 16
+5th CS Entry at 0.511578 by thread 6
+5th CS Entry Request at 0.511795 by thread 16
+4th CS Entry Request at 0.512703 by thread 15
+5th CS Exit Request at 0.530239 by thread 6
+5th CS Exit at 0.530265 by thread 6
+6th CS Entry Request at 0.532212 by thread 6
+4th CS Entry at 0.530267 by thread 13
+4th CS Exit Request at 0.550252 by thread 13
+4th CS Exit at 0.550287 by thread 13
+4th CS Entry at 0.550289 by thread 14
+4th CS Exit Request at 0.551347 by thread 14
+4th CS Exit at 0.551353 by thread 14
+4th CS Entry at 0.551379 by thread 11
+4th CS Exit Request at 0.551902 by thread 11
+4th CS Exit at 0.551909 by thread 11
+4th CS Entry at 0.551910 by thread 9
+5th CS Entry Request at 0.552309 by thread 13
+4th CS Exit Request at 0.552749 by thread 9
+4th CS Exit at 0.552753 by thread 9
+5th CS Entry at 0.552755 by thread 1
+5th CS Entry Request at 0.552773 by thread 11
+5th CS Entry Request at 0.552965 by thread 14
+5th CS Exit Request at 0.553017 by thread 1
+5th CS Exit at 0.553032 by thread 1
+5th CS Entry Request at 0.553277 by thread 9
+6th CS Entry Request at 0.554149 by thread 1
+5th CS Entry at 0.553034 by thread 7
+5th CS Exit Request at 0.570907 by thread 7
+5th CS Exit at 0.570923 by thread 7
+5th CS Entry at 0.570924 by thread 5
+5th CS Exit Request at 0.572386 by thread 5
+5th CS Exit at 0.572413 by thread 5
+6th CS Entry at 0.572415 by thread 3
+6th CS Exit Request at 0.573175 by thread 3
+6th CS Exit at 0.573200 by thread 3
+4th CS Entry at 0.573202 by thread 10
+6th CS Entry Request at 0.573295 by thread 7
+4th CS Exit Request at 0.575435 by thread 10
+4th CS Exit at 0.575466 by thread 10
+5th CS Entry at 0.575469 by thread 8
+5th CS Entry Request at 0.576657 by thread 10
+6th CS Entry Request at 0.577814 by thread 5
+7th CS Entry Request at 0.580011 by thread 3
+5th CS Exit Request at 0.590860 by thread 8
+5th CS Exit at 0.590899 by thread 8
+6th CS Entry at 0.590902 by thread 4
+6th CS Exit Request at 0.593059 by thread 4
+6th CS Exit at 0.593080 by thread 4
+6th CS Entry at 0.593082 by thread 2
+7th CS Entry Request at 0.594587 by thread 4
+6th CS Entry Request at 0.594666 by thread 8
+6th CS Exit Request at 0.610786 by thread 2
+6th CS Exit at 0.610831 by thread 2
+5th CS Entry at 0.612707 by thread 16
+5th CS Exit Request at 0.613704 by thread 16
+5th CS Exit at 0.613715 by thread 16
+7th CS Entry Request at 0.613953 by thread 2
+6th CS Entry Request at 0.614494 by thread 16
+5th CS Entry at 0.630238 by thread 12
+5th CS Exit Request at 0.631037 by thread 12
+5th CS Exit at 0.631048 by thread 12
+6th CS Entry at 0.631097 by thread 6
+6th CS Entry Request at 0.632198 by thread 12
+6th CS Exit Request at 0.632311 by thread 6
+6th CS Exit at 0.632331 by thread 6
+7th CS Entry Request at 0.635296 by thread 6
+5th CS Entry at 0.632333 by thread 13
+5th CS Exit Request at 0.650868 by thread 13
+5th CS Exit at 0.650880 by thread 13
+4th CS Entry at 0.650881 by thread 15
+6th CS Entry Request at 0.650949 by thread 13
+4th CS Exit Request at 0.653400 by thread 15
+4th CS Exit at 0.653409 by thread 15
+6th CS Entry at 0.654309 by thread 1
+6th CS Exit Request at 0.655602 by thread 1
+6th CS Exit at 0.655609 by thread 1
+5th CS Entry at 0.655611 by thread 11
+7th CS Entry Request at 0.655810 by thread 1
+5th CS Entry Request at 0.656122 by thread 15
+5th CS Exit Request at 0.672208 by thread 11
+5th CS Exit at 0.672263 by thread 11
+5th CS Entry at 0.672265 by thread 14
+5th CS Exit Request at 0.673701 by thread 14
+5th CS Exit at 0.673711 by thread 14
+6th CS Entry at 0.673713 by thread 5
+6th CS Entry Request at 0.676913 by thread 11
+6th CS Entry Request at 0.679919 by thread 14
+6th CS Exit Request at 0.688506 by thread 5
+6th CS Exit at 0.688515 by thread 5
+5th CS Entry at 0.688516 by thread 10
+7th CS Entry Request at 0.693044 by thread 5
+5th CS Exit Request at 0.710274 by thread 10
+5th CS Exit at 0.710343 by thread 10
+6th CS Entry at 0.710346 by thread 7
+6th CS Entry Request at 0.712727 by thread 10
+6th CS Exit Request at 0.730241 by thread 7
+6th CS Exit at 0.730272 by thread 7
+7th CS Entry at 0.730275 by thread 3
+7th CS Entry Request at 0.730482 by thread 7
+7th CS Exit Request at 0.732169 by thread 3
+7th CS Exit at 0.732178 by thread 3
+7th CS Entry at 0.732180 by thread 2
+7th CS Exit Request at 0.732319 by thread 2
+7th CS Exit at 0.732425 by thread 2
+5th CS Entry at 0.732427 by thread 9
+8th CS Entry Request at 0.732629 by thread 3
+5th CS Exit Request at 0.733180 by thread 9
+5th CS Exit at 0.733191 by thread 9
+6th CS Entry at 0.733193 by thread 8
+6th CS Entry Request at 0.734782 by thread 9
+8th CS Entry Request at 0.735901 by thread 2
+6th CS Exit Request at 0.750241 by thread 8
+6th CS Exit at 0.750267 by thread 8
+7th CS Entry Request at 0.756613 by thread 8
+7th CS Entry at 0.750270 by thread 4
+7th CS Exit Request at 0.772148 by thread 4
+7th CS Exit at 0.772168 by thread 4
+8th CS Entry Request at 0.775608 by thread 4
+7th CS Entry at 0.790243 by thread 6
+7th CS Exit Request at 0.792882 by thread 6
+7th CS Exit at 0.792981 by thread 6
+6th CS Entry at 0.792980 by thread 16
+6th CS Exit Request at 0.797848 by thread 16
+6th CS Exit at 0.797867 by thread 16
+6th CS Entry at 0.797869 by thread 12
+6th CS Exit Request at 0.800332 by thread 12
+6th CS Exit at 0.800344 by thread 12
+7th CS Entry at 0.800346 by thread 1
+7th CS Exit Request at 0.801219 by thread 1
+7th CS Exit at 0.801254 by thread 1
+6th CS Entry at 0.801256 by thread 11
+8th CS Entry Request at 0.801512 by thread 6
+7th CS Entry Request at 0.804739 by thread 12
+7th CS Entry Request at 0.806751 by thread 16
+8th CS Entry Request at 0.810247 by thread 1
+6th CS Exit Request at 0.820246 by thread 11
+6th CS Exit at 0.820269 by thread 11
+6th CS Entry at 0.820271 by thread 13
+6th CS Exit Request at 0.822041 by thread 13
+6th CS Exit at 0.822056 by thread 13
+5th CS Entry at 0.822278 by thread 15
+5th CS Exit Request at 0.822995 by thread 15
+5th CS Exit at 0.823072 by thread 15
+7th CS Entry Request at 0.823950 by thread 11
+6th CS Entry Request at 0.825982 by thread 15
+7th CS Entry Request at 0.835094 by thread 13
+6th CS Entry at 0.823074 by thread 10
+6th CS Exit Request at 0.840352 by thread 10
+6th CS Exit at 0.840358 by thread 10
+7th CS Entry Request at 0.840810 by thread 10
+6th CS Entry at 0.840361 by thread 14
+6th CS Exit Request at 0.860825 by thread 14
+6th CS Exit at 0.860837 by thread 14
+7th CS Entry at 0.860839 by thread 7
+7th CS Entry Request at 0.862852 by thread 14
+7th CS Exit Request at 0.864867 by thread 7
+7th CS Exit at 0.864874 by thread 7
+7th CS Entry at 0.864875 by thread 5
+8th CS Entry Request at 0.865398 by thread 7
+7th CS Exit Request at 0.880247 by thread 5
+7th CS Exit at 0.880273 by thread 5
+7th CS Entry at 0.880276 by thread 8
+7th CS Exit Request at 0.880558 by thread 8
+7th CS Exit at 0.880565 by thread 8
+6th CS Entry at 0.880567 by thread 9
+6th CS Exit Request at 0.880763 by thread 9
+6th CS Exit at 0.880933 by thread 9
+8th CS Entry Request at 0.881649 by thread 8
+8th CS Entry at 0.880934 by thread 3
+8th CS Exit Request at 0.881965 by thread 3
+8th CS Exit at 0.881970 by thread 3
+8th CS Entry at 0.881974 by thread 4
+8th CS Exit Request at 0.882481 by thread 4
+8th CS Exit at 0.882547 by thread 4
+7th CS Entry Request at 0.882596 by thread 9
+8th CS Entry Request at 0.884368 by thread 5
+9th CS Entry Request at 0.886142 by thread 3
+9th CS Entry Request at 0.900248 by thread 4
+8th CS Entry at 0.882593 by thread 2
+8th CS Exit Request at 0.901616 by thread 2
+8th CS Exit at 0.901628 by thread 2
+7th CS Entry at 0.901630 by thread 12
+9th CS Entry Request at 0.901694 by thread 2
+7th CS Exit Request at 0.902532 by thread 12
+7th CS Exit at 0.902541 by thread 12
+8th CS Entry at 0.902556 by thread 6
+8th CS Entry Request at 0.920229 by thread 12
+8th CS Exit Request at 0.920229 by thread 6
+8th CS Exit at 0.920269 by thread 6
+7th CS Entry at 0.920271 by thread 11
+9th CS Entry Request at 0.920560 by thread 6
+7th CS Exit Request at 0.921280 by thread 11
+7th CS Exit at 0.921289 by thread 11
+8th CS Entry at 0.921291 by thread 1
+8th CS Entry Request at 0.921543 by thread 11
+8th CS Exit Request at 0.940275 by thread 1
+8th CS Exit at 0.940319 by thread 1
+7th CS Entry at 0.940321 by thread 16
+7th CS Exit Request at 0.941086 by thread 16
+7th CS Exit at 0.941091 by thread 16
+7th CS Entry at 0.941094 by thread 13
+8th CS Entry Request at 0.943007 by thread 16
+7th CS Exit Request at 0.947752 by thread 13
+7th CS Exit at 0.947762 by thread 13
+6th CS Entry at 0.947764 by thread 15
+8th CS Entry Request at 0.949463 by thread 13
+9th CS Entry Request at 0.950234 by thread 1
+6th CS Exit Request at 0.962196 by thread 15
+6th CS Exit at 0.962230 by thread 15
+7th CS Entry Request at 0.965275 by thread 15
+7th CS Entry at 0.962233 by thread 14
+7th CS Exit Request at 0.981209 by thread 14
+7th CS Exit at 0.981217 by thread 14
+8th CS Entry at 0.981379 by thread 8
+8th CS Exit Request at 0.982570 by thread 8
+8th CS Exit at 0.982646 by thread 8
+7th CS Entry at 0.982648 by thread 10
+8th CS Entry Request at 0.982727 by thread 14
+9th CS Entry Request at 0.990239 by thread 8
+7th CS Exit Request at 1.000249 by thread 10
+7th CS Exit at 1.000321 by thread 10
+8th CS Entry at 1.000325 by thread 5
+8th CS Exit Request at 1.001758 by thread 5
+8th CS Exit at 1.001772 by thread 5
+9th CS Entry at 1.001774 by thread 2
+8th CS Entry Request at 1.005565 by thread 10
+9th CS Entry Request at 1.005776 by thread 5
+9th CS Exit Request at 1.020251 by thread 2
+9th CS Exit at 1.020289 by thread 2
+7th CS Entry at 1.020291 by thread 9
+7th CS Exit Request at 1.021581 by thread 9
+7th CS Exit at 1.021639 by thread 9
+8th CS Entry at 1.021641 by thread 7
+10th CS Entry Request at 1.023644 by thread 2
+8th CS Entry Request at 1.036796 by thread 9
+8th CS Exit Request at 1.040238 by thread 7
+8th CS Exit at 1.040254 by thread 7
+9th CS Entry at 1.040256 by thread 3
+9th CS Exit Request at 1.040585 by thread 3
+9th CS Exit at 1.040592 by thread 3
+8th CS Entry at 1.040594 by thread 12
+9th CS Entry Request at 1.041157 by thread 7
+10th CS Entry Request at 1.041515 by thread 3
+8th CS Exit Request at 1.041761 by thread 12
+8th CS Exit at 1.041773 by thread 12
+9th CS Entry Request at 1.043357 by thread 12
+9th CS Entry at 1.041775 by thread 6
+9th CS Exit Request at 1.062097 by thread 6
+9th CS Exit at 1.062110 by thread 6
+8th CS Entry at 1.062253 by thread 16
+10th CS Entry Request at 1.063754 by thread 6
+8th CS Exit Request at 1.081066 by thread 16
+8th CS Exit at 1.081072 by thread 16
+9th CS Entry at 1.081074 by thread 4
+9th CS Exit Request at 1.081180 by thread 4
+9th CS Exit at 1.081184 by thread 4
+8th CS Entry at 1.081186 by thread 11
+8th CS Exit Request at 1.081444 by thread 11
+8th CS Exit at 1.081448 by thread 11
+8th CS Entry at 1.081451 by thread 13
+10th CS Entry Request at 1.081685 by thread 4
+9th CS Entry Request at 1.082257 by thread 11
+9th CS Entry Request at 1.088694 by thread 16
+8th CS Exit Request at 1.091205 by thread 13
+8th CS Exit at 1.091215 by thread 13
+8th CS Entry at 1.091217 by thread 14
+9th CS Entry Request at 1.091653 by thread 13
+8th CS Exit Request at 1.093936 by thread 14
+8th CS Exit at 1.093962 by thread 14
+8th CS Entry at 1.093984 by thread 10
+8th CS Exit Request at 1.095121 by thread 10
+8th CS Exit at 1.095182 by thread 10
+9th CS Entry Request at 1.095422 by thread 14
+9th CS Entry Request at 1.100158 by thread 10
+9th CS Entry at 1.095184 by thread 8
+9th CS Exit Request at 1.111039 by thread 8
+9th CS Exit at 1.111045 by thread 8
+10th CS Entry Request at 1.111895 by thread 8
+9th CS Entry at 1.115585 by thread 7
+9th CS Exit Request at 1.130245 by thread 7
+9th CS Exit at 1.130270 by thread 7
+8th CS Entry at 1.130273 by thread 9
+10th CS Entry Request at 1.130693 by thread 7
+8th CS Exit Request at 1.135642 by thread 9
+8th CS Exit at 1.135659 by thread 9
+9th CS Entry Request at 1.136334 by thread 9
+9th CS Entry at 1.150234 by thread 1
+9th CS Exit Request at 1.150640 by thread 1
+9th CS Exit at 1.150648 by thread 1
+10th CS Entry at 1.150650 by thread 3
+10th CS Entry Request at 1.151116 by thread 1
+10th CS Exit Request at 1.161833 by thread 3
+10th CS Exit at 1.161852 by thread 3
+9th CS Entry at 1.161854 by thread 12
+9th CS Exit Request at 1.162781 by thread 12
+9th CS Exit at 1.162791 by thread 12
+7th CS Entry at 1.162793 by thread 15
+11th CS Entry Request at 1.163860 by thread 3
+10th CS Entry Request at 1.164679 by thread 12
+7th CS Exit Request at 1.180243 by thread 15
+7th CS Exit at 1.180275 by thread 15
+9th CS Entry at 1.180277 by thread 5
+9th CS Exit Request at 1.183604 by thread 5
+9th CS Exit at 1.183628 by thread 5
+10th CS Entry at 1.183707 by thread 2
+8th CS Entry Request at 1.183807 by thread 15
+10th CS Entry Request at 1.188433 by thread 5
+10th CS Exit Request at 1.200253 by thread 2
+10th CS Exit at 1.200281 by thread 2
+10th CS Entry at 1.200284 by thread 6
+10th CS Exit Request at 1.201005 by thread 6
+10th CS Exit at 1.201031 by thread 6
+10th CS Entry at 1.201034 by thread 4
+11th CS Entry Request at 1.201579 by thread 2
+11th CS Entry Request at 1.202463 by thread 6
+10th CS Exit Request at 1.202475 by thread 4
+10th CS Exit at 1.202483 by thread 4
+9th CS Entry at 1.202485 by thread 11
+11th CS Entry Request at 1.202834 by thread 4
+9th CS Exit Request at 1.220253 by thread 11
+9th CS Exit at 1.220284 by thread 11
+9th CS Entry at 1.220501 by thread 13
+10th CS Entry Request at 1.220743 by thread 11
+9th CS Exit Request at 1.221881 by thread 13
+9th CS Exit at 1.221900 by thread 13
+10th CS Entry Request at 1.225757 by thread 13
+9th CS Entry at 1.221901 by thread 14
+9th CS Exit Request at 1.240978 by thread 14
+9th CS Exit at 1.240988 by thread 14
+10th CS Entry at 1.240991 by thread 7
+10th CS Entry Request at 1.243301 by thread 14
+10th CS Exit Request at 1.260503 by thread 7
+10th CS Exit at 1.260550 by thread 7
+9th CS Entry at 1.260578 by thread 16
+9th CS Exit Request at 1.260772 by thread 16
+9th CS Exit at 1.260776 by thread 16
+10th CS Entry at 1.260778 by thread 1
+10th CS Exit Request at 1.262450 by thread 1
+10th CS Exit at 1.262460 by thread 1
+10th CS Entry Request at 1.262742 by thread 16
+11th CS Entry Request at 1.264236 by thread 7
+10th CS Entry at 1.264416 by thread 12
+11th CS Entry Request at 1.266474 by thread 1
+10th CS Exit Request at 1.280250 by thread 12
+10th CS Exit at 1.280277 by thread 12
+11th CS Entry at 1.280279 by thread 3
+11th CS Exit Request at 1.281458 by thread 3
+11th CS Exit at 1.281481 by thread 3
+9th CS Entry at 1.281483 by thread 9
+11th CS Entry Request at 1.282086 by thread 12
+9th CS Exit Request at 1.300247 by thread 9
+9th CS Exit at 1.300297 by thread 9
+12th CS Entry Request at 1.300252 by thread 3
+10th CS Entry Request at 1.300433 by thread 9
+9th CS Entry at 1.300300 by thread 10
+9th CS Exit Request at 1.301572 by thread 10
+9th CS Exit at 1.301578 by thread 10
+10th CS Entry at 1.301580 by thread 5
+10th CS Exit Request at 1.301887 by thread 5
+10th CS Exit at 1.301898 by thread 5
+10th CS Entry at 1.301907 by thread 8
+11th CS Entry Request at 1.302115 by thread 5
+10th CS Entry Request at 1.302135 by thread 10
+10th CS Exit Request at 1.320256 by thread 8
+10th CS Exit at 1.320291 by thread 8
+11th CS Entry at 1.320752 by thread 2
+11th CS Entry Request at 1.321939 by thread 8
+11th CS Exit Request at 1.322004 by thread 2
+11th CS Exit at 1.322010 by thread 2
+8th CS Entry at 1.322012 by thread 15
+8th CS Exit Request at 1.326567 by thread 15
+8th CS Exit at 1.326705 by thread 15
+9th CS Entry Request at 1.327377 by thread 15
+12th CS Entry Request at 1.328486 by thread 2
+11th CS Entry at 1.326707 by thread 6
+11th CS Exit Request at 1.342864 by thread 6
+11th CS Exit at 1.342881 by thread 6
+10th CS Entry at 1.342883 by thread 11
+12th CS Entry Request at 1.343464 by thread 6
+10th CS Exit Request at 1.344442 by thread 11
+10th CS Exit at 1.344463 by thread 11
+10th CS Entry at 1.344464 by thread 16
+11th CS Entry Request at 1.345225 by thread 11
+10th CS Exit Request at 1.360260 by thread 16
+10th CS Exit at 1.360295 by thread 16
+11th CS Entry at 1.360297 by thread 4
+11th CS Exit Request at 1.360732 by thread 4
+11th CS Exit at 1.360754 by thread 4
+10th CS Entry at 1.360756 by thread 13
+10th CS Exit Request at 1.361092 by thread 13
+10th CS Exit at 1.361105 by thread 13
+11th CS Entry Request at 1.361098 by thread 16
+11th CS Entry at 1.361107 by thread 7
+11th CS Exit Request at 1.361301 by thread 7
+11th CS Exit at 1.361307 by thread 7
+10th CS Entry at 1.361309 by thread 14
+10th CS Exit Request at 1.361794 by thread 14
+10th CS Exit at 1.361801 by thread 14
+10th CS Entry at 1.361802 by thread 9
+12th CS Entry Request at 1.362308 by thread 4
+12th CS Entry Request at 1.363032 by thread 7
+11th CS Entry Request at 1.363091 by thread 13
+11th CS Entry Request at 1.364633 by thread 14
+10th CS Exit Request at 1.380234 by thread 9
+10th CS Exit at 1.380249 by thread 9
+11th CS Entry at 1.380251 by thread 1
+11th CS Exit Request at 1.381251 by thread 1
+11th CS Exit at 1.381264 by thread 1
+11th CS Entry at 1.381266 by thread 5
+11th CS Exit Request at 1.382813 by thread 5
+11th CS Exit at 1.382826 by thread 5
+12th CS Entry at 1.382827 by thread 3
+11th CS Entry Request at 1.382974 by thread 9
+12th CS Entry Request at 1.383600 by thread 5
+12th CS Entry Request at 1.386744 by thread 1
+12th CS Exit Request at 1.400247 by thread 3
+12th CS Exit at 1.400301 by thread 3
+11th CS Entry at 1.400303 by thread 12
+13th CS Entry Request at 1.400918 by thread 3
+11th CS Exit Request at 1.404528 by thread 12
+11th CS Exit at 1.404539 by thread 12
+10th CS Entry at 1.404573 by thread 10
+12th CS Entry Request at 1.405855 by thread 12
+10th CS Exit Request at 1.420273 by thread 10
+10th CS Exit at 1.420383 by thread 10
+9th CS Entry at 1.420387 by thread 15
+11th CS Entry Request at 1.424856 by thread 10
+9th CS Exit Request at 1.440243 by thread 15
+9th CS Exit at 1.440276 by thread 15
+11th CS Entry at 1.440277 by thread 8
+11th CS Exit Request at 1.440412 by thread 8
+11th CS Exit at 1.440418 by thread 8
+12th CS Entry Request at 1.441180 by thread 8
+12th CS Entry at 1.440421 by thread 6
+12th CS Exit Request at 1.445586 by thread 6
+12th CS Exit at 1.445662 by thread 6
+10th CS Entry Request at 1.445617 by thread 15
+12th CS Entry at 1.445664 by thread 4
+13th CS Entry Request at 1.445934 by thread 6
+12th CS Exit Request at 1.455517 by thread 4
+12th CS Exit at 1.455541 by thread 4
+12th CS Entry at 1.456072 by thread 2
+13th CS Entry Request at 1.460550 by thread 4
+12th CS Exit Request at 1.470252 by thread 2
+12th CS Exit at 1.470285 by thread 2
+11th CS Entry at 1.471546 by thread 16
+13th CS Entry Request at 1.472328 by thread 2
+11th CS Exit Request at 1.490240 by thread 16
+11th CS Exit at 1.490267 by thread 16
+12th CS Entry Request at 1.490964 by thread 16
+11th CS Entry at 1.490269 by thread 11
+11th CS Exit Request at 1.511212 by thread 11
+11th CS Exit at 1.511223 by thread 11
+12th CS Entry Request at 1.513407 by thread 11
+12th CS Entry at 1.511225 by thread 7
+12th CS Exit Request at 1.532210 by thread 7
+12th CS Exit at 1.532222 by thread 7
+11th CS Entry at 1.532224 by thread 14
+13th CS Entry Request at 1.533407 by thread 7
+11th CS Exit Request at 1.535312 by thread 14
+11th CS Exit at 1.535316 by thread 14
+11th CS Entry at 1.535318 by thread 13
+12th CS Entry Request at 1.537788 by thread 14
+11th CS Exit Request at 1.550242 by thread 13
+11th CS Exit at 1.550263 by thread 13
+12th CS Entry at 1.550646 by thread 1
+12th CS Entry Request at 1.552762 by thread 13
+12th CS Exit Request at 1.552790 by thread 1
+12th CS Exit at 1.552802 by thread 1
+13th CS Entry Request at 1.570246 by thread 1
+11th CS Entry at 1.570920 by thread 9
+11th CS Exit Request at 1.572612 by thread 9
+11th CS Exit at 1.572625 by thread 9
+13th CS Entry at 1.572628 by thread 3
+13th CS Exit Request at 1.573589 by thread 3
+13th CS Exit at 1.573599 by thread 3
+11th CS Entry at 1.573643 by thread 10
+12th CS Entry Request at 1.576497 by thread 9
+11th CS Exit Request at 1.578734 by thread 10
+11th CS Exit at 1.578753 by thread 10
+10th CS Entry at 1.578794 by thread 15
+12th CS Entry Request at 1.579505 by thread 10
+14th CS Entry Request at 1.590249 by thread 3
+10th CS Exit Request at 1.600243 by thread 15
+10th CS Exit at 1.600267 by thread 15
+11th CS Entry Request at 1.601338 by thread 15
+12th CS Entry at 1.600269 by thread 5
+12th CS Exit Request at 1.615718 by thread 5
+12th CS Exit at 1.615733 by thread 5
+12th CS Entry at 1.616212 by thread 12
+13th CS Entry Request at 1.619513 by thread 5
+12th CS Exit Request at 1.620631 by thread 12
+12th CS Exit at 1.620641 by thread 12
+13th CS Entry at 1.621015 by thread 6
+13th CS Entry Request at 1.621772 by thread 12
+13th CS Exit Request at 1.622320 by thread 6
+13th CS Exit at 1.622326 by thread 6
+13th CS Entry at 1.622328 by thread 4
+14th CS Entry Request at 1.624049 by thread 6
+13th CS Exit Request at 1.630483 by thread 4
+13th CS Exit at 1.630497 by thread 4
+14th CS Entry Request at 1.631771 by thread 4
+13th CS Entry at 1.630500 by thread 2
+13th CS Exit Request at 1.651655 by thread 2
+13th CS Exit at 1.651663 by thread 2
+12th CS Entry at 1.651665 by thread 16
+12th CS Exit Request at 1.653379 by thread 16
+12th CS Exit at 1.653391 by thread 16
+12th CS Entry at 1.653393 by thread 8
+14th CS Entry Request at 1.653816 by thread 2
+13th CS Entry Request at 1.655338 by thread 16
+12th CS Exit Request at 1.670246 by thread 8
+12th CS Exit at 1.670277 by thread 8
+13th CS Entry Request at 1.671710 by thread 8
+12th CS Entry at 1.670279 by thread 11
+12th CS Exit Request at 1.691091 by thread 11
+12th CS Exit at 1.691110 by thread 11
+12th CS Entry at 1.691112 by thread 13
+13th CS Entry Request at 1.694177 by thread 11
+12th CS Exit Request at 1.710246 by thread 13
+12th CS Exit at 1.710274 by thread 13
+12th CS Entry at 1.710291 by thread 14
+12th CS Exit Request at 1.711800 by thread 14
+12th CS Exit at 1.711809 by thread 14
+13th CS Entry at 1.711812 by thread 1
+13th CS Exit Request at 1.713402 by thread 1
+13th CS Exit at 1.713416 by thread 1
+13th CS Entry at 1.713418 by thread 7
+13th CS Exit Request at 1.714116 by thread 7
+13th CS Exit at 1.714123 by thread 7
+12th CS Entry at 1.714124 by thread 10
+14th CS Entry Request at 1.714524 by thread 7
+13th CS Entry Request at 1.714749 by thread 13
+12th CS Exit Request at 1.714775 by thread 10
+12th CS Exit at 1.714785 by thread 10
+13th CS Entry at 1.714788 by thread 5
+13th CS Entry Request at 1.714957 by thread 14
+13th CS Exit Request at 1.715028 by thread 5
+13th CS Exit at 1.715035 by thread 5
+12th CS Entry at 1.715038 by thread 9
+14th CS Entry Request at 1.719209 by thread 1
+13th CS Entry Request at 1.728804 by thread 10
+14th CS Entry Request at 1.730241 by thread 5
+12th CS Exit Request at 1.730251 by thread 9
+12th CS Exit at 1.730283 by thread 9
+14th CS Entry at 1.730718 by thread 3
+14th CS Exit Request at 1.730984 by thread 3
+14th CS Exit at 1.731059 by thread 3
+13th CS Entry at 1.731061 by thread 12
+13th CS Entry Request at 1.731407 by thread 9
+13th CS Exit Request at 1.732231 by thread 12
+13th CS Exit at 1.732238 by thread 12
+11th CS Entry at 1.732240 by thread 15
+11th CS Exit Request at 1.732652 by thread 15
+11th CS Exit at 1.732658 by thread 15
+14th CS Entry at 1.732660 by thread 6
+12th CS Entry Request at 1.734135 by thread 15
+14th CS Entry Request at 1.734320 by thread 12
+14th CS Exit Request at 1.734622 by thread 6
+14th CS Exit at 1.734629 by thread 6
+14th CS Entry at 1.734632 by thread 2
+15th CS Entry Request at 1.735270 by thread 6
+15th CS Entry Request at 1.736092 by thread 3
+14th CS Exit Request at 1.750327 by thread 2
+14th CS Exit at 1.750347 by thread 2
+13th CS Entry at 1.750349 by thread 8
+13th CS Exit Request at 1.750464 by thread 8
+13th CS Exit at 1.750472 by thread 8
+14th CS Entry at 1.750473 by thread 4
+14th CS Exit Request at 1.751226 by thread 4
+14th CS Exit at 1.751258 by thread 4
+14th CS Entry at 1.751260 by thread 7
+15th CS Entry Request at 1.751946 by thread 4
+15th CS Entry Request at 1.752636 by thread 2
+14th CS Entry Request at 1.753794 by thread 8
+14th CS Exit Request at 1.770242 by thread 7
+14th CS Exit at 1.770276 by thread 7
+13th CS Entry at 1.770809 by thread 13
+15th CS Entry Request at 1.771997 by thread 7
+13th CS Exit Request at 1.790242 by thread 13
+13th CS Exit at 1.790270 by thread 13
+13th CS Entry at 1.790272 by thread 11
+14th CS Entry Request at 1.790980 by thread 13
+13th CS Exit Request at 1.810248 by thread 11
+13th CS Exit at 1.810273 by thread 11
+13th CS Entry at 1.810518 by thread 16
+13th CS Exit Request at 1.813585 by thread 16
+13th CS Exit at 1.813607 by thread 16
+14th CS Entry Request at 1.813730 by thread 11
+14th CS Entry Request at 1.813760 by thread 16
+13th CS Entry at 1.830263 by thread 10
+13th CS Exit Request at 1.832569 by thread 10
+13th CS Exit at 1.832607 by thread 10
+14th CS Entry Request at 1.833415 by thread 10
+14th CS Entry at 1.840259 by thread 1
+14th CS Exit Request at 1.842351 by thread 1
+14th CS Exit at 1.842370 by thread 1
+15th CS Entry Request at 1.842726 by thread 1
+14th CS Entry at 1.850272 by thread 5
+14th CS Exit Request at 1.851600 by thread 5
+14th CS Exit at 1.851615 by thread 5
+15th CS Entry Request at 1.855730 by thread 5
+13th CS Entry at 1.859616 by thread 9
+13th CS Exit Request at 1.862936 by thread 9
+13th CS Exit at 1.863095 by thread 9
+13th CS Entry at 1.863097 by thread 14
+13th CS Exit Request at 1.864739 by thread 14
+13th CS Exit at 1.864751 by thread 14
+15th CS Entry at 1.864801 by thread 6
+14th CS Entry Request at 1.864983 by thread 9
+14th CS Entry Request at 1.867151 by thread 14
+15th CS Exit Request at 1.880270 by thread 6
+15th CS Exit at 1.880307 by thread 6
+15th CS Entry at 1.880792 by thread 3
+15th CS Exit Request at 1.881215 by thread 3
+15th CS Exit at 1.881443 by thread 3
+16th CS Entry Request at 1.881564 by thread 6
+16th CS Entry Request at 1.882241 by thread 3
+12th CS Entry at 1.881445 by thread 15
+12th CS Exit Request at 1.900266 by thread 15
+12th CS Exit at 1.900301 by thread 15
+13th CS Entry Request at 1.901388 by thread 15
+15th CS Entry at 1.920256 by thread 7
+15th CS Exit Request at 1.921228 by thread 7
+15th CS Exit at 1.921246 by thread 7
+16th CS Entry Request at 1.926472 by thread 7
+15th CS Entry at 1.930259 by thread 4
+15th CS Exit Request at 1.931035 by thread 4
+15th CS Exit at 1.931043 by thread 4
+16th CS Entry Request at 1.934151 by thread 4
+14th CS Entry at 1.940274 by thread 12
+14th CS Exit Request at 1.960241 by thread 12
+14th CS Exit at 1.960279 by thread 12
+15th CS Entry Request at 1.966981 by thread 12
+14th CS Entry at 1.980261 by thread 16
+14th CS Exit Request at 1.990243 by thread 16
+14th CS Exit at 1.990279 by thread 16
+15th CS Entry at 1.990281 by thread 2
+15th CS Entry Request at 1.990587 by thread 16
+15th CS Exit Request at 1.991438 by thread 2
+15th CS Exit at 1.991453 by thread 2
+16th CS Entry Request at 1.995547 by thread 2
+14th CS Entry at 1.991455 by thread 8
+14th CS Exit Request at 2.010734 by thread 8
+14th CS Exit at 2.010747 by thread 8
+14th CS Entry at 2.010756 by thread 11
+14th CS Exit Request at 2.013461 by thread 11
+14th CS Exit at 2.013469 by thread 11
+15th CS Entry Request at 2.014787 by thread 11
+15th CS Entry Request at 2.018401 by thread 8
+14th CS Entry at 2.020973 by thread 10
+14th CS Exit Request at 2.022470 by thread 10
+14th CS Exit at 2.022483 by thread 10
+15th CS Entry at 2.022571 by thread 1
+15th CS Entry Request at 2.023804 by thread 10
+15th CS Exit Request at 2.023948 by thread 1
+15th CS Exit at 2.023955 by thread 1
+14th CS Entry at 2.024200 by thread 13
+14th CS Exit Request at 2.024891 by thread 13
+14th CS Exit at 2.024894 by thread 13
+14th CS Entry at 2.024897 by thread 9
+16th CS Entry Request at 2.025242 by thread 1
+15th CS Entry Request at 2.025831 by thread 13
+14th CS Exit Request at 2.040276 by thread 9
+14th CS Exit at 2.040468 by thread 9
+15th CS Entry Request at 2.043628 by thread 9
+16th CS Entry at 2.050286 by thread 6
+16th CS Exit Request at 2.051362 by thread 6
+16th CS Exit at 2.051374 by thread 6
+16th CS Entry at 2.051377 by thread 3
+17th CS Entry Request at 2.052189 by thread 6
+16th CS Exit Request at 2.054741 by thread 3
+16th CS Exit at 2.054749 by thread 3
+16th CS Entry at 2.054752 by thread 4
+16th CS Exit Request at 2.060483 by thread 4
+16th CS Exit at 2.060495 by thread 4
+14th CS Entry at 2.060498 by thread 14
+17th CS Entry Request at 2.060500 by thread 3
+14th CS Exit Request at 2.061027 by thread 14
+14th CS Exit at 2.061038 by thread 14
+15th CS Entry Request at 2.062115 by thread 14
+17th CS Entry Request at 2.066610 by thread 4
+15th CS Entry at 2.080264 by thread 5
+15th CS Exit Request at 2.081831 by thread 5
+15th CS Exit at 2.081847 by thread 5
+16th CS Entry Request at 2.085815 by thread 5
+16th CS Entry at 2.081850 by thread 7
+16th CS Exit Request at 2.093010 by thread 7
+16th CS Exit at 2.093041 by thread 7
+15th CS Entry at 2.093057 by thread 12
+15th CS Exit Request at 2.093434 by thread 12
+15th CS Exit at 2.093450 by thread 12
+17th CS Entry Request at 2.093529 by thread 7
+15th CS Entry at 2.093452 by thread 9
+16th CS Entry Request at 2.110254 by thread 12
+15th CS Exit Request at 2.110257 by thread 9
+15th CS Exit at 2.110301 by thread 9
+15th CS Entry at 2.110303 by thread 11
+15th CS Exit Request at 2.110433 by thread 11
+15th CS Exit at 2.110438 by thread 11
+17th CS Entry at 2.110440 by thread 6
+16th CS Entry Request at 2.110721 by thread 9
+17th CS Exit Request at 2.111129 by thread 6
+17th CS Exit at 2.111135 by thread 6
+16th CS Entry Request at 2.112366 by thread 11
+13th CS Entry at 2.112948 by thread 15
+18th CS Entry Request at 2.113192 by thread 6
+13th CS Exit Request at 2.121773 by thread 15
+13th CS Exit at 2.121801 by thread 15
+15th CS Entry at 2.124925 by thread 8
+15th CS Exit Request at 2.130253 by thread 8
+15th CS Exit at 2.130272 by thread 8
+15th CS Entry at 2.140317 by thread 16
+16th CS Entry Request at 2.140317 by thread 8
+14th CS Entry Request at 2.140317 by thread 15
+15th CS Exit Request at 2.153555 by thread 16
+15th CS Exit at 2.153614 by thread 16
+16th CS Entry at 2.153628 by thread 1
+16th CS Entry Request at 2.167486 by thread 16
+16th CS Exit Request at 2.180273 by thread 1
+16th CS Exit at 2.180328 by thread 1
+15th CS Entry at 2.180331 by thread 13
+17th CS Entry Request at 2.190898 by thread 1
+15th CS Exit Request at 2.191594 by thread 13
+15th CS Exit at 2.191761 by thread 13
+15th CS Entry at 2.193328 by thread 10
+15th CS Exit Request at 2.193700 by thread 10
+15th CS Exit at 2.193711 by thread 10
+17th CS Entry at 2.193713 by thread 3
+16th CS Entry Request at 2.194360 by thread 13
+16th CS Entry Request at 2.198004 by thread 10
+17th CS Exit Request at 2.210835 by thread 3
+17th CS Exit at 2.210841 by thread 3
+15th CS Entry at 2.211295 by thread 14
+18th CS Entry Request at 2.211795 by thread 3
+15th CS Exit Request at 2.230318 by thread 14
+15th CS Exit at 2.230353 by thread 14
+16th CS Entry Request at 2.231125 by thread 14
+17th CS Entry at 2.231727 by thread 4
+17th CS Exit Request at 2.250272 by thread 4
+17th CS Exit at 2.250309 by thread 4
+16th CS Entry at 2.250312 by thread 12
+18th CS Entry Request at 2.252490 by thread 4
+16th CS Exit Request at 2.260569 by thread 12
+16th CS Exit at 2.260693 by thread 12
+16th CS Entry at 2.260842 by thread 2
+17th CS Entry Request at 2.270265 by thread 12
+16th CS Exit Request at 2.270345 by thread 2
+16th CS Exit at 2.270363 by thread 2
+17th CS Entry Request at 2.270922 by thread 2
+16th CS Entry at 2.279952 by thread 9
+16th CS Exit Request at 2.281074 by thread 9
+16th CS Exit at 2.281091 by thread 9
+17th CS Entry Request at 2.282958 by thread 9
+16th CS Entry at 2.281093 by thread 5
+16th CS Exit Request at 2.300688 by thread 5
+16th CS Exit at 2.300703 by thread 5
+17th CS Entry Request at 2.300802 by thread 5
+17th CS Entry at 2.300705 by thread 7
+17th CS Exit Request at 2.320571 by thread 7
+17th CS Exit at 2.320577 by thread 7
+16th CS Entry at 2.320579 by thread 11
+18th CS Entry Request at 2.320943 by thread 7
+16th CS Exit Request at 2.322589 by thread 11
+16th CS Exit at 2.322608 by thread 11
+18th CS Entry at 2.322610 by thread 6
+18th CS Exit Request at 2.323255 by thread 6
+18th CS Exit at 2.323262 by thread 6
+14th CS Entry at 2.323270 by thread 15
+17th CS Entry Request at 2.323605 by thread 11
+19th CS Entry Request at 2.326438 by thread 6
+14th CS Exit Request at 2.340259 by thread 15
+14th CS Exit at 2.340291 by thread 15
+18th CS Entry at 2.340293 by thread 3
+15th CS Entry Request at 2.341998 by thread 15
+18th CS Exit Request at 2.342834 by thread 3
+18th CS Exit at 2.342838 by thread 3
+19th CS Entry Request at 2.345104 by thread 3
+16th CS Entry at 2.350251 by thread 8
+16th CS Exit Request at 2.360331 by thread 8
+16th CS Exit at 2.360369 by thread 8
+17th CS Entry at 2.360446 by thread 12
+17th CS Entry Request at 2.362203 by thread 8
+17th CS Exit Request at 2.362249 by thread 12
+17th CS Exit at 2.362263 by thread 12
+18th CS Entry Request at 2.366015 by thread 12
+16th CS Entry at 2.362265 by thread 13
+16th CS Exit Request at 2.381037 by thread 13
+16th CS Exit at 2.381044 by thread 13
+17th CS Entry Request at 2.385104 by thread 13
+16th CS Entry at 2.400254 by thread 14
+16th CS Exit Request at 2.401058 by thread 14
+16th CS Exit at 2.401072 by thread 14
+18th CS Entry at 2.401074 by thread 4
+18th CS Exit Request at 2.402409 by thread 4
+18th CS Exit at 2.402419 by thread 4
+16th CS Entry at 2.402421 by thread 16
+17th CS Entry Request at 2.403582 by thread 14
+19th CS Entry Request at 2.403731 by thread 4
+16th CS Exit Request at 2.404819 by thread 16
+16th CS Exit at 2.404827 by thread 16
+17th CS Entry Request at 2.408598 by thread 16
+16th CS Entry at 2.420465 by thread 10
+16th CS Exit Request at 2.423160 by thread 10
+16th CS Exit at 2.423202 by thread 10
+17th CS Entry at 2.423354 by thread 11
+17th CS Exit Request at 2.424317 by thread 11
+17th CS Exit at 2.424328 by thread 11
+17th CS Entry Request at 2.424421 by thread 10
+18th CS Entry Request at 2.430585 by thread 11
+17th CS Entry at 2.424459 by thread 1
+17th CS Exit Request at 2.442617 by thread 1
+17th CS Exit at 2.442631 by thread 1
+19th CS Entry at 2.442634 by thread 6
+19th CS Exit Request at 2.442763 by thread 6
+19th CS Exit at 2.442769 by thread 6
+20th CS Entry Request at 2.446946 by thread 6
+18th CS Entry Request at 2.447567 by thread 1
+17th CS Entry at 2.460256 by thread 2
+17th CS Exit Request at 2.461558 by thread 2
+17th CS Exit at 2.461570 by thread 2
+17th CS Entry at 2.461573 by thread 9
+18th CS Entry Request at 2.462101 by thread 2
+17th CS Exit Request at 2.470611 by thread 9
+17th CS Exit at 2.470640 by thread 9
+17th CS Entry at 2.470643 by thread 5
+18th CS Entry Request at 2.471198 by thread 9
+17th CS Exit Request at 2.471928 by thread 5
+17th CS Exit at 2.472037 by thread 5
+18th CS Entry Request at 2.474830 by thread 5
+17th CS Entry at 2.490257 by thread 8
+17th CS Exit Request at 2.510296 by thread 8
+17th CS Exit at 2.510381 by thread 8
+18th CS Entry Request at 2.512179 by thread 8
+18th CS Entry at 2.530266 by thread 12
+18th CS Exit Request at 2.532881 by thread 12
+18th CS Exit at 2.532895 by thread 12
+19th CS Entry at 2.532897 by thread 3
+19th CS Exit Request at 2.533242 by thread 3
+19th CS Exit at 2.533265 by thread 3
+18th CS Entry at 2.533268 by thread 7
+19th CS Entry Request at 2.533256 by thread 12
+18th CS Exit Request at 2.534425 by thread 7
+18th CS Exit at 2.534499 by thread 7
+20th CS Entry Request at 2.534486 by thread 3
+19th CS Entry Request at 2.535551 by thread 7
+19th CS Entry at 2.534502 by thread 4
+19th CS Exit Request at 2.550746 by thread 4
+19th CS Exit at 2.550867 by thread 4
+15th CS Entry at 2.550925 by thread 15
+15th CS Exit Request at 2.552095 by thread 15
+15th CS Exit at 2.552158 by thread 15
+16th CS Entry Request at 2.556669 by thread 15
+20th CS Entry Request at 2.557881 by thread 4
+17th CS Entry at 2.560247 by thread 16
+17th CS Exit Request at 2.565140 by thread 16
+17th CS Exit at 2.565160 by thread 16
+18th CS Entry Request at 2.565233 by thread 16
+17th CS Entry at 2.570350 by thread 13
+17th CS Exit Request at 2.572453 by thread 13
+17th CS Exit at 2.572487 by thread 13
+17th CS Entry at 2.572489 by thread 14
+18th CS Entry Request at 2.572973 by thread 13
+17th CS Exit Request at 2.590273 by thread 14
+17th CS Exit at 2.590322 by thread 14
+17th CS Entry at 2.590325 by thread 10
+17th CS Exit Request at 2.590695 by thread 10
+17th CS Exit at 2.590701 by thread 10
+20th CS Entry at 2.590711 by thread 6
+18th CS Entry Request at 2.592143 by thread 10
+18th CS Entry Request at 2.594119 by thread 14
+20th CS Exit Request at 2.610257 by thread 6
+20th CS Exit at 2.610403 by thread 6
+18th CS Entry at 2.610406 by thread 11
+21th CS Entry Request at 2.616951 by thread 6
+18th CS Exit Request at 2.619046 by thread 11
+18th CS Exit at 2.619073 by thread 11
+18th CS Entry at 2.619076 by thread 9
+19th CS Entry Request at 2.622010 by thread 11
+18th CS Exit Request at 2.640324 by thread 9
+18th CS Exit at 2.640413 by thread 9
+18th CS Entry at 2.640418 by thread 2
+19th CS Entry Request at 2.644174 by thread 9
+18th CS Exit Request at 2.660272 by thread 2
+18th CS Exit at 2.660326 by thread 2
+19th CS Entry at 2.660350 by thread 12
+19th CS Entry Request at 2.660828 by thread 2
+19th CS Exit Request at 2.680261 by thread 12
+19th CS Exit at 2.680295 by thread 12
+18th CS Entry at 2.680316 by thread 5
+20th CS Entry Request at 2.685716 by thread 12
+18th CS Exit Request at 2.700366 by thread 5
+18th CS Exit at 2.701100 by thread 5
+19th CS Entry Request at 2.701794 by thread 5
+18th CS Entry at 2.701100 by thread 8
+18th CS Exit Request at 2.711177 by thread 8
+18th CS Exit at 2.711189 by thread 8
+19th CS Entry Request at 2.714371 by thread 8
+18th CS Entry at 2.724053 by thread 1
+18th CS Exit Request at 2.728561 by thread 1
+18th CS Exit at 2.728580 by thread 1
+20th CS Entry at 2.728583 by thread 3
+20th CS Exit Request at 2.729098 by thread 3
+20th CS Exit at 2.729116 by thread 3
+19th CS Entry at 2.729119 by thread 7
+19th CS Entry Request at 2.729290 by thread 1
+21th CS Entry Request at 2.731030 by thread 3
+19th CS Exit Request at 2.750277 by thread 7
+19th CS Exit at 2.750377 by thread 7
+20th CS Entry at 2.750692 by thread 4
+20th CS Entry Request at 2.751314 by thread 7
+20th CS Exit Request at 2.752040 by thread 4
+20th CS Exit at 2.752049 by thread 4
+18th CS Entry at 2.752051 by thread 16
+18th CS Exit Request at 2.752643 by thread 16
+18th CS Exit at 2.752651 by thread 16
+16th CS Entry at 2.752652 by thread 15
+19th CS Entry Request at 2.753712 by thread 16
+21th CS Entry Request at 2.754535 by thread 4
+16th CS Exit Request at 2.780251 by thread 15
+16th CS Exit at 2.780280 by thread 15
+17th CS Entry Request at 2.780751 by thread 15
+18th CS Entry at 2.780283 by thread 13
+18th CS Exit Request at 2.802006 by thread 13
+18th CS Exit at 2.802039 by thread 13
+18th CS Entry at 2.802990 by thread 14
+19th CS Entry Request at 2.805333 by thread 13
+18th CS Exit Request at 2.805394 by thread 14
+18th CS Exit at 2.805404 by thread 14
+19th CS Entry at 2.805406 by thread 9
+19th CS Exit Request at 2.807865 by thread 9
+19th CS Exit at 2.807877 by thread 9
+19th CS Entry at 2.807974 by thread 5
+20th CS Entry Request at 2.813444 by thread 9
+19th CS Exit Request at 2.820260 by thread 5
+19th CS Exit at 2.820300 by thread 5
+19th CS Entry Request at 2.820260 by thread 14
+19th CS Entry at 2.823010 by thread 11
+20th CS Entry Request at 2.823708 by thread 5
+19th CS Exit Request at 2.830781 by thread 11
+19th CS Exit at 2.830802 by thread 11
+21th CS Entry at 2.831697 by thread 6
+21th CS Exit Request at 2.832830 by thread 6
+21th CS Exit at 2.832844 by thread 6
+19th CS Entry at 2.832860 by thread 2
+19th CS Exit Request at 2.832981 by thread 2
+19th CS Exit at 2.833005 by thread 2
+21th CS Entry at 2.833008 by thread 3
+20th CS Entry Request at 2.833047 by thread 11
+20th CS Entry Request at 2.833522 by thread 2
+21th CS Exit Request at 2.834524 by thread 3
+21th CS Exit at 2.834619 by thread 3
+22th CS Entry Request at 2.837753 by thread 3
+22th CS Entry Request at 2.838107 by thread 6
+19th CS Entry at 2.840248 by thread 8
+19th CS Exit Request at 2.842091 by thread 8
+19th CS Exit at 2.842171 by thread 8
+18th CS Entry at 2.842174 by thread 10
+20th CS Entry Request at 2.844263 by thread 8
+18th CS Exit Request at 2.844380 by thread 10
+18th CS Exit at 2.844387 by thread 10
+21th CS Entry at 2.844389 by thread 4
+19th CS Entry Request at 2.844524 by thread 10
+21th CS Exit Request at 2.870258 by thread 4
+21th CS Exit at 2.870292 by thread 4
+19th CS Entry at 2.870295 by thread 13
+19th CS Exit Request at 2.870600 by thread 13
+19th CS Exit at 2.870671 by thread 13
+20th CS Entry Request at 2.871440 by thread 13
+22th CS Entry Request at 2.873190 by thread 4
+19th CS Entry at 2.890290 by thread 1
+19th CS Exit Request at 2.890735 by thread 1
+19th CS Exit at 2.890741 by thread 1
+20th CS Entry Request at 2.891059 by thread 1
+20th CS Entry at 2.900248 by thread 12
+20th CS Exit Request at 2.901601 by thread 12
+20th CS Exit at 2.901609 by thread 12
+21th CS Entry Request at 2.904592 by thread 12
+20th CS Entry at 2.910264 by thread 7
+20th CS Exit Request at 2.920261 by thread 7
+20th CS Exit at 2.920287 by thread 7
+21th CS Entry Request at 2.930253 by thread 7
+17th CS Entry at 2.940304 by thread 15
+17th CS Exit Request at 2.943846 by thread 15
+17th CS Exit at 2.943873 by thread 15
+18th CS Entry Request at 2.946737 by thread 15
+20th CS Entry at 2.960265 by thread 9
+20th CS Exit Request at 2.979057 by thread 9
+20th CS Exit at 2.979312 by thread 9
+21th CS Entry Request at 2.980198 by thread 9
+19th CS Entry at 2.979313 by thread 16
+19th CS Exit Request at 2.990685 by thread 16
+19th CS Exit at 2.990706 by thread 16
+20th CS Entry Request at 2.993242 by thread 16
+19th CS Entry at 3.000252 by thread 14
+19th CS Exit Request at 3.001134 by thread 14
+19th CS Exit at 3.001164 by thread 14
+20th CS Entry Request at 3.002001 by thread 14
+20th CS Entry at 3.020254 by thread 5
+20th CS Exit Request at 3.020653 by thread 5
+20th CS Exit at 3.020658 by thread 5
+22th CS Entry at 3.020661 by thread 6
+21th CS Entry Request at 3.021736 by thread 5
+22th CS Exit Request at 3.040283 by thread 6
+22th CS Exit at 3.040336 by thread 6
+23th CS Entry Request at 3.042263 by thread 6
+20th CS Entry at 3.060255 by thread 11
+20th CS Exit Request at 3.060598 by thread 11
+20th CS Exit at 3.060608 by thread 11
+21th CS Entry Request at 3.061181 by thread 11
+20th CS Entry at 3.080265 by thread 8
+20th CS Exit Request at 3.081169 by thread 8
+20th CS Exit at 3.081182 by thread 8
+19th CS Entry at 3.081184 by thread 10
+21th CS Entry Request at 3.081949 by thread 8
+19th CS Exit Request at 3.100248 by thread 10
+19th CS Exit at 3.100285 by thread 10
+20th CS Entry at 3.100288 by thread 13
+20th CS Entry Request at 3.104076 by thread 10
+20th CS Exit Request at 3.106555 by thread 13
+20th CS Exit at 3.106567 by thread 13
+21th CS Entry Request at 3.107040 by thread 13
+20th CS Entry at 3.120240 by thread 2
+20th CS Exit Request at 3.123157 by thread 2
+20th CS Exit at 3.123176 by thread 2
+22th CS Entry at 3.123178 by thread 3
+21th CS Entry Request at 3.126014 by thread 2
+22th CS Exit Request at 3.126817 by thread 3
+22th CS Exit at 3.126835 by thread 3
+23th CS Entry Request at 3.127014 by thread 3
+22th CS Entry at 3.126837 by thread 4
+22th CS Exit Request at 3.140616 by thread 4
+22th CS Exit at 3.140626 by thread 4
+20th CS Entry at 3.140629 by thread 1
+23th CS Entry Request at 3.141397 by thread 4
+20th CS Exit Request at 3.144209 by thread 1
+20th CS Exit at 3.144325 by thread 1
+21th CS Entry at 3.144327 by thread 7
+21th CS Entry Request at 3.150253 by thread 1
+21th CS Exit Request at 3.160297 by thread 7
+21th CS Exit at 3.160400 by thread 7
+22th CS Entry Request at 3.160670 by thread 7
+21th CS Entry at 3.167832 by thread 9
+21th CS Exit Request at 3.177801 by thread 9
+21th CS Exit at 3.177978 by thread 9
+18th CS Entry at 3.179443 by thread 15
+22th CS Entry Request at 3.190253 by thread 9
+18th CS Exit Request at 3.200240 by thread 15
+18th CS Exit at 3.200378 by thread 15
+21th CS Entry at 3.200379 by thread 12
+19th CS Entry Request at 3.201154 by thread 15
+21th CS Exit Request at 3.201592 by thread 12
+21th CS Exit at 3.201602 by thread 12
+20th CS Entry at 3.201604 by thread 14
+20th CS Exit Request at 3.205862 by thread 14
+20th CS Exit at 3.205893 by thread 14
+21th CS Entry at 3.206335 by thread 5
+21th CS Entry Request at 3.207235 by thread 14
+21th CS Exit Request at 3.208399 by thread 5
+21th CS Exit at 3.208416 by thread 5
+23th CS Entry at 3.208629 by thread 6
+22th CS Entry Request at 3.211562 by thread 5
+23th CS Exit Request at 3.212149 by thread 6
+23th CS Exit at 3.212157 by thread 6
+20th CS Entry at 3.212159 by thread 16
+24th CS Entry Request at 3.213079 by thread 6
+22th CS Entry Request at 3.220250 by thread 12
+20th CS Exit Request at 3.230254 by thread 16
+20th CS Exit at 3.230303 by thread 16
+21th CS Entry at 3.230937 by thread 1
+21th CS Exit Request at 3.231646 by thread 1
+21th CS Exit at 3.231650 by thread 1
+20th CS Entry at 3.231653 by thread 10
+22th CS Entry Request at 3.233814 by thread 1
+21th CS Entry Request at 3.233855 by thread 16
+20th CS Exit Request at 3.251478 by thread 10
+20th CS Exit at 3.251579 by thread 10
+21th CS Entry at 3.251582 by thread 11
+21th CS Exit Request at 3.253119 by thread 11
+21th CS Exit at 3.253148 by thread 11
+21th CS Entry Request at 3.253135 by thread 10
+22th CS Entry Request at 3.253282 by thread 11
+21th CS Entry at 3.270688 by thread 8
+21th CS Exit Request at 3.271669 by thread 8
+21th CS Exit at 3.271683 by thread 8
+21th CS Entry at 3.271686 by thread 2
+22th CS Entry Request at 3.276199 by thread 8
+21th CS Exit Request at 3.280268 by thread 2
+21th CS Exit at 3.280285 by thread 2
+22th CS Entry Request at 3.285749 by thread 2
+23th CS Entry at 3.280288 by thread 4
+23th CS Exit Request at 3.300454 by thread 4
+23th CS Exit at 3.300463 by thread 4
+24th CS Entry Request at 3.300724 by thread 4
+23th CS Entry at 3.320267 by thread 3
+23th CS Exit Request at 3.320848 by thread 3
+23th CS Exit at 3.320859 by thread 3
+19th CS Entry at 3.320864 by thread 15
+24th CS Entry Request at 3.324011 by thread 3
+19th CS Exit Request at 3.340265 by thread 15
+19th CS Exit at 3.340304 by thread 15
+21th CS Entry at 3.340553 by thread 14
+20th CS Entry Request at 3.343496 by thread 15
+21th CS Exit Request at 3.350250 by thread 14
+21th CS Exit at 3.350282 by thread 14
+22th CS Entry at 3.350373 by thread 9
+22th CS Entry Request at 3.350811 by thread 14
+22th CS Exit Request at 3.352438 by thread 9
+22th CS Exit at 3.352448 by thread 9
+21th CS Entry at 3.352451 by thread 13
+23th CS Entry Request at 3.352675 by thread 9
+21th CS Exit Request at 3.370246 by thread 13
+21th CS Exit at 3.370278 by thread 13
+22th CS Entry at 3.370640 by thread 7
+22th CS Entry Request at 3.370652 by thread 13
+22th CS Exit Request at 3.390264 by thread 7
+22th CS Exit at 3.390311 by thread 7
+22th CS Entry at 3.390314 by thread 12
+23th CS Entry Request at 3.390468 by thread 7
+22th CS Exit Request at 3.410463 by thread 12
+22th CS Exit at 3.410510 by thread 12
+23th CS Entry Request at 3.412017 by thread 12
+22th CS Entry at 3.420249 by thread 5
+22th CS Exit Request at 3.421884 by thread 5
+22th CS Exit at 3.421902 by thread 5
+23th CS Entry Request at 3.423358 by thread 5
+22th CS Entry at 3.421904 by thread 1
+22th CS Exit Request at 3.440447 by thread 1
+22th CS Exit at 3.440453 by thread 1
+23th CS Entry Request at 3.441840 by thread 1
+21th CS Entry at 3.460269 by thread 10
+21th CS Exit Request at 3.460444 by thread 10
+21th CS Exit at 3.460450 by thread 10
+21th CS Entry at 3.460591 by thread 16
+22th CS Entry Request at 3.460752 by thread 10
+21th CS Exit Request at 3.462834 by thread 16
+21th CS Exit at 3.462842 by thread 16
+22th CS Entry Request at 3.464672 by thread 16
+22th CS Entry at 3.480373 by thread 2
+22th CS Exit Request at 3.481359 by thread 2
+22th CS Exit at 3.481377 by thread 2
+24th CS Entry at 3.481380 by thread 6
+24th CS Exit Request at 3.481741 by thread 6
+24th CS Exit at 3.481759 by thread 6
+22th CS Entry at 3.481762 by thread 11
+22th CS Exit Request at 3.481931 by thread 11
+22th CS Exit at 3.481937 by thread 11
+22th CS Entry at 3.481940 by thread 8
+23th CS Entry Request at 3.482311 by thread 2
+23th CS Entry Request at 3.482321 by thread 11
+25th CS Entry Request at 3.483583 by thread 6
+22th CS Exit Request at 3.500239 by thread 8
+22th CS Exit at 3.500267 by thread 8
+20th CS Entry at 3.500295 by thread 15
+23th CS Entry Request at 3.504949 by thread 8
+20th CS Exit Request at 3.504981 by thread 15
+20th CS Exit at 3.504996 by thread 15
+24th CS Entry at 3.504999 by thread 4
+21th CS Entry Request at 3.506968 by thread 15
+24th CS Exit Request at 3.508229 by thread 4
+24th CS Exit at 3.508287 by thread 4
+25th CS Entry Request at 3.511483 by thread 4
+22th CS Entry at 3.508289 by thread 13
+22th CS Exit Request at 3.528829 by thread 13
+22th CS Exit at 3.528840 by thread 13
+24th CS Entry at 3.528843 by thread 3
+24th CS Exit Request at 3.529875 by thread 3
+24th CS Exit at 3.529889 by thread 3
+23th CS Entry at 3.529905 by thread 7
+23th CS Exit Request at 3.531423 by thread 7
+23th CS Exit at 3.531443 by thread 7
+22th CS Entry at 3.531458 by thread 14
+25th CS Entry Request at 3.531588 by thread 3
+23th CS Entry Request at 3.531791 by thread 13
+24th CS Entry Request at 3.533220 by thread 7
+22th CS Exit Request at 3.550343 by thread 14
+22th CS Exit at 3.550393 by thread 14
+23th CS Entry at 3.551261 by thread 9
+23th CS Exit Request at 3.553068 by thread 9
+23th CS Exit at 3.553077 by thread 9
+23th CS Entry at 3.553079 by thread 12
+23th CS Entry Request at 3.554919 by thread 14
+23th CS Exit Request at 3.555779 by thread 12
+23th CS Exit at 3.555791 by thread 12
+22th CS Entry at 3.555793 by thread 10
+24th CS Entry Request at 3.558968 by thread 12
+24th CS Entry Request at 3.563683 by thread 9
+22th CS Exit Request at 3.570240 by thread 10
+22th CS Exit at 3.570256 by thread 10
+23th CS Entry at 3.570259 by thread 5
+23th CS Exit Request at 3.570393 by thread 5
+23th CS Exit at 3.570401 by thread 5
+24th CS Entry Request at 3.573858 by thread 5
+23th CS Entry Request at 3.575146 by thread 10
+23th CS Entry at 3.570403 by thread 1
+23th CS Exit Request at 3.590849 by thread 1
+23th CS Exit at 3.590858 by thread 1
+23th CS Entry at 3.590860 by thread 2
+24th CS Entry Request at 3.595909 by thread 1
+23th CS Exit Request at 3.600249 by thread 2
+23th CS Exit at 3.600267 by thread 2
+22th CS Entry at 3.600269 by thread 16
+24th CS Entry Request at 3.600428 by thread 2
+22th CS Exit Request at 3.620271 by thread 16
+22th CS Exit at 3.620332 by thread 16
+25th CS Entry at 3.620335 by thread 6
+25th CS Exit Request at 3.621179 by thread 6
+25th CS Exit at 3.621192 by thread 6
+23th CS Entry at 3.621214 by thread 8
+23th CS Entry Request at 3.622621 by thread 16
+23th CS Exit Request at 3.623563 by thread 8
+23th CS Exit at 3.623571 by thread 8
+23th CS Entry at 3.623574 by thread 11
+24th CS Entry Request at 3.630375 by thread 8
+23th CS Exit Request at 3.640285 by thread 11
+23th CS Exit at 3.640326 by thread 11
+24th CS Entry at 3.640329 by thread 7
+24th CS Exit Request at 3.641184 by thread 7
+24th CS Exit at 3.641191 by thread 7
+25th CS Entry at 3.641194 by thread 4
+24th CS Entry Request at 3.645162 by thread 11
+25th CS Exit Request at 3.645474 by thread 4
+25th CS Exit at 3.645481 by thread 4
+23th CS Entry at 3.645483 by thread 13
+23th CS Exit Request at 3.646163 by thread 13
+23th CS Exit at 3.646321 by thread 13
+21th CS Entry at 3.646379 by thread 15
+24th CS Entry Request at 3.646530 by thread 13
+25th CS Entry Request at 3.648045 by thread 7
+21th CS Exit Request at 3.650763 by thread 15
+21th CS Exit at 3.650771 by thread 15
+22th CS Entry Request at 3.654558 by thread 15
+23th CS Entry at 3.664531 by thread 14
+23th CS Exit Request at 3.680257 by thread 14
+23th CS Exit at 3.680296 by thread 14
+24th CS Entry at 3.680299 by thread 12
+24th CS Entry Request at 3.692190 by thread 14
+24th CS Exit Request at 3.692240 by thread 12
+24th CS Exit at 3.692256 by thread 12
+25th CS Entry at 3.692258 by thread 3
+25th CS Exit Request at 3.697895 by thread 3
+25th CS Exit at 3.697912 by thread 3
+24th CS Entry at 3.697915 by thread 9
+25th CS Entry Request at 3.697947 by thread 12
+24th CS Exit Request at 3.710265 by thread 9
+24th CS Exit at 3.710354 by thread 9
+24th CS Entry at 3.710357 by thread 5
+24th CS Exit Request at 3.711623 by thread 5
+24th CS Exit at 3.711637 by thread 5
+23th CS Entry at 3.711639 by thread 10
+25th CS Entry Request at 3.712098 by thread 9
+25th CS Entry Request at 3.713560 by thread 5
+23th CS Exit Request at 3.730260 by thread 10
+23th CS Exit at 3.730303 by thread 10
+24th CS Entry at 3.730306 by thread 2
+24th CS Entry Request at 3.732118 by thread 10
+24th CS Exit Request at 3.758649 by thread 2
+24th CS Exit at 3.758703 by thread 2
+24th CS Entry at 3.758706 by thread 1
+25th CS Entry Request at 3.758844 by thread 2
+24th CS Exit Request at 3.780271 by thread 1
+24th CS Exit at 3.780309 by thread 1
+23th CS Entry at 3.780312 by thread 16
+23th CS Exit Request at 3.781836 by thread 16
+23th CS Exit at 3.782019 by thread 16
+24th CS Entry at 3.782021 by thread 11
+24th CS Entry Request at 3.783225 by thread 16
+25th CS Entry Request at 3.784986 by thread 1
+24th CS Exit Request at 3.785171 by thread 11
+24th CS Exit at 3.785221 by thread 11
+24th CS Entry at 3.785224 by thread 8
+25th CS Entry Request at 3.789651 by thread 11
+24th CS Exit Request at 3.794892 by thread 8
+24th CS Exit at 3.794969 by thread 8
+24th CS Entry at 3.794972 by thread 13
+24th CS Exit Request at 3.796103 by thread 13
+24th CS Exit at 3.796173 by thread 13
+22th CS Entry at 3.796176 by thread 15
+22th CS Exit Request at 3.796889 by thread 15
+22th CS Exit at 3.796950 by thread 15
+25th CS Entry Request at 3.797004 by thread 8
+25th CS Entry at 3.797055 by thread 7
+25th CS Exit Request at 3.798497 by thread 7
+25th CS Exit at 3.798613 by thread 7
+24th CS Entry at 3.798616 by thread 14
+24th CS Exit Request at 3.799769 by thread 14
+24th CS Exit at 3.799794 by thread 14
+25th CS Entry at 3.799797 by thread 12
+25th CS Exit Request at 3.800643 by thread 12
+25th CS Exit at 3.800677 by thread 12
+25th CS Entry Request at 3.800649 by thread 14
+23th CS Entry Request at 3.800699 by thread 15
+25th CS Entry at 3.800680 by thread 9
+25th CS Exit Request at 3.802073 by thread 9
+25th CS Exit at 3.802102 by thread 9
+25th CS Entry at 3.802113 by thread 5
+25th CS Exit Request at 3.802546 by thread 5
+25th CS Exit at 3.802572 by thread 5
+24th CS Entry at 3.802575 by thread 10
+25th CS Entry Request at 3.803240 by thread 13
+24th CS Exit Request at 3.807764 by thread 10
+24th CS Exit at 3.807803 by thread 10
+25th CS Entry at 3.807807 by thread 2
+25th CS Exit Request at 3.808050 by thread 2
+25th CS Exit at 3.808078 by thread 2
+24th CS Entry at 3.808081 by thread 16
+25th CS Entry Request at 3.809385 by thread 10
+24th CS Exit Request at 3.809700 by thread 16
+24th CS Exit at 3.809729 by thread 16
+25th CS Entry at 3.809732 by thread 1
+25th CS Exit Request at 3.809967 by thread 1
+25th CS Exit at 3.809992 by thread 1
+25th CS Entry at 3.809995 by thread 11
+25th CS Entry Request at 3.810768 by thread 16
+25th CS Exit Request at 3.811101 by thread 11
+25th CS Exit at 3.811125 by thread 11
+25th CS Entry at 3.811128 by thread 8
+25th CS Exit Request at 3.813495 by thread 8
+25th CS Exit at 3.813530 by thread 8
+25th CS Entry at 3.813534 by thread 14
+25th CS Exit Request at 3.814350 by thread 14
+25th CS Exit at 3.814372 by thread 14
+23th CS Entry at 3.814375 by thread 15
+23th CS Exit Request at 3.815147 by thread 15
+23th CS Exit at 3.815169 by thread 15
+25th CS Entry at 3.815172 by thread 13
+25th CS Exit Request at 3.815634 by thread 13
+25th CS Exit at 3.815658 by thread 13
+25th CS Entry at 3.815661 by thread 10
+25th CS Exit Request at 3.816790 by thread 10
+25th CS Exit at 3.816815 by thread 10
+25th CS Entry at 3.816818 by thread 16
+25th CS Exit Request at 3.817668 by thread 16
+25th CS Exit at 3.817692 by thread 16
+24th CS Entry Request at 3.821488 by thread 15
+24th CS Entry at 3.821546 by thread 15
+24th CS Exit Request at 3.821657 by thread 15
+24th CS Exit at 3.821679 by thread 15
+25th CS Entry Request at 3.823578 by thread 15
+25th CS Entry at 3.823617 by thread 15
+25th CS Exit Request at 3.824559 by thread 15
+25th CS Exit at 3.824578 by thread 15
+The start time is: 0.000000
+The end time is: 3.825659
+
+Total time taken: 3.825659 seconds
+Throughput: 104.557142 operations per second
+
+Average wait time: 0.140274 seconds
+Worst case wait time: 0.295787 seconds
+FIFO order is NOT maintained.
