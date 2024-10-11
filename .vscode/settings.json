@@ -59,6 +59,8 @@
   "files.associations": {
     "mutex": "cpp",
     "shared_mutex": "cpp",
-    "syncstream": "cpp"
+    "syncstream": "cpp",
+    "atomic": "cpp",
+    "chrono": "cpp"
   }
 }
