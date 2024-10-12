@@ -36,15 +36,16 @@ class StampedValue {
 public:
     int stamp;
     T value;
+    int tid;
     // Default constructor
-    StampedValue() : stamp(0), value(T()) {}
+    StampedValue() : stamp(0), value(T()) , tid(-1)  {}
 
     // Parameterized constructor
-    StampedValue(int ts, T v) : stamp(ts), value(v) {}
+    StampedValue(int ts, T v, int thread_id) : stamp(ts), value(v), tid(thread_id) {}
 
     //define custom comparator function 
     bool operator==(const StampedValue& other) const {
-        return (stamp == other.stamp && value == other.value);
+        return (stamp == other.stamp && value == other.value && tid == other.tid);
     }
 };
 
@@ -65,15 +66,15 @@ public:
     ObstructionFreeSnapshot(int capacity) {
         a_table = vector<atomic<StampedValue<T>>>(capacity);
         for (int i = 0; i < capacity; i++) {
-            a_table[i].store(StampedValue<T>(0, T()));
+            a_table[i].store(StampedValue<T>(0, T(), -1));
         }
     }
 
-    void update(int location, T value) {
+    void update(int thread_id, int location, T value) {
         StampedValue<T> oldStampedValue = a_table[location].load();
-        long oldstamp = oldStampedValue.stamp;
-        long newstamp = oldstamp + 1;
-        a_table[location].store(StampedValue<T>(newstamp, value));
+        int oldstamp = oldStampedValue.stamp;
+        int newstamp = oldstamp + 1;
+        a_table[location].store(StampedValue<T>(newstamp, value, thread_id));
     }
 
     vector<T> scan() {
@@ -117,7 +118,7 @@ void* writer(void* arg) {
         auto current_time = chrono::high_resolution_clock::now();
         double current_time_sec = chrono::duration<double>(current_time- start_time).count();
 
-        snap->update(loc, v);
+        snap->update(thread_id, loc, v);
         
         //lock the mutex and update the log file 
         pthread_mutex_lock(&log_mutex);

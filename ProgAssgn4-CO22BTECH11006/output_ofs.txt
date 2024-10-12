@@ -1,86 +1,93 @@
-Writer 0: Value 10 written to location 3 at 0.000120
-Writer 1: Value 20 written to location 1 at 0.000157
-Writer 2: Value 30 written to location 2 at 0.000221
-Writer 0: Value 10 written to location 0 at 0.000429
-Writer 3: Value 40 written to location 3 at 0.000431
-Writer 2: Value 30 written to location 0 at 0.000512
-Writer 1: Value 20 written to location 2 at 0.000524
-Writer 3: Value 40 written to location 4 at 0.000538
-Writer 0: Value 10 written to location 1 at 0.000513
-Writer 1: Value 20 written to location 1 at 0.000625
-Writer 2: Value 30 written to location 2 at 0.000636
-Writer 3: Value 40 written to location 2 at 0.000636
-Writer 0: Value 10 written to location 0 at 0.000643
-Writer 1: Value 20 written to location 4 at 0.000705
-Writer 3: Value 40 written to location 3 at 0.000763
-Snapshot 0: [ 10 / 20 / 40 / 40 / 20 / ] collected at 0.000522, duration: 0.000277 microseconds
-Writer 3: Value 40 written to location 1 at 0.000849
-Writer 1: Value 20 written to location 0 at 0.000851
-Writer 2: Value 30 written to location 1 at 0.000888
+Writer 0: Value 10 written to location 3 at 0.000103
+Writer 1: Value 20 written to location 1 at 0.000167
+Writer 0: Value 10 written to location 0 at 0.000295
+Writer 1: Value 20 written to location 3 at 0.000303
+Writer 0: Value 10 written to location 0 at 0.000390
+Writer 1: Value 20 written to location 1 at 0.000395
+Writer 0: Value 10 written to location 2 at 0.000457
+Writer 1: Value 20 written to location 4 at 0.000506
+Writer 0: Value 10 written to location 1 at 0.000542
+Writer 1: Value 20 written to location 2 at 0.000615
+Writer 0: Value 10 written to location 2 at 0.000651
+Writer 1: Value 20 written to location 0 at 0.000696
+Writer 0: Value 10 written to location 4 at 0.000738
+Writer 1: Value 20 written to location 3 at 0.000777
+Writer 0: Value 10 written to location 1 at 0.000824
+Writer 2: Value 30 written to location 2 at 0.000243
+Writer 1: Value 20 written to location 0 at 0.000871
+Writer 3: Value 40 written to location 1 at 0.000883
 Writer 0: Value 10 written to location 2 at 0.000928
-Snapshot 0: [ 20 / 30 / 10 / 40 / 20 / ] collected at 0.000977, duration: 0.000003 microseconds
-Writer 3: Value 40 written to location 1 at 0.000989
-Writer 1: Value 20 written to location 1 at 0.001014
-Writer 2: Value 30 written to location 3 at 0.001022
-Writer 0: Value 10 written to location 2 at 0.001027
-Snapshot 1: [ 20 / 20 / 10 / 30 / 20 / ] collected at 0.000915, duration: 0.000129 microseconds
-Snapshot 0: [ 20 / 20 / 10 / 30 / 20 / ] collected at 0.001071, duration: 0.000002 microseconds
-Writer 3: Value 40 written to location 4 at 0.001079
-Writer 0: Value 10 written to location 2 at 0.001113
-Writer 1: Value 20 written to location 0 at 0.001114
-Snapshot 1: [ 20 / 20 / 10 / 30 / 40 / ] collected at 0.001142, duration: 0.000002 microseconds
-Writer 3: Value 40 written to location 2 at 0.001161
-Writer 2: Value 30 written to location 3 at 0.001167
-Snapshot 0: [ 20 / 20 / 40 / 30 / 40 / ] collected at 0.001203, duration: 0.000002 microseconds
-Writer 0: Value 10 written to location 2 at 0.001210
-Snapshot 1: [ 20 / 20 / 10 / 30 / 40 / ] collected at 0.001221, duration: 0.000003 microseconds
-Writer 1: Value 20 written to location 0 at 0.001244
-Writer 3: Value 40 written to location 2 at 0.001249
-Writer 2: Value 30 written to location 4 at 0.001244
-Snapshot 2: [ 20 / 20 / 40 / 30 / 30 / ] collected at 0.000953, duration: 0.000315 microseconds
-Snapshot 0: [ 20 / 20 / 40 / 30 / 30 / ] collected at 0.001290, duration: 0.000002 microseconds
-Writer 3: Value 40 written to location 2 at 0.001324
-Writer 0: Value 10 written to location 3 at 0.001331
-Snapshot 4: [ 20 / 20 / 40 / 10 / 30 / ] collected at 0.001195, duration: 0.000144 microseconds
-Snapshot 3: [ 20 / 20 / 20 / 10 / 30 / ] collected at 0.001185, duration: 0.000174 microseconds
-Writer 2: Value 30 written to location 4 at 0.001339
-Writer 1: Value 20 written to location 2 at 0.001340
-Snapshot 2: [ 20 / 20 / 20 / 10 / 30 / ] collected at 0.001403, duration: 0.000002 microseconds
-Snapshot 1: [ 20 / 20 / 20 / 10 / 30 / ] collected at 0.001328, duration: 0.000032 microseconds
-Writer 0: Value 10 written to location 1 at 0.001434
-Writer 3: Value 40 written to location 3 at 0.001405
-Snapshot 3: [ 20 / 10 / 20 / 40 / 30 / ] collected at 0.001450, duration: 0.000018 microseconds
-Writer 0: Value 10 written to location 1 at 0.001485
-Writer 1: Value 20 written to location 2 at 0.001501
-Snapshot 4: [ 20 / 10 / 20 / 40 / 30 / ] collected at 0.001507, duration: 0.000003 microseconds
-Writer 2: Value 30 written to location 4 at 0.001515
-Writer 3: Value 40 written to location 3 at 0.001527
-Snapshot 2: [ 20 / 10 / 20 / 40 / 30 / ] collected at 0.001537, duration: 0.000002 microseconds
-Snapshot 1: [ 20 / 10 / 20 / 40 / 30 / ] collected at 0.001549, duration: 0.000003 microseconds
-Writer 1: Value 20 written to location 1 at 0.001585
-Snapshot 4: [ 20 / 20 / 20 / 40 / 30 / ] collected at 0.001591, duration: 0.000002 microseconds
-Snapshot 3: [ 20 / 20 / 20 / 40 / 30 / ] collected at 0.001608, duration: 0.000002 microseconds
-Writer 0: Value 10 written to location 4 at 0.001612
-Writer 1: Value 20 written to location 3 at 0.001676
-Snapshot 4: [ 20 / 20 / 30 / 20 / 40 / ] collected at 0.001682, duration: 0.000003 microseconds
-Writer 3: Value 40 written to location 4 at 0.001623
-Writer 1: Value 20 written to location 4 at 0.001763
-Snapshot 3: [ 20 / 20 / 30 / 20 / 20 / ] collected at 0.001765, duration: 0.000002 microseconds
-Writer 0: Value 10 written to location 0 at 0.001779
-Snapshot 4: [ 10 / 20 / 30 / 20 / 20 / ] collected at 0.001788, duration: 0.000019 microseconds
-Writer 2: Value 30 written to location 2 at 0.001674
-Writer 3: Value 40 written to location 0 at 0.001839
-Writer 1: Value 20 written to location 3 at 0.001849
-Snapshot 2: [ 20 / 20 / 20 / 40 / 40 / ] collected at 0.001627, duration: 0.000002 microseconds
-Snapshot 3: [ 40 / 20 / 30 / 20 / 20 / ] collected at 0.001896, duration: 0.000002 microseconds
-Writer 0: Value 10 written to location 1 at 0.001900
-Writer 3: Value 40 written to location 1 at 0.001917
-Writer 1: Value 20 written to location 0 at 0.001925
-Writer 2: Value 30 written to location 1 at 0.001944
-Snapshot 2: [ 20 / 30 / 30 / 20 / 20 / ] collected at 0.001945, duration: 0.000002 microseconds
-Writer 0: Value 10 written to location 3 at 0.001978
-Writer 1: Value 20 written to location 2 at 0.002001
-Writer 3: Value 40 written to location 0 at 0.002020
-Writer 2: Value 30 written to location 1 at 0.002031
-Writer 0: Value 10 written to location 1 at 0.002078
-Writer 1: Value 20 written to location 0 at 0.002082
+Writer 2: Value 30 written to location 1 at 0.000953
+Writer 1: Value 20 written to location 1 at 0.000961
+Writer 3: Value 40 written to location 3 at 0.001045
+Writer 2: Value 30 written to location 4 at 0.001050
+Writer 0: Value 10 written to location 2 at 0.001047
+Writer 1: Value 20 written to location 2 at 0.001056
+Writer 2: Value 30 written to location 0 at 0.001133
+Writer 3: Value 40 written to location 2 at 0.001134
+Writer 0: Value 10 written to location 3 at 0.001143
+Writer 1: Value 20 written to location 2 at 0.001158
+Snapshot 0: [ 30 / 20 / 20 / 10 / 30 / ] collected at 0.001176, duration: 0.000010 microseconds
+Writer 2: Value 30 written to location 0 at 0.001218
+Writer 3: Value 40 written to location 4 at 0.001226
+Writer 0: Value 10 written to location 2 at 0.001242
+Writer 1: Value 20 written to location 2 at 0.001287
+Snapshot 1: [ 30 / 20 / 20 / 10 / 40 / ] collected at 0.001266, duration: 0.000038 microseconds
+Writer 3: Value 40 written to location 3 at 0.001330
+Writer 2: Value 30 written to location 4 at 0.001336
+Snapshot 0: [ 30 / 20 / 20 / 40 / 30 / ] collected at 0.001321, duration: 0.000023 microseconds
+Writer 0: Value 10 written to location 2 at 0.001343
+Writer 1: Value 20 written to location 3 at 0.001381
+Snapshot 2: [ 30 / 20 / 10 / 20 / 30 / ] collected at 0.001408, duration: 0.000015 microseconds
+Writer 2: Value 30 written to location 1 at 0.001426
+Writer 3: Value 40 written to location 1 at 0.001438
+Writer 0: Value 10 written to location 2 at 0.001445
+Snapshot 1: [ 30 / 40 / 10 / 20 / 30 / ] collected at 0.001449, duration: 0.000004 microseconds
+Snapshot 0: [ 30 / 40 / 10 / 20 / 30 / ] collected at 0.001475, duration: 0.000004 microseconds
+Writer 1: Value 20 written to location 4 at 0.001512
+Writer 3: Value 40 written to location 3 at 0.001520
+Snapshot 2: [ 30 / 40 / 10 / 40 / 20 / ] collected at 0.001534, duration: 0.000004 microseconds
+Snapshot 3: [ 30 / 40 / 10 / 40 / 20 / ] collected at 0.001501, duration: 0.000053 microseconds
+Writer 2: Value 30 written to location 1 at 0.001561
+Writer 0: Value 10 written to location 4 at 0.001569
+Snapshot 1: [ 30 / 30 / 10 / 40 / 10 / ] collected at 0.001577, duration: 0.000003 microseconds
+Snapshot 0: [ 30 / 30 / 10 / 40 / 10 / ] collected at 0.001587, duration: 0.000003 microseconds
+Snapshot 4: [ 30 / 30 / 10 / 40 / 10 / ] collected at 0.001568, duration: 0.000053 microseconds
+Writer 3: Value 40 written to location 4 at 0.001620
+Snapshot 2: [ 30 / 30 / 10 / 40 / 40 / ] collected at 0.001624, duration: 0.000003 microseconds
+Writer 1: Value 20 written to location 2 at 0.001632
+Snapshot 3: [ 30 / 30 / 20 / 40 / 40 / ] collected at 0.001654, duration: 0.000004 microseconds
+Writer 0: Value 10 written to location 3 at 0.001656
+Snapshot 1: [ 30 / 30 / 20 / 10 / 30 / ] collected at 0.001667, duration: 0.000002 microseconds
+Writer 2: Value 30 written to location 4 at 0.001659
+Snapshot 0: [ 30 / 30 / 20 / 10 / 30 / ] collected at 0.001686, duration: 0.000003 microseconds
+Writer 3: Value 40 written to location 0 at 0.001714
+Snapshot 4: [ 20 / 30 / 20 / 10 / 30 / ] collected at 0.001719, duration: 0.000003 microseconds
+Snapshot 1: [ 20 / 30 / 20 / 10 / 30 / ] collected at 0.001766, duration: 0.000004 microseconds
+Writer 1: Value 20 written to location 0 at 0.001718
+Writer 3: Value 40 written to location 1 at 0.001805
+Writer 0: Value 10 written to location 3 at 0.001744
+Snapshot 3: [ 20 / 30 / 20 / 10 / 30 / ] collected at 0.001759, duration: 0.000003 microseconds
+Snapshot 4: [ 20 / 40 / 20 / 10 / 30 / ] collected at 0.001893, duration: 0.000003 microseconds
+Writer 1: Value 20 written to location 0 at 0.001905
+Writer 3: Value 40 written to location 1 at 0.001918
+Writer 0: Value 10 written to location 3 at 0.001934
+Snapshot 2: [ 20 / 30 / 20 / 10 / 30 / ] collected at 0.001748, duration: 0.000003 microseconds
+Snapshot 4: [ 20 / 40 / 20 / 10 / 30 / ] collected at 0.001960, duration: 0.000003 microseconds
+Writer 2: Value 30 written to location 1 at 0.001772
+Writer 1: Value 20 written to location 2 at 0.001994
+Writer 0: Value 10 written to location 0 at 0.002024
+Snapshot 3: [ 10 / 40 / 20 / 10 / 30 / ] collected at 0.002028, duration: 0.000003 microseconds
+Writer 3: Value 40 written to location 1 at 0.002031
+Snapshot 4: [ 10 / 40 / 20 / 10 / 30 / ] collected at 0.002062, duration: 0.000003 microseconds
+Writer 1: Value 20 written to location 1 at 0.002076
+Snapshot 2: [ 30 / 20 / 20 / 10 / 30 / ] collected at 0.002079, duration: 0.000003 microseconds
+Writer 0: Value 10 written to location 0 at 0.002117
+Writer 2: Value 30 written to location 0 at 0.002079
+Writer 3: Value 40 written to location 4 at 0.002134
+Snapshot 3: [ 10 / 20 / 20 / 10 / 30 / ] collected at 0.002118, duration: 0.000003 microseconds
+Writer 1: Value 20 written to location 2 at 0.002165
+Writer 0: Value 10 written to location 1 at 0.002200
+Writer 2: Value 30 written to location 0 at 0.002221
+Writer 3: Value 40 written to location 1 at 0.002235
+Writer 1: Value 20 written to location 4 at 0.002257

@@ -36,15 +36,16 @@ class StampedValue {
 public:
     int stamp;
     T value;
+    int tid;
     // Default constructor
-    StampedValue() : stamp(0), value(T()) {}
+    StampedValue() : stamp(0), value(T()) , tid(-1)  {}
 
     // Parameterized constructor
-    StampedValue(int ts, T v) : stamp(ts), value(v) {}
+    StampedValue(int ts, T v, int thread_id) : stamp(ts), value(v), tid(thread_id) {}
 
     //define custom comparator function 
     bool operator==(const StampedValue& other) const {
-        return (stamp == other.stamp && value == other.value);
+        return (stamp == other.stamp && value == other.value && tid == other.tid);
     }
 };
 
@@ -52,11 +53,11 @@ template <typename T>
 class WaitFreeSnapshot {
 private:
     vector<atomic<StampedValue<T>>> a_table; // Array of atomic MRMW registers
-    vector<vector<T>> snapshot_array; // Global array of snapshots for each register
+    vector<vector<T>> helpsnap; // stores recently taken snapshot taken by each writer thread while update
+    int nw; //number of writer threads
 
     vector<StampedValue<T>> collect() {
         vector<StampedValue<T>> copy(a_table.size());
-        snapshot_array = vector<vector<T>>(capacity, vector<T>(capacity));  // Create M snapshots, each with size M
         for (int i = 0; i < a_table.size(); i++) {
             copy[i] = a_table[i].load();
         }
@@ -64,28 +65,28 @@ private:
     }
 
 public:
-    WaitFreeSnapshot(int capacity) {
+    WaitFreeSnapshot(int writer_threads, int capacity) {
         a_table = vector<atomic<StampedValue<T>>>(capacity);
         for (int i = 0; i < capacity; i++) {
-            a_table[i].store(StampedValue<T>(0, T()));
+            a_table[i].store(StampedValue<T>(0, T(), -1));
         }
+        helpsnap = vector<vector<T>>(writer_threads, vector<T>(capacity));
+        nw = writer_threads;
     }
 
-    //perform a scan then write the value to the register
-    void update(int location, T value) {
-        
-        // Perform a scan and store the result in the global snapshot array for this register
-        vector<T> current_snapshot = scan();
-        snapshot_array[location] = current_snapshot;
-
+    void update(int thread_id, int location, T value) {
         StampedValue<T> oldStampedValue = a_table[location].load();
-        long oldstamp = oldStampedValue.stamp;
-        long newstamp = oldstamp + 1;
-        a_table[location].store(StampedValue<T>(newstamp, value));
+        int oldstamp = oldStampedValue.stamp;
+        int newstamp = oldstamp + 1;
+        a_table[location].store(StampedValue<T>(newstamp, value, thread_id));
+
+        //take snapshot for current writer thread
+        helpsnap[thread_id] = scan();
     }
 
     vector<T> scan() {
         vector<StampedValue<T>> oldCopy, newCopy;
+        vector<bool> can_help(nw, false);
 
         oldCopy = collect();
 
@@ -95,9 +96,15 @@ public:
             for (int i = 0; i < a_table.size(); i++) {
                 if (oldCopy[i] == newCopy[i]) continue;
                 flag = false;
-                break;
+                //check the latest writer thread that modified this location 
+                int writer_thread = newCopy[i].tid;
+                if(can_help[writer_thread]) {
+                    //this writer thread has modified this location in the meantime of this snapshot
+                    return helpsnap[writer_thread];
+                }
+                else can_help[writer_thread] = true;
             }
-            if (flag) break;     //both arrays are equal break out of while loop 
+            if (flag) break;     //both arrays are equal,(double collect is successfull) break out of while loop             
             oldCopy = newCopy;
         }
         vector<T> result(a_table.size());
@@ -125,7 +132,7 @@ void* writer(void* arg) {
         auto current_time = chrono::high_resolution_clock::now();
         double current_time_sec = chrono::duration<double>(current_time- start_time).count();
 
-        snap->update(loc, v);
+        snap->update(thread_id, loc, v);
         
         //lock the mutex and update the log file 
         pthread_mutex_lock(&log_mutex);
@@ -183,7 +190,7 @@ int main() {
     distribution_writer = exponential_distribution<double>(1 / muw);
     distribution_snap = exponential_distribution<double>(1 / mus);
 
-    output = fopen("./output_ofs.txt", "w");
+    output = fopen("./output_wfs.txt", "w");
     if (output == NULL) {
         cout << "Output file could not be created" << endl;
         return 1;
@@ -193,7 +200,7 @@ int main() {
     start_time = chrono::high_resolution_clock::now();
 
     // Create the snapshot object
-    WaitFreeSnapshot<int> WFsnapshot(M);
+    WaitFreeSnapshot<int> WFsnapshot(nw,M);
 
     //create nw writer threads
     vector<pthread_t> writer_threads(nw);
