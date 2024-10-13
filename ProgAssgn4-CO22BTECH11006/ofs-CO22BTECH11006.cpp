@@ -23,13 +23,11 @@ std::default_random_engine generator(std::chrono::system_clock::now().time_since
 // Termination signal for writer threads
 atomic<bool> term(false);
 
-// Mutex for writing to the log
-pthread_mutex_t log_mutex = PTHREAD_MUTEX_INITIALIZER;
-
-FILE* output;
-
 // Global start time
 chrono::high_resolution_clock::time_point start_time;
+
+vector<vector<double>> updateOperationTime; // Stores the update times taken by each thread
+vector<vector<double>> scanOperationTime; // Stores the snapshot times taken by each thread
 
 template <typename T>
 class StampedValue {
@@ -106,11 +104,25 @@ typedef struct ComputeArgs {    // Struct for thread arguments
     ObstructionFreeSnapshot<int>* snap;
 } ComputeArgs;
 
-//thread function for writer thread
+// Struct for log entries
+struct LogEntry {
+    double timestamp;
+    string message;
+};
+
+// Comparator function for sorting log entries
+bool compareLogEntries(const LogEntry& a, const LogEntry& b) {
+    return a.timestamp < b.timestamp;
+}
+
+// Thread function for writer thread
 void* writer(void* arg) {
     ComputeArgs *args = (ComputeArgs*) arg;
     int thread_id = args->thread_id;
     ObstructionFreeSnapshot<int>* snap = args->snap;
+
+    // Local log storage
+    vector<LogEntry>* logs = new vector<LogEntry>();
 
     while(!term) {
         int v = 10 + thread_id*10;
@@ -119,50 +131,68 @@ void* writer(void* arg) {
         double current_time_sec = chrono::duration<double>(current_time- start_time).count();
 
         snap->update(thread_id, loc, v);
-        
-        //lock the mutex and update the log file 
-        pthread_mutex_lock(&log_mutex);
-        fprintf(output, "Writer %d: Value %d written to location %d at %lf\n",
-                thread_id, v, loc, current_time_sec);
-        pthread_mutex_unlock(&log_mutex);
+
+        auto end_time  = chrono::high_resolution_clock::now();
+        double end_time_sec = chrono::duration<double>(end_time- start_time).count();
+        double time_taken = (end_time_sec - current_time_sec) * 1e6; // Convert to microseconds
+
+        updateOperationTime[thread_id].push_back(time_taken);
+
+        // Create log message
+        string msg = "Writer " + to_string(thread_id) + ": Value " + to_string(v) + " written to location " + to_string(loc) + " at " + to_string(current_time_sec) + "\n";
+        // Create LogEntry
+        LogEntry entry;
+        entry.timestamp = current_time_sec;
+        entry.message = msg;
+        logs->push_back(entry);
 
         usleep(static_cast<useconds_t>(distribution_writer(generator)));
     }
 
-    pthread_exit(NULL);
+    pthread_exit(logs);
 }
 
-//thread function for snapshot thread
+// Thread function for snapshot thread
 void *snapshot(void *arg) {
     ComputeArgs *args = (ComputeArgs*) arg;
     int thread_id = args->thread_id;
     ObstructionFreeSnapshot<int>* snap = args->snap;
 
+    // Local log storage
+    vector<LogEntry>* logs = new vector<LogEntry>();
+
     for(int i = 0; i < k; i++) {
         auto begin_collect = chrono::high_resolution_clock::now();
-        
+
         vector<int> result = snap->scan();
 
         auto end_collect = chrono::high_resolution_clock::now();
-        
+
         double begin_collect_sec = chrono::duration<double>(begin_collect - start_time).count();         
         double end_collect_sec = chrono::duration<double>(end_collect - start_time).count();
-        double time_collect = end_collect_sec - begin_collect_sec;
+        double time_collect = (end_collect_sec - begin_collect_sec) * 1e6; // Convert to microseconds
 
-        pthread_mutex_lock(&log_mutex);
-        fprintf(output, "Snapshot %d: [ ", thread_id);
+        scanOperationTime[thread_id].push_back(time_collect);
+
+        // Create log message
+        stringstream ss;
+        ss << "Snapshot " << thread_id << ": [ ";
         for (int j = 0; j < M; j++) {
-            fprintf(output, "%d / ", result[j]);
+            ss << result[j] << " / ";
         }
-        fprintf(output, "] collected at %lf, duration: %lf microseconds\n",
-                begin_collect_sec, time_collect);
-        pthread_mutex_unlock(&log_mutex);
+        ss << "] , started at: " << to_string(begin_collect_sec) << ", ended at: " << to_string(end_collect_sec) << "\n";
+
+        // Create LogEntry
+        LogEntry entry;
+        entry.timestamp = end_collect_sec;
+        entry.message = ss.str();
+        logs->push_back(entry);
 
         usleep(static_cast<useconds_t>(distribution_snap(generator)));
-
     }
-    pthread_exit(NULL);
+    pthread_exit(logs);
 }
+
 
 int main() {
 
@@ -173,10 +203,10 @@ int main() {
     }
     fscanf(input, "%d %d %d %lf %lf %d", &nw, &ns, &M, &muw, &mus, &k);
 
-    distribution_writer = exponential_distribution<double>(1 / muw);
-    distribution_snap = exponential_distribution<double>(1 / mus);
+    distribution_writer = exponential_distribution<double>(1 / muw);    //gives distribution in microseconds
+    distribution_snap = exponential_distribution<double>(1 / mus);  //gives distribution in microseconds
 
-    output = fopen("./output_ofs.txt", "w");
+    FILE* output = fopen("./output_ofs.txt", "w");
     if (output == NULL) {
         cout << "Output file could not be created" << endl;
         return 1;
@@ -188,44 +218,95 @@ int main() {
     // Create the snapshot object
     ObstructionFreeSnapshot<int> OFsnapshot(M);
 
-    //create nw writer threads
+    // Create nw writer threads
     vector<pthread_t> writer_threads(nw);
+    vector<ComputeArgs> writer_args(nw);
+    updateOperationTime.resize(nw);
     for(int i = 0; i < nw; i++) {
-        ComputeArgs *args = new ComputeArgs;
-        args->thread_id = i;
-        args->snap = &OFsnapshot;
-        pthread_create(&writer_threads[i], NULL, writer, args);
+        writer_args[i].thread_id = i;
+        writer_args[i].snap = &OFsnapshot;
+        pthread_create(&writer_threads[i], NULL, writer, &writer_args[i]);
     }
 
-    //create ns snapshot threads
+    // Create ns snapshot threads
     vector<pthread_t> snapshot_threads(ns);
+    vector<ComputeArgs> snapshot_args(ns);
+    scanOperationTime.resize(ns);
     for(int i = 0; i < ns; i++) {
-        ComputeArgs *args = new ComputeArgs;
-        args->thread_id = i;
-        args->snap = &OFsnapshot;
-        pthread_create(&snapshot_threads[i], NULL, snapshot, args);
+        snapshot_args[i].thread_id = i;
+        snapshot_args[i].snap = &OFsnapshot;
+        pthread_create(&snapshot_threads[i], NULL, snapshot, &snapshot_args[i]);
     }
 
-    //join the snapshot threads
+    // Collect logs from snapshot threads
+    vector<LogEntry> all_logs;
     for(int i = 0; i < ns; i++) {
-        pthread_join(snapshot_threads[i], NULL);
+        void* status;
+        pthread_join(snapshot_threads[i], &status);
+        vector<LogEntry>* logs = static_cast<vector<LogEntry>*>(status);
+        all_logs.insert(all_logs.end(), logs->begin(), logs->end());
+        delete logs;
     }
 
     // Signal termination to writer threads
     term = true;
 
-    // Wait for all writer threads to finish
+    // Collect logs from writer threads
     for(int i = 0; i < nw; i++) {
-        pthread_join(writer_threads[i], NULL);
+        void* status;
+        pthread_join(writer_threads[i], &status);
+        vector<LogEntry>* logs = static_cast<vector<LogEntry>*>(status);
+        all_logs.insert(all_logs.end(), logs->begin(), logs->end());
+        delete logs;
     }
+
+    // Sort all logs by timestamp
+    sort(all_logs.begin(), all_logs.end(), compareLogEntries);
+
+    // Write all logs to output file
+    for (const auto& entry : all_logs) {
+        fprintf(output, "%s", entry.message.c_str());
+    }
+
+    // Compute average and worst case operation times 
+    int num_updates = 0;
+    double average_update_time = 0, worst_update_time = 0;
+    for(int i = 0; i < nw; i++) {
+        num_updates += updateOperationTime[i].size();
+        average_update_time += accumulate(updateOperationTime[i].begin(), updateOperationTime[i].end(), 0.0);
+        worst_update_time = max(worst_update_time, *max_element(updateOperationTime[i].begin(), updateOperationTime[i].end()));
+    }
+
+    int num_scans = 0;
+    double average_scan_time = 0, worst_scan_time = 0;
+    for(int i = 0; i < ns; i++) {
+        num_scans += scanOperationTime[i].size();
+        average_scan_time += accumulate(scanOperationTime[i].begin(), scanOperationTime[i].end(), 0.0);
+        worst_scan_time = max(worst_scan_time, *max_element(scanOperationTime[i].begin(), scanOperationTime[i].end()));
+    }
+
+    double total_time = average_update_time + average_scan_time;
+    average_update_time /= num_updates;
+    average_scan_time /= num_scans;
+    double average_time = total_time / (num_updates + num_scans);
+    double worst_time = max(worst_update_time, worst_scan_time);
+
+    // Print results to output file
+    fprintf(output, "\nAverage update time: %.2lf microseconds\n", average_update_time);
+    fprintf(output, "Worst update time: %.2lf microseconds\n", worst_update_time);
+    fprintf(output, "Average scan time: %.2lf microseconds \n", average_scan_time);
+    fprintf(output, "Worst scan time: %.2lf microseconds \n", worst_scan_time);
+    fprintf(output, "Average time: %.2lf microseconds \n", average_time);
+    fprintf(output, "Worst time: %.2lf microseconds \n", worst_time);
+
+    printf("Average update time: %.2lf microseconds\n", average_update_time);
+    printf("Worst update time: %.2lf microseconds\n", worst_update_time);
+    printf("Average scan time: %.2lf microseconds \n", average_scan_time);
+    printf("Worst scan time: %.2lf microseconds \n", worst_scan_time);
+    printf("Average time: %.2lf microseconds \n", average_time);
+    printf("Worst time: %.2lf microseconds \n", worst_time);
 
     fclose(output);
     fclose(input);
     return 0;
-
 }
-
-
-
-
-
