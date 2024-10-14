@@ -1,556 +1,146 @@
-Writer 0: Value 10 written to location 383 at 0.000211
-Writer 1: Value 20 written to location 886 at 0.000278
-Writer 2: Value 30 written to location 777 at 0.000343
-Writer 3: Value 40 written to location 915 at 0.000407
-Writer 1: Value 20 written to location 793 at 0.000452
-Writer 0: Value 10 written to location 335 at 0.000498
-Writer 4: Value 50 written to location 386 at 0.000504
-Writer 2: Value 30 written to location 492 at 0.000508
-Writer 1: Value 20 written to location 649 at 0.000642
-Writer 5: Value 60 written to location 421 at 0.000651
-Writer 0: Value 10 written to location 362 at 0.000660
-Writer 3: Value 40 written to location 27 at 0.000712
-Writer 2: Value 30 written to location 690 at 0.000719
-Writer 4: Value 50 written to location 59 at 0.000742
-Writer 6: Value 70 written to location 763 at 0.000763
-Writer 1: Value 20 written to location 926 at 0.000960
-Writer 0: Value 10 written to location 540 at 0.001000
-Writer 1: Value 20 written to location 426 at 0.001136
-Writer 0: Value 10 written to location 172 at 0.001189
-Writer 8: Value 90 written to location 736 at 0.001365
-Writer 1: Value 20 written to location 211 at 0.001377
-Writer 0: Value 10 written to location 368 at 0.001407
-Writer 5: Value 60 written to location 567 at 0.001439
-Writer 6: Value 70 written to location 429 at 0.001523
-Writer 2: Value 30 written to location 782 at 0.001559
-Writer 4: Value 50 written to location 530 at 0.001627
-Writer 1: Value 20 written to location 862 at 0.001658
-Writer 3: Value 40 written to location 123 at 0.001674
-Writer 2: Value 30 written to location 67 at 0.001723
-Writer 0: Value 10 written to location 135 at 0.001851
-Writer 4: Value 50 written to location 929 at 0.001879
-Writer 2: Value 30 written to location 802 at 0.001905
-Writer 1: Value 20 written to location 22 at 0.001964
-Writer 3: Value 40 written to location 58 at 0.001980
-Writer 10: Value 110 written to location 69 at 0.002052
-Writer 4: Value 50 written to location 167 at 0.002088
-Writer 0: Value 10 written to location 393 at 0.002098
-Writer 2: Value 30 written to location 456 at 0.002114
-Writer 6: Value 70 written to location 11 at 0.002120
-Writer 3: Value 40 written to location 42 at 0.002153
-Writer 9: Value 100 written to location 229 at 0.002195
-Writer 1: Value 20 written to location 373 at 0.002248
-Writer 12: Value 130 written to location 421 at 0.002287
-Writer 8: Value 90 written to location 919 at 0.002308
-Writer 7: Value 80 written to location 784 at 0.002421
-Writer 3: Value 40 written to location 537 at 0.002480
-Writer 1: Value 20 written to location 198 at 0.002485
-Writer 8: Value 90 written to location 324 at 0.002506
-Writer 4: Value 50 written to location 315 at 0.002517
-Writer 13: Value 140 written to location 370 at 0.002524
-Writer 5: Value 60 written to location 413 at 0.002532
-Writer 10: Value 110 written to location 526 at 0.002572
-Writer 2: Value 30 written to location 91 at 0.002608
-Writer 0: Value 10 written to location 980 at 0.002644
-Writer 6: Value 70 written to location 956 at 0.002781
-Writer 2: Value 30 written to location 873 at 0.002804
-Writer 3: Value 40 written to location 862 at 0.002846
-Writer 8: Value 90 written to location 170 at 0.002859
-Writer 1: Value 20 written to location 996 at 0.002861
-Writer 5: Value 60 written to location 281 at 0.002878
-Writer 4: Value 50 written to location 305 at 0.002892
-Writer 6: Value 70 written to location 925 at 0.002935
-Writer 14: Value 150 written to location 84 at 0.002958
-Writer 10: Value 110 written to location 327 at 0.003030
-Writer 0: Value 10 written to location 336 at 0.003079
-Writer 11: Value 120 written to location 505 at 0.003088
-Writer 1: Value 20 written to location 846 at 0.003146
-Writer 3: Value 40 written to location 729 at 0.003164
-Writer 2: Value 30 written to location 313 at 0.003164
-Writer 9: Value 100 written to location 857 at 0.003257
-Writer 2: Value 30 written to location 124 at 0.003323
-Writer 0: Value 10 written to location 895 at 0.003324
-Writer 4: Value 50 written to location 582 at 0.003368
-Writer 3: Value 40 written to location 545 at 0.003376
-Writer 10: Value 110 written to location 814 at 0.003450
-Writer 5: Value 60 written to location 367 at 0.003485
-Writer 6: Value 70 written to location 434 at 0.003549
-Writer 3: Value 40 written to location 364 at 0.003565
-Writer 1: Value 20 written to location 43 at 0.003665
-Writer 10: Value 110 written to location 750 at 0.003678
-Writer 2: Value 30 written to location 87 at 0.003694
-Writer 8: Value 90 written to location 808 at 0.003722
-Writer 4: Value 50 written to location 276 at 0.003755
-Writer 0: Value 10 written to location 178 at 0.003756
-Writer 3: Value 40 written to location 788 at 0.003766
-Writer 6: Value 70 written to location 584 at 0.003820
-Writer 9: Value 100 written to location 403 at 0.003843
-Writer 13: Value 140 written to location 651 at 0.003971
-Writer 17: Value 180 written to location 754 at 0.003978
-Writer 12: Value 130 written to location 399 at 0.004009
-Writer 9: Value 100 written to location 932 at 0.004047
-Writer 0: Value 10 written to location 60 at 0.004068
-Writer 2: Value 30 written to location 676 at 0.004073
-Writer 10: Value 110 written to location 368 at 0.004073
-Writer 1: Value 20 written to location 739 at 0.004083
-Writer 18: Value 190 written to location 12 at 0.004084
-Writer 3: Value 40 written to location 226 at 0.004091
-Writer 6: Value 70 written to location 586 at 0.004126
-Writer 4: Value 50 written to location 94 at 0.004289
-Writer 8: Value 90 written to location 539 at 0.004293
-Writer 9: Value 100 written to location 795 at 0.004332
-Writer 3: Value 40 written to location 570 at 0.004344
-Writer 6: Value 70 written to location 434 at 0.004362
-Writer 0: Value 10 written to location 378 at 0.004364
-Writer 13: Value 140 written to location 467 at 0.004366
-Writer 1: Value 20 written to location 601 at 0.004367
-Writer 5: Value 60 written to location 97 at 0.004382
-Writer 15: Value 160 written to location 902 at 0.004394
-Writer 7: Value 80 written to location 317 at 0.004471
-Writer 10: Value 110 written to location 492 at 0.004530
-Writer 13: Value 140 written to location 652 at 0.004584
-Writer 2: Value 30 written to location 756 at 0.004600
-Writer 5: Value 60 written to location 301 at 0.004624
-Writer 1: Value 20 written to location 280 at 0.004692
-Writer 4: Value 50 written to location 286 at 0.004743
-Writer 0: Value 10 written to location 441 at 0.004758
-Writer 3: Value 40 written to location 865 at 0.004761
-Writer 5: Value 60 written to location 689 at 0.004845
-Writer 6: Value 70 written to location 444 at 0.004899
-Writer 16: Value 170 written to location 619 at 0.004928
-Writer 1: Value 20 written to location 440 at 0.004952
-Writer 12: Value 130 written to location 729 at 0.004954
-Writer 2: Value 30 written to location 31 at 0.004961
-Writer 10: Value 110 written to location 117 at 0.004962
-Writer 3: Value 40 written to location 97 at 0.004962
-Writer 4: Value 50 written to location 771 at 0.004962
-Writer 11: Value 120 written to location 481 at 0.004983
-Writer 8: Value 90 written to location 675 at 0.004992
-Writer 0: Value 10 written to location 709 at 0.005024
-Writer 13: Value 140 written to location 927 at 0.005053
-Writer 6: Value 70 written to location 567 at 0.005221
-Writer 0: Value 10 written to location 856 at 0.005228
-Writer 4: Value 50 written to location 497 at 0.005259
-Writer 8: Value 90 written to location 353 at 0.005265
-Writer 13: Value 140 written to location 586 at 0.005269
-Writer 1: Value 20 written to location 965 at 0.005277
-Writer 5: Value 60 written to location 306 at 0.005287
-Writer 3: Value 40 written to location 683 at 0.005294
-Writer 10: Value 110 written to location 219 at 0.005379
-Writer 9: Value 100 written to location 624 at 0.005402
-Writer 2: Value 30 written to location 528 at 0.005418
-Writer 7: Value 80 written to location 871 at 0.005488
-Writer 6: Value 70 written to location 732 at 0.005497
-Writer 1: Value 20 written to location 829 at 0.005503
-Writer 12: Value 130 written to location 503 at 0.005504
-Writer 0: Value 10 written to location 19 at 0.005516
-Writer 5: Value 60 written to location 270 at 0.005530
-Writer 3: Value 40 written to location 368 at 0.005542
-Writer 8: Value 90 written to location 708 at 0.005613
-Writer 19: Value 200 written to location 715 at 0.005659
-Writer 4: Value 50 written to location 340 at 0.005692
-Writer 14: Value 150 written to location 149 at 0.005726
-Writer 5: Value 60 written to location 796 at 0.005729
-Writer 1: Value 20 written to location 723 at 0.005859
-Writer 6: Value 70 written to location 618 at 0.005866
-Writer 12: Value 130 written to location 245 at 0.005872
-Writer 13: Value 140 written to location 846 at 0.005913
-Writer 0: Value 10 written to location 451 at 0.005923
-Writer 5: Value 60 written to location 921 at 0.005926
-Writer 8: Value 90 written to location 555 at 0.005929
-Writer 3: Value 40 written to location 379 at 0.005963
-Writer 18: Value 190 written to location 488 at 0.006112
-Writer 15: Value 160 written to location 764 at 0.006121
-Writer 7: Value 80 written to location 228 at 0.006142
-Writer 4: Value 50 written to location 841 at 0.006167
-Writer 3: Value 40 written to location 350 at 0.006170
-Writer 12: Value 130 written to location 193 at 0.006186
-Writer 10: Value 110 written to location 500 at 0.006197
-Writer 13: Value 140 written to location 34 at 0.006254
-Writer 9: Value 100 written to location 764 at 0.006255
-Writer 6: Value 70 written to location 124 at 0.006261
-Writer 0: Value 10 written to location 914 at 0.006340
-Writer 11: Value 120 written to location 987 at 0.006401
-Writer 5: Value 60 written to location 856 at 0.006412
-Writer 13: Value 140 written to location 743 at 0.006450
-Writer 2: Value 30 written to location 491 at 0.006522
-Writer 8: Value 90 written to location 227 at 0.006566
-Writer 7: Value 80 written to location 365 at 0.006604
-Writer 4: Value 50 written to location 859 at 0.006606
-Writer 3: Value 40 written to location 936 at 0.006637
-Writer 10: Value 110 written to location 432 at 0.006646
-Writer 13: Value 140 written to location 551 at 0.006649
-Writer 12: Value 130 written to location 437 at 0.006665
-Writer 5: Value 60 written to location 228 at 0.006682
-Writer 17: Value 180 written to location 275 at 0.006690
-Writer 0: Value 10 written to location 407 at 0.006773
-Writer 16: Value 170 written to location 474 at 0.006781
-Writer 9: Value 100 written to location 121 at 0.006823
-Writer 5: Value 60 written to location 858 at 0.006879
-Writer 1: Value 20 written to location 395 at 0.006890
-Writer 18: Value 190 written to location 29 at 0.006896
-Writer 15: Value 160 written to location 237 at 0.006897
-Writer 17: Value 180 written to location 235 at 0.006913
-Writer 6: Value 70 written to location 793 at 0.006996
-Writer 19: Value 200 written to location 818 at 0.007043
-Writer 7: Value 80 written to location 428 at 0.007132
+Writer 0: Value 33 written to location 1 at 0.000282
+Writer 1: Value 55 written to location 0 at 0.000418
+Writer 0: Value 53 written to location 0 at 0.000589
+Writer 2: Value 9 written to location 2 at 0.000691
+Writer 1: Value 45 written to location 1 at 0.000695
+Writer 3: Value 45 written to location 2 at 0.000708
+Writer 0: Value 66 written to location 4 at 0.000717
 
-Snapshot 1: [ 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 40 / 0 / 190 / 0 / 30 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 50 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 150 / 0 / 0 / 30 / 0 / 0 / 0 / 30 / 0 / 0 / 50 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 100 / 0 / 40 / 70 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 90 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 90 / 60 / 100 / 0 / 0 / 0 / 0 / 0 / 180 / 0 / 160 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 180 / 50 / 0 / 0 / 0 / 20 / 60 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 50 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 50 / 0 / 80 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 10 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 40 / 80 / 0 / 60 / 40 / 0 / 140 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 0 / 0 / 10 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 20 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 100 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 70 / 0 / 0 / 110 / 0 / 70 / 0 / 0 / 130 / 0 / 0 / 20 / 10 / 0 / 0 / 70 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 170 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 190 / 0 / 0 / 30 / 110 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 110 / 0 / 0 / 130 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 30 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 0 / 90 / 10 / 0 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 70 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 170 / 0 / 0 / 0 / 0 / 100 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 140 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 60 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 10 / 0 / 0 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 70 / 0 / 0 / 0 / 90 / 0 / 0 / 20 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 180 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 100 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 30 / 0 / 80 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 70 / 0 / 100 / 60 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 100 / 60 / 50 / 0 / 0 / 40 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 160 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 0 / 0 / 90 / 0 / 60 / 0 / 0 / 0 / 70 / 20 / 140 / 0 / 50 / 0 / 0 / 100 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / ]
-started at: 0.006965, ended at: 0.007151
+Snapshot 0: [ 53 / 45 / 45 / 0 / 66 / ]
+started at: 0.000764, ended at: 0.000768
 
-Writer 4: Value 50 written to location 143 at 0.007179
-Writer 13: Value 140 written to location 11 at 0.007226
-Writer 14: Value 150 written to location 928 at 0.007229
-Writer 9: Value 100 written to location 529 at 0.007245
-Writer 15: Value 160 written to location 776 at 0.007266
-Writer 18: Value 190 written to location 404 at 0.007290
-Writer 0: Value 10 written to location 443 at 0.007344
-Writer 8: Value 90 written to location 763 at 0.007407
-Writer 15: Value 160 written to location 613 at 0.007463
-Writer 10: Value 110 written to location 538 at 0.007533
-Writer 13: Value 140 written to location 606 at 0.007582
-Writer 6: Value 70 written to location 840 at 0.007603
-Writer 3: Value 40 written to location 904 at 0.007645
+Writer 3: Value 52 written to location 1 at 0.000799
+Writer 1: Value 2 written to location 1 at 0.000800
+Writer 0: Value 90 written to location 1 at 0.000811
+Writer 2: Value 26 written to location 3 at 0.000823
 
-Snapshot 0: [ 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 40 / 0 / 190 / 0 / 30 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 50 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 150 / 0 / 0 / 30 / 0 / 0 / 0 / 30 / 0 / 0 / 50 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 100 / 0 / 40 / 70 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 90 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 90 / 60 / 100 / 0 / 0 / 0 / 0 / 0 / 180 / 0 / 160 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 180 / 50 / 0 / 0 / 0 / 20 / 60 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 50 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 50 / 0 / 80 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 10 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 40 / 80 / 0 / 60 / 40 / 0 / 140 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 0 / 0 / 10 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 20 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 100 / 190 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 20 / 0 / 80 / 70 / 0 / 0 / 110 / 0 / 70 / 0 / 0 / 130 / 0 / 0 / 20 / 10 / 0 / 0 / 70 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 170 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 190 / 0 / 0 / 30 / 110 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 110 / 0 / 0 / 130 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 30 / 100 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 0 / 90 / 10 / 0 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 70 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 170 / 0 / 0 / 0 / 0 / 100 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 140 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 60 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 10 / 0 / 0 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 70 / 0 / 0 / 0 / 90 / 0 / 0 / 20 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 180 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 100 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 160 / 30 / 0 / 0 / 0 / 0 / 30 / 0 / 80 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 70 / 0 / 100 / 60 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 100 / 60 / 50 / 0 / 0 / 40 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 160 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 0 / 0 / 90 / 0 / 60 / 0 / 0 / 0 / 70 / 20 / 140 / 150 / 50 / 0 / 0 / 100 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / ]
-started at: 0.006677, ended at: 0.007657
+Snapshot 1: [ 53 / 90 / 45 / 26 / 66 / ]
+started at: 0.000846, ended at: 0.000850
 
-Writer 11: Value 120 written to location 818 at 0.007659
+Writer 3: Value 21 written to location 4 at 0.000894
+Writer 1: Value 39 written to location 0 at 0.000909
+Writer 0: Value 31 written to location 3 at 0.000924
+Writer 2: Value 21 written to location 0 at 0.000928
 
-Snapshot 1: [ 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 40 / 0 / 190 / 0 / 30 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 50 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 150 / 0 / 0 / 30 / 0 / 0 / 0 / 30 / 0 / 0 / 50 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 100 / 0 / 40 / 70 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 90 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 90 / 60 / 100 / 0 / 0 / 0 / 0 / 0 / 180 / 0 / 160 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 180 / 50 / 0 / 0 / 0 / 20 / 60 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 50 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 50 / 0 / 80 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 10 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 40 / 80 / 0 / 60 / 40 / 0 / 140 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 0 / 0 / 10 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 20 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 100 / 190 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 20 / 0 / 80 / 70 / 0 / 0 / 110 / 0 / 70 / 0 / 0 / 130 / 0 / 0 / 20 / 10 / 0 / 10 / 70 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 170 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 190 / 0 / 0 / 30 / 110 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 110 / 0 / 0 / 130 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 30 / 100 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 110 / 90 / 10 / 0 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 70 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 160 / 0 / 0 / 0 / 0 / 70 / 170 / 0 / 0 / 0 / 0 / 100 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 140 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 60 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 10 / 0 / 0 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 70 / 0 / 0 / 0 / 90 / 0 / 0 / 20 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 180 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 100 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 160 / 30 / 0 / 0 / 0 / 0 / 30 / 0 / 80 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 70 / 0 / 100 / 60 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 50 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 100 / 60 / 50 / 0 / 0 / 40 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 160 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 0 / 0 / 90 / 0 / 60 / 0 / 0 / 0 / 70 / 20 / 140 / 150 / 50 / 0 / 0 / 100 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / ]
-started at: 0.007342, ended at: 0.007749
-
-Writer 12: Value 130 written to location 128 at 0.007763
-Writer 0: Value 10 written to location 688 at 0.007767
-Writer 2: Value 30 written to location 369 at 0.007807
-Writer 17: Value 180 written to location 917 at 0.007821
-Writer 3: Value 40 written to location 917 at 0.007827
-Writer 14: Value 150 written to location 996 at 0.007843
-Writer 16: Value 170 written to location 324 at 0.007858
-Writer 18: Value 190 written to location 743 at 0.007875
-Writer 6: Value 70 written to location 470 at 0.007888
-Writer 13: Value 140 written to location 183 at 0.007891
-Writer 8: Value 90 written to location 490 at 0.007893
-
-Snapshot 0: [ 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 40 / 0 / 190 / 0 / 30 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 50 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 150 / 0 / 0 / 30 / 0 / 0 / 0 / 30 / 0 / 0 / 50 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 100 / 0 / 40 / 70 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 90 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 90 / 60 / 100 / 0 / 0 / 0 / 0 / 0 / 180 / 0 / 160 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 180 / 50 / 0 / 0 / 0 / 20 / 60 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 50 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 50 / 0 / 80 / 0 / 0 / 0 / 0 / 0 / 0 / 170 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 10 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 40 / 80 / 0 / 60 / 40 / 30 / 140 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 0 / 0 / 10 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 20 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 100 / 190 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 20 / 0 / 80 / 70 / 0 / 0 / 110 / 0 / 70 / 0 / 0 / 130 / 0 / 0 / 20 / 10 / 0 / 10 / 70 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 70 / 0 / 0 / 0 / 170 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 190 / 0 / 90 / 30 / 110 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 110 / 0 / 0 / 130 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 30 / 100 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 110 / 90 / 10 / 0 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 70 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 160 / 0 / 0 / 0 / 0 / 70 / 170 / 0 / 0 / 0 / 0 / 100 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 140 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 10 / 60 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 10 / 0 / 0 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 70 / 0 / 0 / 0 / 90 / 0 / 0 / 20 / 0 / 0 / 0 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 180 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 100 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 160 / 30 / 0 / 0 / 0 / 0 / 30 / 0 / 80 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 70 / 0 / 100 / 60 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 50 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 100 / 60 / 50 / 0 / 0 / 40 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 160 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 40 / 0 / 90 / 0 / 60 / 0 / 0 / 0 / 70 / 20 / 140 / 150 / 50 / 0 / 0 / 100 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / ]
-started at: 0.007853, ended at: 0.008034
-
-Writer 15: Value 160 written to location 499 at 0.008050
-
-Snapshot 1: [ 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 40 / 0 / 190 / 0 / 30 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 50 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 150 / 0 / 0 / 30 / 0 / 0 / 0 / 30 / 0 / 0 / 50 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 100 / 0 / 40 / 70 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 90 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 90 / 60 / 100 / 0 / 0 / 0 / 0 / 0 / 180 / 0 / 160 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 180 / 50 / 0 / 0 / 0 / 20 / 60 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 50 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 50 / 0 / 80 / 0 / 0 / 0 / 0 / 0 / 0 / 170 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 10 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 40 / 80 / 0 / 60 / 40 / 30 / 140 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 0 / 0 / 10 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 20 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 100 / 190 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 20 / 0 / 80 / 70 / 0 / 0 / 110 / 0 / 70 / 0 / 0 / 130 / 0 / 0 / 20 / 10 / 0 / 10 / 70 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 70 / 0 / 0 / 0 / 170 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 190 / 0 / 90 / 30 / 110 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 110 / 0 / 0 / 130 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 30 / 100 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 110 / 90 / 10 / 0 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 70 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 160 / 0 / 0 / 0 / 0 / 70 / 170 / 0 / 0 / 0 / 0 / 100 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 140 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 10 / 60 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 10 / 0 / 0 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 70 / 0 / 0 / 0 / 90 / 0 / 0 / 20 / 0 / 0 / 0 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 180 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 100 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 160 / 30 / 0 / 0 / 0 / 0 / 30 / 0 / 80 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 70 / 0 / 100 / 60 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 50 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 100 / 60 / 50 / 0 / 0 / 40 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 160 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 40 / 0 / 90 / 0 / 60 / 0 / 0 / 0 / 70 / 20 / 140 / 150 / 50 / 0 / 0 / 100 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / ]
-started at: 0.007939, ended at: 0.008072
-
-Writer 1: Value 20 written to location 772 at 0.008090
-Writer 7: Value 80 written to location 725 at 0.008102
-Writer 8: Value 90 written to location 644 at 0.008109
-Writer 14: Value 150 written to location 590 at 0.008116
-Writer 5: Value 60 written to location 505 at 0.008117
-Writer 19: Value 200 written to location 139 at 0.008142
-Writer 11: Value 120 written to location 954 at 0.008155
-Writer 6: Value 70 written to location 786 at 0.008158
-Writer 18: Value 190 written to location 669 at 0.008163
-Writer 12: Value 130 written to location 82 at 0.008178
-Writer 10: Value 110 written to location 542 at 0.008206
-Writer 13: Value 140 written to location 464 at 0.008232
-Writer 16: Value 170 written to location 197 at 0.008234
-Writer 4: Value 50 written to location 507 at 0.008238
-
-Snapshot 1: [ 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 40 / 0 / 190 / 0 / 30 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 50 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 150 / 0 / 0 / 30 / 0 / 0 / 0 / 30 / 0 / 0 / 50 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 100 / 0 / 40 / 70 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 90 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 170 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 90 / 60 / 100 / 0 / 0 / 0 / 0 / 0 / 180 / 0 / 160 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 180 / 50 / 0 / 0 / 0 / 20 / 60 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 50 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 50 / 0 / 80 / 0 / 0 / 0 / 0 / 0 / 0 / 170 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 10 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 40 / 80 / 0 / 60 / 40 / 30 / 140 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 0 / 0 / 10 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 20 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 100 / 190 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 20 / 0 / 80 / 70 / 0 / 0 / 110 / 0 / 70 / 0 / 0 / 130 / 0 / 0 / 20 / 10 / 0 / 10 / 70 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 140 / 0 / 0 / 70 / 0 / 0 / 0 / 170 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 190 / 0 / 90 / 30 / 110 / 0 / 0 / 0 / 0 / 50 / 0 / 160 / 110 / 0 / 0 / 130 / 0 / 60 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 30 / 100 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 110 / 90 / 10 / 0 / 110 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 70 / 0 / 140 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 160 / 0 / 0 / 0 / 0 / 70 / 170 / 0 / 0 / 0 / 0 / 100 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 20 / 0 / 140 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 190 / 0 / 0 / 0 / 0 / 0 / 90 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 10 / 60 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 10 / 0 / 0 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 80 / 0 / 0 / 0 / 130 / 0 / 0 / 70 / 0 / 0 / 0 / 90 / 0 / 0 / 20 / 0 / 0 / 0 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 180 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 100 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 20 / 0 / 0 / 0 / 160 / 30 / 0 / 0 / 0 / 0 / 30 / 0 / 80 / 0 / 70 / 0 / 40 / 0 / 0 / 0 / 0 / 70 / 0 / 100 / 60 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 50 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 100 / 60 / 50 / 0 / 0 / 40 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 160 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 40 / 0 / 90 / 0 / 60 / 0 / 0 / 0 / 70 / 20 / 140 / 150 / 50 / 0 / 0 / 100 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 70 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / ]
-started at: 0.008238, ended at: 0.008353
+Snapshot 0: [ 21 / 90 / 45 / 31 / 21 / ]
+started at: 0.000937, ended at: 0.000942
 
 
-Snapshot 0: [ 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 40 / 0 / 190 / 0 / 30 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 50 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 150 / 0 / 0 / 30 / 0 / 0 / 0 / 30 / 0 / 0 / 50 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 100 / 0 / 40 / 70 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 90 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 170 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 90 / 60 / 100 / 0 / 0 / 0 / 0 / 0 / 180 / 0 / 160 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 180 / 50 / 0 / 0 / 0 / 20 / 60 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 50 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 50 / 0 / 80 / 0 / 0 / 0 / 0 / 0 / 0 / 170 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 10 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 40 / 80 / 0 / 60 / 40 / 30 / 140 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 0 / 0 / 10 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 20 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 100 / 190 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 20 / 0 / 80 / 70 / 0 / 0 / 110 / 0 / 70 / 0 / 0 / 130 / 0 / 0 / 20 / 10 / 0 / 10 / 70 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 140 / 0 / 0 / 70 / 0 / 0 / 0 / 170 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 190 / 0 / 90 / 30 / 110 / 0 / 0 / 0 / 0 / 50 / 0 / 160 / 110 / 0 / 0 / 130 / 0 / 60 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 30 / 100 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 110 / 90 / 10 / 0 / 110 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 70 / 0 / 140 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 160 / 0 / 0 / 0 / 0 / 70 / 170 / 0 / 0 / 0 / 0 / 100 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 20 / 0 / 140 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 190 / 0 / 0 / 0 / 0 / 0 / 90 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 10 / 60 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 10 / 0 / 0 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 80 / 0 / 0 / 0 / 130 / 0 / 0 / 70 / 0 / 0 / 0 / 90 / 0 / 0 / 20 / 0 / 0 / 0 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 180 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 100 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 20 / 0 / 0 / 0 / 160 / 30 / 0 / 0 / 0 / 0 / 30 / 0 / 80 / 0 / 70 / 0 / 40 / 0 / 0 / 0 / 0 / 70 / 0 / 100 / 60 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 50 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 100 / 60 / 50 / 0 / 0 / 40 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 160 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 40 / 0 / 90 / 0 / 60 / 0 / 0 / 0 / 70 / 20 / 140 / 150 / 50 / 0 / 0 / 100 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 70 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / ]
-started at: 0.008245, ended at: 0.008354
+Snapshot 1: [ 21 / 90 / 45 / 31 / 21 / ]
+started at: 0.000955, ended at: 0.000980
 
-Writer 0: Value 10 written to location 355 at 0.008398
-Writer 16: Value 170 written to location 804 at 0.008449
-Writer 1: Value 20 written to location 348 at 0.008463
-Writer 5: Value 60 written to location 611 at 0.008465
-Writer 2: Value 30 written to location 622 at 0.008496
+Writer 3: Value 52 written to location 2 at 0.000993
+Writer 0: Value 44 written to location 3 at 0.001025
+Writer 1: Value 98 written to location 2 at 0.001031
 
-Snapshot 1: [ 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 40 / 0 / 190 / 0 / 30 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 50 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 150 / 0 / 0 / 30 / 0 / 0 / 0 / 30 / 0 / 0 / 50 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 100 / 0 / 40 / 70 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 90 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 170 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 90 / 60 / 100 / 0 / 0 / 0 / 0 / 0 / 180 / 0 / 160 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 180 / 50 / 0 / 0 / 0 / 20 / 60 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 50 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 50 / 0 / 80 / 0 / 0 / 0 / 0 / 0 / 0 / 170 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 10 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 40 / 0 / 0 / 90 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 40 / 80 / 0 / 60 / 40 / 30 / 140 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 0 / 0 / 10 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 20 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 100 / 190 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 20 / 0 / 80 / 70 / 0 / 0 / 110 / 0 / 70 / 0 / 0 / 130 / 0 / 0 / 20 / 10 / 0 / 10 / 70 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 140 / 0 / 0 / 70 / 0 / 0 / 0 / 170 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 190 / 0 / 90 / 30 / 110 / 0 / 0 / 0 / 0 / 50 / 0 / 160 / 110 / 0 / 0 / 130 / 0 / 60 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 30 / 100 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 110 / 90 / 10 / 0 / 110 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 70 / 0 / 140 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 60 / 0 / 160 / 0 / 0 / 0 / 0 / 70 / 170 / 0 / 0 / 30 / 0 / 100 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 20 / 0 / 140 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 190 / 0 / 0 / 0 / 0 / 0 / 90 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 10 / 60 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 10 / 0 / 0 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 80 / 0 / 0 / 0 / 130 / 0 / 0 / 70 / 0 / 0 / 0 / 90 / 0 / 0 / 20 / 0 / 0 / 0 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 180 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 100 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 20 / 0 / 0 / 0 / 160 / 30 / 0 / 0 / 0 / 0 / 30 / 0 / 80 / 0 / 70 / 0 / 40 / 0 / 0 / 0 / 0 / 70 / 0 / 100 / 60 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 170 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 50 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 100 / 60 / 50 / 0 / 0 / 40 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 160 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 40 / 0 / 90 / 0 / 60 / 0 / 0 / 0 / 70 / 20 / 140 / 150 / 50 / 0 / 0 / 100 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 70 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / ]
-started at: 0.008504, ended at: 0.008616
+Snapshot 0: [ 21 / 90 / 98 / 44 / 21 / ]
+started at: 0.001042, ended at: 0.001046
+
+Writer 2: Value 27 written to location 1 at 0.001049
+Writer 3: Value 58 written to location 2 at 0.001085
+
+Snapshot 1: [ 21 / 27 / 58 / 44 / 21 / ]
+started at: 0.001084, ended at: 0.001092
+
+Writer 1: Value 66 written to location 3 at 0.001128
+Writer 2: Value 76 written to location 4 at 0.001159
+Writer 0: Value 87 written to location 2 at 0.001171
+Writer 3: Value 88 written to location 4 at 0.001188
+
+Snapshot 0: [ 21 / 27 / 87 / 66 / 76 / ]
+started at: 0.001185, ended at: 0.001189
 
 
-Snapshot 0: [ 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 40 / 0 / 190 / 0 / 30 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 50 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 150 / 0 / 0 / 30 / 0 / 0 / 0 / 30 / 0 / 0 / 50 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 100 / 0 / 40 / 70 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 90 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 170 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 90 / 60 / 100 / 0 / 0 / 0 / 0 / 0 / 180 / 0 / 160 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 180 / 50 / 0 / 0 / 0 / 20 / 60 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 50 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 50 / 0 / 80 / 0 / 0 / 0 / 0 / 0 / 0 / 170 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 10 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 40 / 0 / 0 / 90 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 40 / 80 / 0 / 60 / 40 / 30 / 140 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 0 / 0 / 10 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 20 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 100 / 190 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 20 / 0 / 80 / 70 / 0 / 0 / 110 / 0 / 70 / 0 / 0 / 130 / 0 / 0 / 20 / 10 / 0 / 10 / 70 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 140 / 0 / 0 / 70 / 0 / 0 / 0 / 170 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 190 / 0 / 90 / 30 / 110 / 0 / 0 / 0 / 0 / 50 / 0 / 160 / 110 / 0 / 0 / 130 / 0 / 60 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 30 / 100 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 110 / 90 / 10 / 0 / 110 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 70 / 0 / 140 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 60 / 0 / 160 / 0 / 0 / 0 / 0 / 70 / 170 / 0 / 0 / 30 / 0 / 100 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 20 / 0 / 140 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 190 / 0 / 0 / 0 / 0 / 0 / 90 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 10 / 60 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 10 / 0 / 0 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 80 / 0 / 0 / 0 / 130 / 0 / 0 / 70 / 0 / 0 / 0 / 90 / 0 / 0 / 20 / 0 / 0 / 0 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 180 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 100 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 20 / 0 / 0 / 0 / 160 / 30 / 0 / 0 / 0 / 0 / 30 / 0 / 80 / 0 / 70 / 0 / 40 / 0 / 0 / 0 / 0 / 70 / 0 / 100 / 60 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 170 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 50 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 100 / 60 / 50 / 0 / 0 / 40 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 160 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 40 / 0 / 90 / 0 / 60 / 0 / 0 / 0 / 70 / 20 / 140 / 150 / 50 / 0 / 0 / 100 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 70 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / ]
-started at: 0.008506, ended at: 0.008626
+Snapshot 1: [ 21 / 27 / 87 / 66 / 88 / ]
+started at: 0.001197, ended at: 0.001201
 
-Writer 8: Value 90 written to location 828 at 0.008664
-Writer 0: Value 10 written to location 299 at 0.008691
-Writer 6: Value 70 written to location 343 at 0.008692
-Writer 2: Value 30 written to location 746 at 0.008705
-Writer 1: Value 20 written to location 568 at 0.008705
-Writer 16: Value 170 written to location 340 at 0.008718
-Writer 5: Value 60 written to location 422 at 0.008759
-Writer 11: Value 120 written to location 311 at 0.008785
-Writer 9: Value 100 written to location 810 at 0.008904
-Writer 14: Value 150 written to location 605 at 0.008917
-Writer 15: Value 160 written to location 801 at 0.008939
-Writer 13: Value 140 written to location 661 at 0.008974
-Writer 11: Value 120 written to location 730 at 0.008985
-Writer 0: Value 10 written to location 878 at 0.009009
-Writer 6: Value 70 written to location 305 at 0.009010
-Writer 16: Value 170 written to location 320 at 0.009010
-Writer 4: Value 50 written to location 736 at 0.009125
-Writer 1: Value 20 written to location 444 at 0.009159
-Writer 8: Value 90 written to location 626 at 0.009167
-Writer 19: Value 200 written to location 522 at 0.009176
-Writer 6: Value 70 written to location 708 at 0.009221
-Writer 10: Value 110 written to location 465 at 0.009221
-Writer 0: Value 10 written to location 416 at 0.009236
-Writer 16: Value 170 written to location 282 at 0.009240
-Writer 7: Value 80 written to location 258 at 0.009263
-Writer 12: Value 130 written to location 924 at 0.009314
-Writer 5: Value 60 written to location 637 at 0.009377
-Writer 13: Value 140 written to location 62 at 0.009400
-Writer 16: Value 170 written to location 624 at 0.009498
-Writer 0: Value 10 written to location 600 at 0.009499
-Writer 10: Value 110 written to location 36 at 0.009500
+Writer 1: Value 65 written to location 0 at 0.001219
+Writer 0: Value 89 written to location 1 at 0.001261
+Writer 2: Value 101 written to location 0 at 0.001293
 
-Snapshot 1: [ 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 40 / 0 / 190 / 0 / 30 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 50 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 150 / 0 / 0 / 30 / 0 / 0 / 0 / 30 / 0 / 0 / 50 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 100 / 0 / 40 / 70 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 90 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 170 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 90 / 60 / 100 / 0 / 0 / 0 / 0 / 0 / 180 / 0 / 160 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 180 / 50 / 0 / 0 / 0 / 20 / 60 / 170 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 60 / 0 / 0 / 0 / 70 / 60 / 0 / 0 / 0 / 0 / 120 / 0 / 30 / 0 / 50 / 0 / 80 / 0 / 0 / 170 / 0 / 0 / 0 / 170 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 10 / 0 / 0 / 0 / 170 / 0 / 0 / 70 / 0 / 0 / 0 / 0 / 20 / 0 / 40 / 0 / 0 / 90 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 40 / 80 / 0 / 60 / 40 / 30 / 140 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 0 / 0 / 10 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 20 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 100 / 190 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 130 / 60 / 0 / 0 / 0 / 20 / 0 / 80 / 70 / 0 / 0 / 110 / 0 / 70 / 0 / 0 / 130 / 0 / 0 / 20 / 10 / 0 / 10 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 110 / 0 / 140 / 0 / 0 / 70 / 0 / 0 / 0 / 170 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 190 / 0 / 90 / 30 / 110 / 0 / 0 / 0 / 0 / 50 / 0 / 160 / 110 / 0 / 0 / 130 / 0 / 60 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 110 / 0 / 30 / 100 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 110 / 90 / 10 / 0 / 110 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 20 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 70 / 0 / 140 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 150 / 140 / 0 / 0 / 0 / 0 / 60 / 0 / 160 / 0 / 0 / 0 / 0 / 70 / 170 / 0 / 0 / 30 / 0 / 100 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 20 / 0 / 140 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 190 / 0 / 0 / 0 / 0 / 0 / 90 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 10 / 60 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 10 / 0 / 0 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 80 / 0 / 0 / 0 / 130 / 120 / 0 / 70 / 0 / 0 / 0 / 50 / 0 / 0 / 20 / 0 / 0 / 0 / 190 / 0 / 0 / 30 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 180 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 100 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 20 / 0 / 0 / 0 / 160 / 30 / 0 / 0 / 0 / 0 / 30 / 0 / 80 / 0 / 70 / 0 / 40 / 0 / 0 / 0 / 0 / 70 / 0 / 100 / 60 / 0 / 0 / 0 / 0 / 160 / 30 / 0 / 170 / 0 / 0 / 0 / 90 / 0 / 100 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 50 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 100 / 60 / 50 / 0 / 0 / 40 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 30 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 160 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 40 / 0 / 90 / 0 / 60 / 0 / 0 / 130 / 70 / 20 / 140 / 150 / 50 / 0 / 0 / 100 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 70 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / ]
-started at: 0.008783, ended at: 0.009526
+Snapshot 0: [ 101 / 89 / 87 / 66 / 88 / ]
+started at: 0.001292, ended at: 0.001296
 
-Writer 19: Value 200 written to location 452 at 0.009607
-Writer 17: Value 180 written to location 899 at 0.009633
-Writer 13: Value 140 written to location 379 at 0.009647
-Writer 16: Value 170 written to location 550 at 0.009688
-Writer 1: Value 20 written to location 468 at 0.009698
-Writer 8: Value 90 written to location 71 at 0.009706
-Writer 0: Value 10 written to location 973 at 0.009706
-Writer 10: Value 110 written to location 131 at 0.009712
-Writer 5: Value 60 written to location 881 at 0.009752
-Writer 7: Value 80 written to location 930 at 0.009777
-Writer 3: Value 40 written to location 933 at 0.009803
-Writer 11: Value 120 written to location 894 at 0.009908
+Writer 1: Value 41 written to location 3 at 0.001305
 
-Snapshot 1: [ 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 40 / 0 / 190 / 0 / 30 / 0 / 0 / 140 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 40 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 50 / 10 / 0 / 140 / 0 / 0 / 0 / 0 / 30 / 0 / 110 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 150 / 0 / 0 / 30 / 0 / 0 / 0 / 30 / 0 / 0 / 50 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 100 / 0 / 40 / 70 / 0 / 0 / 0 / 130 / 0 / 0 / 110 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 0 / 90 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 170 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 90 / 60 / 100 / 0 / 0 / 0 / 0 / 0 / 180 / 0 / 160 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 180 / 50 / 0 / 0 / 0 / 20 / 60 / 170 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 60 / 0 / 0 / 0 / 70 / 60 / 0 / 0 / 0 / 0 / 120 / 0 / 30 / 0 / 50 / 0 / 80 / 0 / 0 / 170 / 0 / 0 / 0 / 170 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 10 / 0 / 0 / 0 / 170 / 0 / 0 / 70 / 0 / 0 / 0 / 0 / 20 / 0 / 40 / 0 / 0 / 90 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 40 / 80 / 0 / 60 / 40 / 30 / 140 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 10 / 140 / 0 / 0 / 0 / 10 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 20 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 100 / 190 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 130 / 60 / 0 / 0 / 0 / 20 / 0 / 80 / 70 / 0 / 0 / 110 / 0 / 70 / 0 / 0 / 130 / 0 / 0 / 20 / 10 / 0 / 10 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 200 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 110 / 0 / 140 / 20 / 0 / 70 / 0 / 0 / 0 / 170 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 190 / 0 / 90 / 30 / 110 / 0 / 0 / 0 / 0 / 50 / 0 / 160 / 110 / 0 / 0 / 130 / 0 / 60 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 110 / 0 / 30 / 100 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 110 / 90 / 10 / 0 / 110 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 170 / 140 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 20 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 70 / 0 / 140 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 20 / 0 / 0 / 0 / 150 / 140 / 0 / 0 / 0 / 0 / 60 / 0 / 160 / 0 / 0 / 0 / 0 / 70 / 170 / 0 / 0 / 30 / 0 / 170 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 20 / 0 / 140 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 190 / 0 / 0 / 0 / 0 / 0 / 90 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 10 / 60 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 10 / 0 / 0 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 80 / 0 / 0 / 0 / 130 / 120 / 0 / 70 / 0 / 0 / 0 / 50 / 0 / 0 / 20 / 0 / 0 / 0 / 190 / 0 / 0 / 30 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 180 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 100 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 20 / 0 / 0 / 0 / 160 / 30 / 0 / 0 / 0 / 0 / 30 / 0 / 80 / 0 / 70 / 0 / 40 / 0 / 0 / 0 / 0 / 70 / 0 / 100 / 60 / 0 / 0 / 0 / 0 / 160 / 30 / 0 / 170 / 0 / 0 / 0 / 90 / 0 / 100 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 50 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 100 / 60 / 50 / 0 / 0 / 40 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 30 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 180 / 0 / 0 / 160 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 40 / 0 / 90 / 0 / 60 / 0 / 0 / 130 / 70 / 20 / 140 / 150 / 50 / 80 / 0 / 100 / 40 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 70 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / ]
-started at: 0.009800, ended at: 0.009914
+Snapshot 1: [ 101 / 89 / 87 / 41 / 88 / ]
+started at: 0.001308, ended at: 0.001312
 
-Writer 18: Value 190 written to location 660 at 0.009927
-Writer 9: Value 100 written to location 163 at 0.009986
-Writer 12: Value 130 written to location 199 at 0.009988
-Writer 5: Value 60 written to location 981 at 0.009996
-Writer 13: Value 140 written to location 899 at 0.009998
-Writer 7: Value 80 written to location 996 at 0.010008
-Writer 19: Value 200 written to location 959 at 0.010015
-Writer 6: Value 70 written to location 773 at 0.010043
-Writer 8: Value 90 written to location 813 at 0.010117
-Writer 0: Value 10 written to location 668 at 0.010117
-Writer 10: Value 110 written to location 190 at 0.010121
-Writer 3: Value 40 written to location 95 at 0.010140
-Writer 1: Value 20 written to location 926 at 0.010148
-Writer 7: Value 80 written to location 466 at 0.010194
+Writer 3: Value 39 written to location 0 at 0.001326
+Writer 0: Value 45 written to location 1 at 0.001361
+Writer 1: Value 47 written to location 0 at 0.001402
+Writer 2: Value 44 written to location 2 at 0.001402
 
-Snapshot 1: [ 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 40 / 0 / 190 / 0 / 30 / 0 / 0 / 140 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 40 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 50 / 10 / 0 / 140 / 0 / 0 / 0 / 0 / 30 / 0 / 110 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 150 / 0 / 0 / 30 / 0 / 0 / 0 / 30 / 0 / 0 / 50 / 40 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 100 / 0 / 40 / 70 / 0 / 0 / 0 / 130 / 0 / 0 / 110 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 100 / 0 / 0 / 0 / 50 / 0 / 0 / 90 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 130 / 0 / 0 / 0 / 170 / 20 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 90 / 60 / 100 / 0 / 0 / 0 / 0 / 0 / 180 / 0 / 160 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 180 / 50 / 0 / 0 / 0 / 20 / 60 / 170 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 60 / 0 / 0 / 0 / 70 / 60 / 0 / 0 / 0 / 0 / 120 / 0 / 30 / 0 / 50 / 0 / 80 / 0 / 0 / 170 / 0 / 0 / 0 / 170 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 10 / 0 / 0 / 0 / 170 / 0 / 0 / 70 / 0 / 0 / 0 / 0 / 20 / 0 / 40 / 0 / 0 / 90 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 40 / 80 / 0 / 60 / 40 / 30 / 140 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 10 / 140 / 0 / 0 / 0 / 10 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 20 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 100 / 190 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 130 / 60 / 0 / 0 / 0 / 20 / 0 / 80 / 70 / 0 / 0 / 110 / 0 / 70 / 0 / 0 / 130 / 0 / 0 / 20 / 10 / 0 / 10 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 200 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 110 / 80 / 140 / 20 / 0 / 70 / 0 / 0 / 0 / 170 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 190 / 0 / 90 / 30 / 110 / 0 / 0 / 0 / 0 / 50 / 0 / 160 / 110 / 0 / 0 / 130 / 0 / 60 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 110 / 0 / 30 / 100 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 110 / 90 / 10 / 0 / 110 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 170 / 140 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 20 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 70 / 0 / 140 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 20 / 0 / 0 / 0 / 150 / 140 / 0 / 0 / 0 / 0 / 60 / 0 / 160 / 0 / 0 / 0 / 0 / 70 / 170 / 0 / 0 / 30 / 0 / 170 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 20 / 0 / 140 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 190 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 190 / 0 / 0 / 0 / 0 / 0 / 90 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 10 / 60 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 10 / 0 / 0 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 80 / 0 / 0 / 0 / 130 / 120 / 0 / 70 / 0 / 0 / 0 / 50 / 0 / 0 / 20 / 0 / 0 / 0 / 190 / 0 / 0 / 30 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 180 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 100 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 20 / 70 / 0 / 0 / 160 / 30 / 0 / 0 / 0 / 0 / 30 / 0 / 80 / 0 / 70 / 0 / 40 / 0 / 0 / 0 / 0 / 70 / 0 / 100 / 60 / 0 / 0 / 0 / 0 / 160 / 30 / 0 / 170 / 0 / 0 / 0 / 90 / 0 / 100 / 0 / 0 / 90 / 110 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 50 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 100 / 60 / 50 / 0 / 0 / 40 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 30 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 10 / 0 / 0 / 0 / 140 / 0 / 0 / 160 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 40 / 0 / 90 / 0 / 60 / 0 / 0 / 130 / 70 / 20 / 140 / 150 / 50 / 80 / 0 / 100 / 40 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 70 / 0 / 0 / 200 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 60 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 0 / 0 / ]
-started at: 0.010065, ended at: 0.010327
+Snapshot 0: [ 47 / 45 / 44 / 41 / 88 / ]
+started at: 0.001401, ended at: 0.001405
 
-Writer 19: Value 200 written to location 84 at 0.010332
-Writer 14: Value 150 written to location 340 at 0.010346
-Writer 15: Value 160 written to location 90 at 0.010369
-Writer 9: Value 100 written to location 684 at 0.010386
-Writer 7: Value 80 written to location 376 at 0.010386
-Writer 4: Value 50 written to location 542 at 0.010398
-Writer 1: Value 20 written to location 936 at 0.010401
-Writer 8: Value 90 written to location 107 at 0.010415
-Writer 12: Value 130 written to location 445 at 0.010420
-Writer 17: Value 180 written to location 756 at 0.010422
-Writer 10: Value 110 written to location 179 at 0.010426
-Writer 11: Value 120 written to location 418 at 0.010433
-Writer 5: Value 60 written to location 887 at 0.010434
-Writer 13: Value 140 written to location 412 at 0.010436
-Writer 3: Value 40 written to location 348 at 0.010536
 
-Snapshot 0: [ 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 40 / 0 / 190 / 0 / 30 / 0 / 0 / 140 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 40 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 50 / 10 / 0 / 140 / 0 / 0 / 0 / 0 / 30 / 0 / 110 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 200 / 0 / 0 / 30 / 0 / 0 / 160 / 30 / 0 / 0 / 50 / 40 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 100 / 0 / 40 / 70 / 0 / 0 / 0 / 130 / 0 / 0 / 110 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 100 / 0 / 0 / 0 / 50 / 0 / 0 / 90 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 10 / 110 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 130 / 0 / 0 / 0 / 170 / 20 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 90 / 60 / 100 / 0 / 0 / 0 / 0 / 0 / 180 / 0 / 160 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 180 / 50 / 0 / 0 / 0 / 20 / 60 / 170 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 60 / 0 / 0 / 0 / 70 / 60 / 0 / 0 / 0 / 0 / 120 / 0 / 30 / 0 / 50 / 0 / 80 / 0 / 0 / 170 / 0 / 0 / 0 / 170 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 10 / 0 / 0 / 0 / 150 / 0 / 0 / 70 / 0 / 0 / 0 / 0 / 20 / 0 / 40 / 0 / 0 / 90 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 40 / 80 / 0 / 60 / 40 / 30 / 140 / 0 / 0 / 20 / 0 / 0 / 80 / 0 / 10 / 140 / 0 / 0 / 0 / 10 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 20 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 100 / 190 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 140 / 60 / 0 / 0 / 10 / 0 / 120 / 0 / 0 / 130 / 60 / 0 / 0 / 0 / 20 / 0 / 80 / 70 / 0 / 0 / 110 / 0 / 70 / 0 / 0 / 130 / 0 / 0 / 20 / 10 / 0 / 10 / 20 / 130 / 0 / 0 / 0 / 0 / 0 / 10 / 200 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 110 / 80 / 140 / 20 / 0 / 70 / 0 / 0 / 0 / 170 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 190 / 0 / 90 / 30 / 110 / 0 / 0 / 0 / 0 / 50 / 0 / 160 / 110 / 0 / 0 / 130 / 0 / 60 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 110 / 0 / 30 / 100 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 110 / 90 / 10 / 0 / 50 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 170 / 140 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 20 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 70 / 0 / 140 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 20 / 0 / 0 / 0 / 150 / 140 / 0 / 0 / 0 / 0 / 60 / 0 / 160 / 0 / 0 / 0 / 0 / 70 / 170 / 0 / 0 / 30 / 0 / 170 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 20 / 0 / 140 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 190 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 190 / 0 / 0 / 0 / 0 / 0 / 90 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 100 / 0 / 0 / 0 / 10 / 60 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 10 / 0 / 0 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 80 / 0 / 0 / 0 / 130 / 120 / 0 / 70 / 0 / 0 / 0 / 50 / 0 / 0 / 20 / 0 / 0 / 0 / 190 / 0 / 0 / 30 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 180 / 0 / 180 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 100 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 20 / 70 / 0 / 0 / 160 / 30 / 0 / 0 / 0 / 0 / 30 / 0 / 80 / 0 / 70 / 0 / 40 / 0 / 0 / 0 / 0 / 70 / 0 / 100 / 60 / 0 / 0 / 0 / 0 / 160 / 30 / 0 / 170 / 0 / 0 / 0 / 90 / 0 / 100 / 0 / 0 / 90 / 110 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 50 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 100 / 60 / 50 / 0 / 0 / 40 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 30 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 20 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 10 / 0 / 0 / 0 / 140 / 0 / 0 / 160 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 40 / 0 / 90 / 0 / 60 / 0 / 0 / 130 / 70 / 20 / 140 / 150 / 50 / 80 / 0 / 100 / 40 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 70 / 0 / 0 / 200 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 60 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 0 / 0 / ]
-started at: 0.009123, ended at: 0.010544
+Snapshot 1: [ 47 / 45 / 44 / 41 / 88 / ]
+started at: 0.001419, ended at: 0.001421
 
-Writer 16: Value 170 written to location 172 at 0.010586
-Writer 8: Value 90 written to location 659 at 0.010628
-Writer 5: Value 60 written to location 9 at 0.010636
-Writer 10: Value 110 written to location 336 at 0.010640
-Writer 13: Value 140 written to location 210 at 0.010645
-Writer 2: Value 30 written to location 342 at 0.010683
-Writer 0: Value 10 written to location 587 at 0.010767
-Writer 15: Value 160 written to location 206 at 0.010770
-Writer 18: Value 190 written to location 301 at 0.010785
+Writer 3: Value 33 written to location 0 at 0.001425
+Writer 0: Value 16 written to location 4 at 0.001455
+Writer 2: Value 78 written to location 2 at 0.001498
+Writer 1: Value 96 written to location 0 at 0.001511
+Writer 3: Value 39 written to location 0 at 0.001513
 
-Snapshot 1: [ 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 140 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 40 / 0 / 190 / 0 / 30 / 0 / 0 / 140 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 40 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 50 / 10 / 0 / 140 / 0 / 0 / 0 / 0 / 30 / 0 / 110 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 200 / 0 / 0 / 30 / 0 / 0 / 160 / 30 / 0 / 0 / 50 / 40 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 100 / 0 / 40 / 70 / 0 / 0 / 0 / 130 / 0 / 0 / 110 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 100 / 0 / 0 / 0 / 50 / 0 / 0 / 90 / 0 / 170 / 0 / 0 / 0 / 0 / 0 / 10 / 110 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 130 / 0 / 0 / 0 / 170 / 20 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 90 / 60 / 100 / 0 / 0 / 0 / 0 / 0 / 180 / 0 / 160 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 180 / 50 / 0 / 0 / 0 / 20 / 60 / 170 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 60 / 0 / 0 / 0 / 70 / 60 / 0 / 0 / 0 / 0 / 120 / 0 / 30 / 0 / 50 / 0 / 80 / 0 / 0 / 170 / 0 / 0 / 0 / 170 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 110 / 0 / 0 / 0 / 150 / 0 / 30 / 70 / 0 / 0 / 0 / 0 / 40 / 0 / 40 / 0 / 0 / 90 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 40 / 80 / 0 / 60 / 40 / 30 / 140 / 0 / 0 / 20 / 0 / 0 / 80 / 0 / 10 / 140 / 0 / 0 / 0 / 10 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 20 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 100 / 190 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 140 / 60 / 0 / 0 / 10 / 0 / 120 / 0 / 0 / 130 / 60 / 0 / 0 / 0 / 20 / 0 / 80 / 70 / 0 / 0 / 110 / 0 / 70 / 0 / 0 / 130 / 0 / 0 / 20 / 10 / 0 / 10 / 20 / 130 / 0 / 0 / 0 / 0 / 0 / 10 / 200 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 110 / 80 / 140 / 20 / 0 / 70 / 0 / 0 / 0 / 170 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 190 / 0 / 90 / 30 / 110 / 0 / 0 / 0 / 0 / 50 / 0 / 160 / 110 / 0 / 0 / 130 / 0 / 60 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 110 / 0 / 30 / 100 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 110 / 90 / 10 / 0 / 50 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 170 / 140 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 20 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 70 / 0 / 140 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 20 / 0 / 0 / 0 / 150 / 140 / 0 / 0 / 0 / 0 / 60 / 0 / 160 / 0 / 0 / 0 / 0 / 70 / 170 / 0 / 0 / 30 / 0 / 170 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 20 / 0 / 140 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 190 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 190 / 0 / 0 / 0 / 0 / 0 / 90 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 100 / 0 / 0 / 0 / 10 / 60 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 10 / 0 / 0 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 80 / 0 / 0 / 0 / 130 / 120 / 0 / 70 / 0 / 0 / 0 / 50 / 0 / 0 / 20 / 0 / 0 / 0 / 190 / 0 / 0 / 30 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 180 / 0 / 180 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 100 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 20 / 70 / 0 / 0 / 160 / 30 / 0 / 0 / 0 / 0 / 30 / 0 / 80 / 0 / 70 / 0 / 40 / 0 / 0 / 0 / 0 / 70 / 0 / 100 / 60 / 0 / 0 / 0 / 0 / 160 / 30 / 0 / 170 / 0 / 0 / 0 / 90 / 0 / 100 / 0 / 0 / 90 / 110 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 50 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 100 / 60 / 50 / 0 / 0 / 40 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 30 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 20 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 10 / 0 / 0 / 0 / 140 / 0 / 0 / 160 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 40 / 0 / 90 / 0 / 60 / 0 / 0 / 130 / 70 / 20 / 140 / 150 / 50 / 80 / 0 / 100 / 40 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 70 / 0 / 0 / 200 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 60 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 0 / 0 / ]
-started at: 0.010483, ended at: 0.010792
+Snapshot 1: [ 39 / 45 / 78 / 41 / 16 / ]
+started at: 0.001520, ended at: 0.001524
 
-Writer 7: Value 80 written to location 713 at 0.010898
 
-Snapshot 0: [ 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 140 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 40 / 0 / 190 / 0 / 30 / 0 / 0 / 140 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 40 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 50 / 10 / 0 / 140 / 0 / 0 / 0 / 0 / 30 / 0 / 110 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 200 / 0 / 0 / 30 / 0 / 0 / 160 / 30 / 0 / 0 / 50 / 40 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 100 / 0 / 40 / 70 / 0 / 0 / 0 / 130 / 0 / 0 / 110 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 100 / 0 / 0 / 0 / 50 / 0 / 0 / 90 / 0 / 170 / 0 / 0 / 0 / 0 / 0 / 10 / 110 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 130 / 0 / 0 / 0 / 170 / 20 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 160 / 0 / 0 / 0 / 140 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 90 / 60 / 100 / 0 / 0 / 0 / 0 / 0 / 180 / 0 / 160 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 180 / 50 / 0 / 0 / 0 / 20 / 60 / 170 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 190 / 0 / 0 / 0 / 70 / 60 / 0 / 0 / 0 / 0 / 120 / 0 / 30 / 0 / 50 / 0 / 80 / 0 / 0 / 170 / 0 / 0 / 0 / 170 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 110 / 0 / 0 / 0 / 150 / 0 / 30 / 70 / 0 / 0 / 0 / 0 / 40 / 0 / 40 / 0 / 0 / 90 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 40 / 80 / 0 / 60 / 40 / 30 / 140 / 0 / 0 / 20 / 0 / 0 / 80 / 0 / 10 / 140 / 0 / 0 / 0 / 10 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 20 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 100 / 190 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 140 / 60 / 0 / 0 / 10 / 0 / 120 / 0 / 0 / 130 / 60 / 0 / 0 / 0 / 20 / 0 / 80 / 70 / 0 / 0 / 110 / 0 / 70 / 0 / 0 / 130 / 0 / 0 / 20 / 10 / 0 / 10 / 20 / 130 / 0 / 0 / 0 / 0 / 0 / 10 / 200 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 110 / 80 / 140 / 20 / 0 / 70 / 0 / 0 / 0 / 170 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 190 / 0 / 90 / 30 / 110 / 0 / 0 / 0 / 0 / 50 / 0 / 160 / 110 / 0 / 0 / 130 / 0 / 60 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 110 / 0 / 30 / 100 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 110 / 90 / 10 / 0 / 50 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 170 / 140 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 20 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 70 / 0 / 140 / 10 / 0 / 0 / 150 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 20 / 0 / 0 / 0 / 150 / 140 / 0 / 0 / 0 / 0 / 60 / 0 / 160 / 0 / 0 / 0 / 0 / 70 / 170 / 0 / 0 / 30 / 0 / 170 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 20 / 0 / 140 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 190 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 190 / 0 / 0 / 0 / 0 / 0 / 90 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 100 / 0 / 0 / 0 / 10 / 60 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 10 / 0 / 0 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 80 / 0 / 0 / 0 / 130 / 120 / 0 / 70 / 0 / 0 / 0 / 50 / 0 / 0 / 20 / 0 / 0 / 0 / 190 / 0 / 0 / 30 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 180 / 0 / 180 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 100 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 20 / 70 / 0 / 0 / 160 / 30 / 0 / 0 / 0 / 0 / 30 / 0 / 80 / 0 / 70 / 0 / 40 / 0 / 0 / 0 / 0 / 70 / 0 / 100 / 60 / 0 / 0 / 0 / 0 / 160 / 30 / 0 / 170 / 0 / 0 / 0 / 90 / 0 / 100 / 0 / 0 / 90 / 110 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 50 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 100 / 60 / 50 / 0 / 0 / 40 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 30 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 20 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 10 / 0 / 0 / 0 / 140 / 0 / 0 / 160 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 40 / 0 / 90 / 0 / 60 / 0 / 0 / 130 / 70 / 20 / 140 / 150 / 50 / 80 / 0 / 100 / 40 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 70 / 0 / 0 / 200 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 60 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 0 / 0 / ]
-started at: 0.010781, ended at: 0.010900
+Snapshot 0: [ 96 / 45 / 78 / 41 / 16 / ]
+started at: 0.001511, ended at: 0.001535
 
-Writer 8: Value 90 written to location 372 at 0.010903
-Writer 6: Value 70 written to location 321 at 0.010921
-Writer 11: Value 120 written to location 255 at 0.010931
-Writer 1: Value 20 written to location 819 at 0.010932
-Writer 17: Value 180 written to location 599 at 0.010938
-Writer 4: Value 50 written to location 721 at 0.010952
-Writer 0: Value 10 written to location 904 at 0.010963
-Writer 14: Value 150 written to location 939 at 0.010977
-Writer 15: Value 160 written to location 811 at 0.010986
-Writer 18: Value 190 written to location 940 at 0.011022
-Writer 13: Value 140 written to location 667 at 0.011024
-Writer 2: Value 30 written to location 705 at 0.011025
-Writer 5: Value 60 written to location 228 at 0.011059
-Writer 3: Value 40 written to location 127 at 0.011134
+Writer 0: Value 38 written to location 2 at 0.001552
+Writer 2: Value 28 written to location 4 at 0.001602
+Writer 3: Value 78 written to location 0 at 0.001606
+Writer 1: Value 32 written to location 3 at 0.001617
 
-Snapshot 0: [ 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 140 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 40 / 0 / 190 / 0 / 30 / 0 / 0 / 140 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 40 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 50 / 10 / 0 / 140 / 0 / 0 / 0 / 0 / 30 / 0 / 110 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 200 / 0 / 0 / 30 / 0 / 0 / 160 / 30 / 0 / 0 / 50 / 40 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 100 / 0 / 40 / 70 / 0 / 0 / 0 / 130 / 0 / 0 / 110 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 150 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 100 / 0 / 0 / 0 / 50 / 0 / 0 / 90 / 0 / 170 / 0 / 0 / 0 / 0 / 0 / 10 / 110 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 130 / 0 / 0 / 0 / 170 / 20 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 160 / 0 / 0 / 0 / 140 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 90 / 60 / 100 / 0 / 0 / 0 / 0 / 0 / 180 / 0 / 160 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 80 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 180 / 50 / 0 / 0 / 0 / 20 / 60 / 170 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 190 / 0 / 0 / 0 / 70 / 60 / 0 / 0 / 0 / 0 / 120 / 0 / 30 / 0 / 50 / 0 / 80 / 0 / 0 / 170 / 70 / 0 / 0 / 170 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 110 / 0 / 0 / 0 / 150 / 0 / 30 / 70 / 0 / 0 / 0 / 0 / 40 / 0 / 40 / 0 / 0 / 90 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 40 / 80 / 0 / 60 / 40 / 30 / 140 / 0 / 90 / 20 / 0 / 0 / 80 / 0 / 10 / 140 / 0 / 0 / 0 / 10 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 20 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 100 / 190 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 140 / 60 / 0 / 0 / 10 / 0 / 120 / 0 / 0 / 130 / 60 / 0 / 0 / 0 / 20 / 0 / 80 / 70 / 0 / 0 / 110 / 0 / 70 / 0 / 0 / 130 / 0 / 0 / 20 / 10 / 0 / 10 / 20 / 130 / 0 / 0 / 0 / 0 / 0 / 10 / 200 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 110 / 80 / 140 / 20 / 0 / 70 / 0 / 0 / 0 / 170 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 190 / 0 / 90 / 30 / 110 / 0 / 0 / 0 / 0 / 50 / 0 / 160 / 110 / 0 / 0 / 130 / 0 / 60 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 110 / 0 / 30 / 100 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 110 / 90 / 10 / 0 / 50 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 170 / 140 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 20 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 70 / 0 / 140 / 10 / 0 / 0 / 150 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 180 / 10 / 20 / 0 / 0 / 0 / 150 / 140 / 0 / 0 / 0 / 0 / 60 / 0 / 160 / 0 / 0 / 0 / 0 / 70 / 170 / 0 / 0 / 30 / 0 / 170 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 20 / 0 / 140 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 190 / 140 / 0 / 0 / 0 / 0 / 0 / 140 / 10 / 190 / 0 / 0 / 0 / 0 / 0 / 90 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 100 / 0 / 0 / 0 / 10 / 60 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 0 / 70 / 10 / 0 / 0 / 0 / 80 / 0 / 200 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 20 / 0 / 80 / 0 / 0 / 0 / 130 / 120 / 0 / 70 / 0 / 0 / 0 / 50 / 0 / 0 / 20 / 0 / 0 / 0 / 190 / 0 / 0 / 30 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 180 / 0 / 180 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 100 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 20 / 70 / 0 / 0 / 160 / 30 / 0 / 0 / 0 / 0 / 30 / 0 / 80 / 0 / 70 / 0 / 40 / 0 / 0 / 0 / 0 / 70 / 0 / 100 / 60 / 0 / 0 / 0 / 0 / 160 / 30 / 0 / 170 / 0 / 0 / 0 / 90 / 0 / 100 / 160 / 0 / 90 / 110 / 0 / 0 / 0 / 120 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 50 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 100 / 60 / 50 / 0 / 0 / 40 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 30 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 20 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 10 / 0 / 0 / 0 / 140 / 0 / 0 / 160 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 40 / 0 / 90 / 0 / 60 / 0 / 0 / 130 / 70 / 20 / 140 / 150 / 50 / 80 / 0 / 100 / 40 / 0 / 0 / 20 / 0 / 0 / 150 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 70 / 0 / 0 / 200 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 60 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 0 / 0 / ]
-started at: 0.011065, ended at: 0.011190
+Snapshot 0: [ 78 / 45 / 38 / 32 / 28 / ]
+started at: 0.001618, ended at: 0.001622
 
-Writer 12: Value 130 written to location 150 at 0.011195
-Writer 10: Value 110 written to location 984 at 0.011240
-Writer 5: Value 60 written to location 658 at 0.011247
-Writer 9: Value 100 written to location 920 at 0.011323
-Writer 1: Value 20 written to location 224 at 0.011333
-Writer 18: Value 190 written to location 422 at 0.011360
-Writer 14: Value 150 written to location 269 at 0.011364
-Writer 13: Value 140 written to location 396 at 0.011444
-Writer 17: Value 180 written to location 81 at 0.011481
-Writer 2: Value 30 written to location 630 at 0.011486
-Writer 3: Value 40 written to location 84 at 0.011506
-Writer 7: Value 80 written to location 292 at 0.011524
-Writer 8: Value 90 written to location 972 at 0.011604
-Writer 14: Value 150 written to location 672 at 0.011605
-Writer 18: Value 190 written to location 850 at 0.011684
-Writer 15: Value 160 written to location 625 at 0.011700
-Writer 4: Value 50 written to location 385 at 0.011743
-Writer 6: Value 70 written to location 222 at 0.011855
-Writer 12: Value 130 written to location 299 at 0.011871
-Writer 0: Value 10 written to location 640 at 0.011887
 
-Snapshot 0: [ 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 140 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 40 / 0 / 190 / 0 / 30 / 0 / 0 / 140 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 40 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 50 / 10 / 0 / 140 / 0 / 0 / 0 / 0 / 30 / 0 / 110 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 180 / 130 / 0 / 40 / 0 / 0 / 30 / 0 / 0 / 160 / 30 / 0 / 0 / 50 / 40 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 100 / 0 / 40 / 70 / 0 / 0 / 40 / 130 / 0 / 0 / 110 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 150 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 100 / 0 / 0 / 0 / 50 / 0 / 0 / 90 / 0 / 170 / 0 / 0 / 0 / 0 / 0 / 10 / 110 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 130 / 0 / 0 / 0 / 170 / 20 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 160 / 0 / 0 / 0 / 140 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 20 / 0 / 40 / 90 / 60 / 100 / 0 / 0 / 0 / 0 / 0 / 180 / 0 / 160 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 80 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 150 / 60 / 0 / 0 / 0 / 0 / 180 / 50 / 0 / 0 / 0 / 20 / 60 / 170 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 190 / 0 / 0 / 0 / 70 / 60 / 0 / 0 / 0 / 0 / 120 / 0 / 30 / 0 / 50 / 0 / 80 / 0 / 0 / 170 / 70 / 0 / 0 / 170 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 110 / 0 / 0 / 0 / 150 / 0 / 30 / 70 / 0 / 0 / 0 / 0 / 40 / 0 / 40 / 0 / 0 / 90 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 40 / 80 / 0 / 60 / 40 / 30 / 140 / 0 / 90 / 20 / 0 / 0 / 80 / 0 / 10 / 140 / 0 / 0 / 0 / 10 / 0 / 50 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 20 / 140 / 0 / 0 / 130 / 0 / 0 / 0 / 100 / 190 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 140 / 60 / 0 / 0 / 10 / 0 / 120 / 0 / 0 / 130 / 190 / 0 / 0 / 0 / 20 / 0 / 80 / 70 / 0 / 0 / 110 / 0 / 70 / 0 / 0 / 130 / 0 / 0 / 20 / 10 / 0 / 10 / 20 / 130 / 0 / 0 / 0 / 0 / 0 / 10 / 200 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 110 / 80 / 140 / 20 / 0 / 70 / 0 / 0 / 0 / 170 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 190 / 0 / 90 / 30 / 110 / 0 / 0 / 0 / 0 / 50 / 0 / 160 / 110 / 0 / 0 / 130 / 0 / 60 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 110 / 0 / 30 / 100 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 110 / 90 / 10 / 0 / 50 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 170 / 140 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 20 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 70 / 0 / 140 / 10 / 0 / 0 / 150 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 180 / 10 / 20 / 0 / 0 / 0 / 150 / 140 / 0 / 0 / 0 / 0 / 60 / 0 / 160 / 0 / 0 / 0 / 0 / 70 / 170 / 0 / 0 / 30 / 0 / 170 / 160 / 90 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 20 / 0 / 140 / 140 / 0 / 0 / 0 / 0 / 0 / 60 / 90 / 190 / 140 / 0 / 0 / 0 / 0 / 0 / 140 / 10 / 190 / 0 / 0 / 150 / 0 / 0 / 90 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 100 / 0 / 0 / 0 / 10 / 60 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 0 / 70 / 10 / 0 / 0 / 0 / 80 / 0 / 200 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 20 / 0 / 80 / 0 / 0 / 0 / 130 / 120 / 0 / 70 / 0 / 0 / 0 / 50 / 0 / 0 / 20 / 0 / 0 / 0 / 190 / 0 / 0 / 30 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 180 / 0 / 180 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 100 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 20 / 70 / 0 / 0 / 160 / 30 / 0 / 0 / 0 / 0 / 30 / 0 / 80 / 0 / 70 / 0 / 40 / 0 / 0 / 0 / 0 / 70 / 0 / 100 / 60 / 0 / 0 / 0 / 0 / 160 / 30 / 0 / 170 / 0 / 0 / 0 / 90 / 0 / 100 / 160 / 0 / 90 / 110 / 0 / 0 / 0 / 120 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 50 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 190 / 0 / 0 / 0 / 0 / 0 / 60 / 100 / 60 / 50 / 0 / 0 / 40 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 30 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 20 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 10 / 0 / 0 / 0 / 140 / 0 / 0 / 160 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 40 / 0 / 90 / 100 / 60 / 0 / 0 / 130 / 70 / 20 / 140 / 150 / 50 / 80 / 0 / 100 / 40 / 0 / 0 / 20 / 0 / 0 / 150 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 70 / 0 / 0 / 200 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 60 / 0 / 0 / 110 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 0 / 0 / ]
-started at: 0.011382, ended at: 0.011887
+Snapshot 1: [ 78 / 45 / 38 / 32 / 28 / ]
+started at: 0.001644, ended at: 0.001648
 
-Writer 3: Value 40 written to location 42 at 0.011929
-Writer 7: Value 80 written to location 898 at 0.011953
-Writer 16: Value 170 written to location 713 at 0.011968
-Writer 14: Value 150 written to location 298 at 0.011991
+Writer 0: Value 81 written to location 3 at 0.001662
+Writer 2: Value 38 written to location 4 at 0.001701
+Writer 1: Value 34 written to location 1 at 0.001709
+Writer 3: Value 22 written to location 4 at 0.001709
 
-Snapshot 1: [ 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 140 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 40 / 0 / 190 / 0 / 30 / 0 / 0 / 140 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 40 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 50 / 10 / 0 / 140 / 0 / 0 / 0 / 0 / 30 / 0 / 110 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 180 / 130 / 0 / 40 / 0 / 0 / 30 / 0 / 0 / 160 / 30 / 0 / 0 / 50 / 40 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 100 / 0 / 40 / 70 / 0 / 0 / 40 / 130 / 0 / 0 / 110 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 150 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 100 / 0 / 0 / 0 / 50 / 0 / 0 / 90 / 0 / 170 / 0 / 0 / 0 / 0 / 0 / 10 / 110 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 130 / 0 / 0 / 0 / 170 / 20 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 160 / 0 / 0 / 0 / 140 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 20 / 0 / 40 / 90 / 60 / 100 / 0 / 0 / 0 / 0 / 0 / 180 / 0 / 160 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 80 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 150 / 60 / 0 / 0 / 0 / 0 / 180 / 50 / 0 / 0 / 0 / 20 / 60 / 170 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 190 / 0 / 0 / 0 / 70 / 60 / 0 / 0 / 0 / 0 / 120 / 0 / 30 / 0 / 50 / 0 / 80 / 0 / 0 / 170 / 70 / 0 / 0 / 170 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 110 / 0 / 0 / 0 / 150 / 0 / 30 / 70 / 0 / 0 / 0 / 0 / 40 / 0 / 40 / 0 / 0 / 90 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 40 / 80 / 0 / 60 / 40 / 30 / 140 / 0 / 90 / 20 / 0 / 0 / 80 / 0 / 10 / 140 / 0 / 0 / 0 / 10 / 0 / 50 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 20 / 140 / 0 / 0 / 130 / 0 / 0 / 0 / 100 / 190 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 140 / 60 / 0 / 0 / 10 / 0 / 120 / 0 / 0 / 130 / 190 / 0 / 0 / 0 / 20 / 0 / 80 / 70 / 0 / 0 / 110 / 0 / 70 / 0 / 0 / 130 / 0 / 0 / 20 / 10 / 0 / 10 / 20 / 130 / 0 / 0 / 0 / 0 / 0 / 10 / 200 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 110 / 80 / 140 / 20 / 0 / 70 / 0 / 0 / 0 / 170 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 190 / 0 / 90 / 30 / 110 / 0 / 0 / 0 / 0 / 50 / 0 / 160 / 110 / 0 / 0 / 130 / 0 / 60 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 200 / 0 / 0 / 0 / 110 / 0 / 30 / 100 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 110 / 90 / 10 / 0 / 50 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 170 / 140 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 20 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 70 / 0 / 140 / 10 / 0 / 0 / 150 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 180 / 10 / 20 / 0 / 0 / 0 / 150 / 140 / 0 / 0 / 0 / 0 / 60 / 0 / 160 / 0 / 0 / 0 / 0 / 70 / 170 / 0 / 0 / 30 / 0 / 170 / 160 / 90 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 20 / 0 / 140 / 140 / 0 / 0 / 0 / 0 / 0 / 60 / 90 / 190 / 140 / 0 / 0 / 0 / 0 / 0 / 140 / 10 / 190 / 0 / 0 / 150 / 0 / 0 / 90 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 100 / 0 / 0 / 0 / 10 / 60 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 0 / 70 / 10 / 0 / 0 / 0 / 80 / 0 / 200 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 20 / 0 / 80 / 0 / 0 / 0 / 130 / 120 / 0 / 70 / 0 / 0 / 0 / 50 / 0 / 0 / 20 / 0 / 0 / 0 / 190 / 0 / 0 / 30 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 180 / 0 / 180 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 100 / 0 / 0 / 0 / 0 / 0 / 0 / 50 / 20 / 70 / 0 / 0 / 160 / 30 / 0 / 0 / 0 / 0 / 30 / 0 / 80 / 0 / 70 / 0 / 40 / 0 / 0 / 0 / 0 / 70 / 0 / 100 / 60 / 0 / 0 / 0 / 0 / 160 / 30 / 0 / 170 / 0 / 0 / 0 / 90 / 0 / 100 / 160 / 0 / 90 / 110 / 0 / 0 / 0 / 120 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 50 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 190 / 0 / 0 / 0 / 0 / 0 / 60 / 100 / 60 / 50 / 0 / 0 / 40 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 30 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 60 / 0 / 0 / 0 / 0 / 20 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 10 / 0 / 0 / 0 / 140 / 0 / 0 / 160 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 40 / 0 / 90 / 100 / 60 / 0 / 0 / 130 / 70 / 20 / 140 / 150 / 50 / 80 / 0 / 100 / 40 / 0 / 0 / 20 / 0 / 0 / 150 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 70 / 0 / 0 / 200 / 0 / 0 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 60 / 0 / 0 / 110 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 0 / 0 / ]
-started at: 0.010983, ended at: 0.012001
+Snapshot 0: [ 78 / 34 / 38 / 81 / 22 / ]
+started at: 0.001717, ended at: 0.001721
 
-Writer 11: Value 120 written to location 190 at 0.012004
-Writer 5: Value 60 written to location 524 at 0.012025
-Writer 18: Value 190 written to location 590 at 0.012031
-Writer 10: Value 110 written to location 209 at 0.012061
-Writer 13: Value 140 written to location 581 at 0.012062
-Writer 2: Value 30 written to location 819 at 0.012183
-Writer 4: Value 50 written to location 336 at 0.012218
-Writer 8: Value 90 written to location 732 at 0.012242
-Writer 15: Value 160 written to location 155 at 0.012250
-Writer 7: Value 80 written to location 994 at 0.012250
-Writer 9: Value 100 written to location 4 at 0.012253
-Writer 5: Value 60 written to location 379 at 0.012255
-Writer 19: Value 200 written to location 769 at 0.012257
-Writer 14: Value 150 written to location 273 at 0.012262
-Writer 3: Value 40 written to location 776 at 0.012278
-Writer 1: Value 20 written to location 850 at 0.012279
-Writer 10: Value 110 written to location 255 at 0.012285
-Writer 13: Value 140 written to location 860 at 0.012292
-Writer 17: Value 180 written to location 142 at 0.012326
-Writer 16: Value 170 written to location 579 at 0.012386
-Writer 18: Value 190 written to location 884 at 0.012419
-Writer 6: Value 70 written to location 993 at 0.012428
-Writer 0: Value 10 written to location 205 at 0.012573
-Writer 12: Value 130 written to location 621 at 0.012586
-Writer 11: Value 120 written to location 567 at 0.012616
-Writer 6: Value 70 written to location 504 at 0.012644
-Writer 4: Value 50 written to location 613 at 0.012648
-Writer 18: Value 190 written to location 961 at 0.012653
-Writer 14: Value 150 written to location 754 at 0.012665
-Writer 5: Value 60 written to location 326 at 0.012676
-Writer 13: Value 140 written to location 259 at 0.012696
-Writer 15: Value 160 written to location 944 at 0.012696
-Writer 10: Value 110 written to location 202 at 0.012697
-Writer 3: Value 40 written to location 202 at 0.012755
-Writer 1: Value 20 written to location 506 at 0.012831
 
-Snapshot 0: [ 0 / 0 / 0 / 0 / 100 / 0 / 0 / 0 / 0 / 60 / 0 / 140 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 40 / 0 / 190 / 0 / 30 / 0 / 0 / 140 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 40 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 50 / 10 / 0 / 140 / 0 / 0 / 0 / 0 / 30 / 0 / 110 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 180 / 130 / 0 / 40 / 0 / 0 / 30 / 0 / 0 / 160 / 30 / 0 / 0 / 50 / 40 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 100 / 0 / 40 / 70 / 0 / 0 / 40 / 130 / 0 / 0 / 110 / 0 / 0 / 0 / 10 / 0 / 0 / 0 / 200 / 0 / 0 / 180 / 50 / 0 / 0 / 0 / 0 / 0 / 150 / 130 / 0 / 0 / 0 / 0 / 160 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 100 / 0 / 0 / 0 / 50 / 0 / 0 / 90 / 0 / 170 / 0 / 0 / 0 / 0 / 0 / 10 / 110 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 130 / 0 / 0 / 0 / 170 / 20 / 130 / 0 / 0 / 40 / 0 / 0 / 10 / 160 / 0 / 0 / 110 / 140 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 70 / 0 / 20 / 0 / 40 / 90 / 60 / 100 / 0 / 0 / 0 / 0 / 0 / 180 / 0 / 160 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 80 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 150 / 60 / 0 / 0 / 150 / 0 / 180 / 50 / 0 / 0 / 0 / 20 / 60 / 170 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 0 / 0 / 0 / 0 / 150 / 130 / 0 / 190 / 0 / 0 / 0 / 70 / 60 / 0 / 0 / 0 / 0 / 120 / 0 / 30 / 0 / 50 / 0 / 80 / 0 / 0 / 170 / 70 / 0 / 0 / 170 / 0 / 60 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 50 / 0 / 0 / 0 / 150 / 0 / 30 / 70 / 0 / 0 / 0 / 0 / 40 / 0 / 40 / 0 / 0 / 90 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 40 / 80 / 0 / 60 / 40 / 30 / 140 / 0 / 90 / 20 / 0 / 0 / 80 / 0 / 10 / 60 / 0 / 0 / 0 / 10 / 0 / 50 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 20 / 140 / 0 / 0 / 130 / 0 / 0 / 0 / 100 / 190 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 140 / 60 / 0 / 0 / 10 / 0 / 120 / 0 / 0 / 130 / 190 / 0 / 0 / 0 / 20 / 0 / 80 / 70 / 0 / 0 / 110 / 0 / 70 / 0 / 0 / 130 / 0 / 0 / 20 / 10 / 0 / 10 / 20 / 130 / 0 / 0 / 0 / 0 / 0 / 10 / 200 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 110 / 80 / 140 / 20 / 0 / 70 / 0 / 0 / 0 / 170 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 190 / 0 / 90 / 30 / 110 / 0 / 0 / 0 / 0 / 50 / 0 / 160 / 110 / 0 / 0 / 130 / 70 / 60 / 20 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 200 / 0 / 60 / 0 / 110 / 0 / 30 / 100 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 110 / 90 / 10 / 0 / 50 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 170 / 140 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 20 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 170 / 0 / 140 / 50 / 0 / 70 / 0 / 140 / 10 / 0 / 0 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 180 / 10 / 20 / 0 / 0 / 0 / 150 / 140 / 0 / 0 / 0 / 0 / 60 / 0 / 50 / 0 / 0 / 0 / 0 / 70 / 170 / 0 / 130 / 30 / 0 / 170 / 160 / 90 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 10 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 20 / 0 / 140 / 140 / 0 / 0 / 0 / 0 / 0 / 60 / 90 / 190 / 140 / 0 / 0 / 0 / 0 / 0 / 140 / 10 / 190 / 0 / 0 / 150 / 0 / 0 / 90 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 100 / 0 / 0 / 0 / 10 / 60 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 0 / 70 / 10 / 0 / 0 / 0 / 170 / 0 / 200 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 20 / 0 / 80 / 0 / 0 / 0 / 130 / 120 / 0 / 90 / 0 / 0 / 0 / 50 / 0 / 0 / 20 / 0 / 0 / 0 / 190 / 0 / 0 / 30 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 150 / 0 / 180 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 100 / 0 / 0 / 0 / 0 / 200 / 0 / 50 / 20 / 70 / 0 / 0 / 40 / 30 / 0 / 0 / 0 / 0 / 30 / 0 / 80 / 0 / 70 / 0 / 40 / 0 / 0 / 0 / 0 / 70 / 0 / 100 / 60 / 0 / 0 / 0 / 0 / 160 / 30 / 0 / 170 / 0 / 0 / 0 / 90 / 0 / 100 / 160 / 0 / 90 / 110 / 0 / 0 / 0 / 120 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 50 / 0 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 60 / 100 / 60 / 50 / 140 / 0 / 40 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 30 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 60 / 0 / 0 / 190 / 0 / 20 / 60 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 10 / 0 / 0 / 80 / 140 / 0 / 0 / 160 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 40 / 0 / 90 / 100 / 60 / 0 / 0 / 130 / 70 / 20 / 140 / 150 / 50 / 80 / 0 / 100 / 40 / 0 / 0 / 20 / 0 / 0 / 150 / 190 / 0 / 0 / 0 / 160 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 70 / 0 / 0 / 200 / 0 / 190 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 60 / 0 / 0 / 110 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 70 / 80 / 0 / 80 / 0 / 0 / 0 / ]
-started at: 0.012247, ended at: 0.012970
+Snapshot 1: [ 78 / 34 / 38 / 81 / 22 / ]
+started at: 0.001742, ended at: 0.001746
 
-Writer 17: Value 180 written to location 784 at 0.012980
-Writer 19: Value 200 written to location 21 at 0.012985
-Writer 14: Value 150 written to location 842 at 0.013054
-Writer 1: Value 20 written to location 868 at 0.013055
-Writer 13: Value 140 written to location 528 at 0.013083
-Writer 7: Value 80 written to location 189 at 0.013087
-Writer 6: Value 70 written to location 872 at 0.013109
-Writer 15: Value 160 written to location 908 at 0.013124
-Writer 5: Value 60 written to location 958 at 0.013142
-Writer 10: Value 110 written to location 498 at 0.013172
-Writer 18: Value 190 written to location 36 at 0.013191
-Writer 8: Value 90 written to location 808 at 0.013221
-Writer 2: Value 30 written to location 753 at 0.013249
-Writer 9: Value 100 written to location 248 at 0.013268
-Writer 16: Value 170 written to location 303 at 0.013272
-Writer 0: Value 10 written to location 333 at 0.013315
-Writer 12: Value 130 written to location 133 at 0.013441
-Writer 4: Value 50 written to location 648 at 0.013648
-Writer 12: Value 130 written to location 890 at 0.013668
-Writer 16: Value 170 written to location 754 at 0.013703
-Writer 5: Value 60 written to location 567 at 0.013722
-Writer 19: Value 200 written to location 746 at 0.013729
-Writer 14: Value 150 written to location 368 at 0.013741
-Writer 11: Value 120 written to location 529 at 0.013820
-Writer 13: Value 140 written to location 500 at 0.013864
-Writer 10: Value 110 written to location 46 at 0.013923
-Writer 7: Value 80 written to location 788 at 0.013925
-Writer 5: Value 60 written to location 797 at 0.013930
-Writer 6: Value 70 written to location 249 at 0.013931
-Writer 9: Value 100 written to location 990 at 0.013937
-Writer 8: Value 90 written to location 303 at 0.013975
-Writer 8: Value 90 written to location 33 at 0.014167
-Writer 3: Value 40 written to location 363 at 0.014185
-Writer 17: Value 180 written to location 253 at 0.014191
-Writer 9: Value 100 written to location 497 at 0.014191
-Writer 2: Value 30 written to location 892 at 0.014194
-Writer 1: Value 20 written to location 686 at 0.014222
-Writer 6: Value 70 written to location 125 at 0.014224
-Writer 7: Value 80 written to location 152 at 0.014269
-Writer 4: Value 50 written to location 996 at 0.014323
-Writer 13: Value 140 written to location 975 at 0.014396
-Writer 18: Value 190 written to location 188 at 0.014414
-Writer 10: Value 110 written to location 157 at 0.014425
-Writer 5: Value 60 written to location 729 at 0.014447
-Writer 15: Value 160 written to location 436 at 0.014457
-Writer 0: Value 10 written to location 460 at 0.014461
-Writer 7: Value 80 written to location 414 at 0.014501
-Writer 14: Value 150 written to location 921 at 0.014554
+Writer 0: Value 101 written to location 0 at 0.001760
+Writer 1: Value 38 written to location 3 at 0.001814
+Writer 3: Value 23 written to location 2 at 0.001819
 
-Snapshot 0: [ 0 / 0 / 0 / 0 / 100 / 0 / 0 / 0 / 0 / 60 / 0 / 140 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 200 / 20 / 0 / 0 / 0 / 0 / 40 / 0 / 190 / 0 / 30 / 0 / 90 / 140 / 0 / 190 / 0 / 0 / 0 / 0 / 0 / 40 / 20 / 0 / 0 / 110 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 50 / 10 / 0 / 140 / 0 / 0 / 0 / 0 / 30 / 0 / 110 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 180 / 130 / 0 / 40 / 0 / 0 / 30 / 0 / 0 / 160 / 30 / 0 / 0 / 50 / 40 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 0 / 100 / 0 / 40 / 70 / 70 / 0 / 40 / 130 / 0 / 0 / 110 / 0 / 130 / 0 / 10 / 0 / 0 / 0 / 200 / 0 / 0 / 180 / 50 / 0 / 0 / 0 / 0 / 0 / 150 / 130 / 0 / 80 / 0 / 0 / 160 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 100 / 0 / 0 / 0 / 50 / 0 / 0 / 90 / 0 / 170 / 0 / 0 / 0 / 0 / 0 / 10 / 110 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 0 / 0 / 80 / 120 / 0 / 0 / 130 / 0 / 0 / 0 / 170 / 20 / 130 / 0 / 0 / 40 / 0 / 0 / 10 / 160 / 0 / 0 / 110 / 140 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 110 / 0 / 0 / 70 / 0 / 20 / 0 / 40 / 90 / 60 / 100 / 0 / 0 / 0 / 0 / 0 / 180 / 0 / 160 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 130 / 0 / 0 / 100 / 70 / 0 / 0 / 0 / 180 / 0 / 110 / 0 / 0 / 80 / 140 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 150 / 60 / 0 / 0 / 150 / 0 / 180 / 50 / 0 / 0 / 0 / 20 / 60 / 170 / 0 / 0 / 0 / 50 / 0 / 0 / 0 / 0 / 0 / 80 / 0 / 0 / 0 / 0 / 0 / 150 / 130 / 0 / 190 / 0 / 90 / 0 / 70 / 60 / 0 / 0 / 0 / 0 / 120 / 0 / 30 / 0 / 50 / 0 / 80 / 0 / 0 / 170 / 70 / 0 / 0 / 170 / 0 / 60 / 110 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 10 / 50 / 0 / 0 / 0 / 150 / 0 / 30 / 70 / 0 / 0 / 0 / 0 / 40 / 0 / 40 / 0 / 0 / 90 / 0 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 40 / 40 / 80 / 0 / 60 / 150 / 30 / 140 / 0 / 90 / 20 / 0 / 0 / 80 / 0 / 10 / 60 / 0 / 0 / 0 / 10 / 0 / 50 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 0 / 20 / 140 / 0 / 0 / 130 / 0 / 0 / 0 / 100 / 190 / 0 / 0 / 10 / 0 / 0 / 0 / 0 / 140 / 60 / 0 / 0 / 10 / 0 / 120 / 0 / 0 / 130 / 190 / 0 / 0 / 0 / 20 / 0 / 80 / 70 / 0 / 0 / 110 / 0 / 70 / 0 / 0 / 130 / 0 / 0 / 20 / 10 / 0 / 10 / 20 / 130 / 0 / 0 / 0 / 0 / 0 / 10 / 200 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 140 / 110 / 80 / 140 / 20 / 0 / 70 / 0 / 0 / 0 / 170 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 0 / 0 / 0 / 0 / 0 / 190 / 0 / 90 / 30 / 110 / 0 / 0 / 0 / 0 / 100 / 110 / 160 / 140 / 0 / 0 / 130 / 70 / 60 / 20 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 200 / 0 / 60 / 0 / 110 / 0 / 140 / 120 / 50 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 110 / 90 / 10 / 0 / 50 / 0 / 0 / 40 / 0 / 0 / 0 / 0 / 170 / 140 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 20 / 0 / 40 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 170 / 0 / 140 / 50 / 0 / 70 / 0 / 140 / 10 / 0 / 0 / 190 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 180 / 10 / 20 / 0 / 0 / 0 / 150 / 140 / 0 / 0 / 0 / 0 / 60 / 0 / 50 / 0 / 0 / 0 / 0 / 70 / 170 / 0 / 130 / 30 / 0 / 170 / 160 / 90 / 0 / 0 / 0 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 60 / 0 / 0 / 10 / 0 / 0 / 0 / 90 / 0 / 0 / 0 / 50 / 20 / 0 / 140 / 140 / 0 / 0 / 0 / 0 / 0 / 60 / 90 / 190 / 140 / 0 / 0 / 0 / 0 / 0 / 140 / 10 / 190 / 0 / 0 / 150 / 0 / 0 / 90 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 40 / 100 / 0 / 20 / 0 / 10 / 60 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 30 / 0 / 0 / 70 / 10 / 0 / 0 / 0 / 170 / 0 / 200 / 0 / 0 / 0 / 0 / 0 / 50 / 0 / 20 / 0 / 80 / 0 / 0 / 0 / 130 / 120 / 0 / 90 / 0 / 0 / 0 / 50 / 0 / 0 / 20 / 0 / 0 / 0 / 190 / 0 / 0 / 200 / 0 / 0 / 0 / 110 / 0 / 0 / 30 / 170 / 0 / 180 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 100 / 0 / 0 / 0 / 0 / 200 / 0 / 50 / 20 / 70 / 0 / 0 / 40 / 30 / 0 / 0 / 0 / 0 / 30 / 0 / 180 / 0 / 70 / 0 / 80 / 0 / 0 / 0 / 0 / 70 / 0 / 100 / 60 / 60 / 0 / 0 / 0 / 160 / 30 / 0 / 170 / 0 / 0 / 0 / 90 / 0 / 100 / 160 / 0 / 90 / 110 / 0 / 0 / 0 / 120 / 30 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 70 / 50 / 150 / 0 / 0 / 0 / 140 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 60 / 100 / 60 / 50 / 140 / 0 / 40 / 0 / 0 / 40 / 0 / 0 / 20 / 0 / 0 / 80 / 70 / 30 / 0 / 0 / 0 / 0 / 10 / 0 / 0 / 60 / 0 / 0 / 190 / 0 / 20 / 60 / 0 / 0 / 130 / 0 / 30 / 0 / 120 / 10 / 0 / 0 / 80 / 140 / 0 / 0 / 160 / 0 / 10 / 0 / 0 / 0 / 160 / 0 / 0 / 0 / 0 / 0 / 10 / 40 / 0 / 40 / 0 / 90 / 100 / 60 / 0 / 0 / 130 / 70 / 20 / 140 / 150 / 50 / 80 / 0 / 100 / 40 / 0 / 0 / 20 / 0 / 0 / 150 / 190 / 0 / 0 / 0 / 160 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 120 / 0 / 70 / 0 / 60 / 200 / 0 / 190 / 0 / 0 / 0 / 20 / 0 / 0 / 0 / 0 / 0 / 0 / 90 / 10 / 0 / 0 / 0 / 0 / 0 / 0 / 10 / 60 / 0 / 0 / 110 / 0 / 0 / 120 / 0 / 0 / 100 / 0 / 0 / 70 / 80 / 0 / 50 / 0 / 0 / 0 / ]
-started at: 0.013152, ended at: 0.014600
+Snapshot 0: [ 101 / 34 / 23 / 38 / 22 / ]
+started at: 0.001823, ended at: 0.001827
 
-Writer 8: Value 90 written to location 460 at 0.014644
-Writer 19: Value 200 written to location 304 at 0.014682
-Writer 12: Value 130 written to location 28 at 0.014684
-Writer 6: Value 70 written to location 27 at 0.014686
-Writer 9: Value 100 written to location 50 at 0.014687
-Writer 2: Value 30 written to location 748 at 0.014729
-Writer 10: Value 110 written to location 556 at 0.014735
-Writer 7: Value 80 written to location 902 at 0.014740
-Writer 5: Value 60 written to location 794 at 0.014769
-Writer 13: Value 140 written to location 697 at 0.014866
-Writer 4: Value 50 written to location 699 at 0.014871
-Writer 1: Value 20 written to location 43 at 0.014884
-Writer 11: Value 120 written to location 39 at 0.014893
-Writer 0: Value 10 written to location 2 at 0.014904
-Writer 3: Value 40 written to location 428 at 0.014909
-Writer 7: Value 80 written to location 403 at 0.014913
-Writer 15: Value 160 written to location 500 at 0.014928
-Writer 17: Value 180 written to location 681 at 0.014932
-Writer 10: Value 110 written to location 647 at 0.014940
-Writer 9: Value 100 written to location 538 at 0.014942
-Writer 2: Value 30 written to location 159 at 0.014951
-Writer 12: Value 130 written to location 151 at 0.014974
-Writer 16: Value 170 written to location 535 at 0.014985
-Writer 8: Value 90 written to location 134 at 0.014987
-Writer 5: Value 60 written to location 339 at 0.014993
+Writer 2: Value 82 written to location 1 at 0.001839
 
-Average update time: 402.18 microseconds
-Worst update time: 2685.38 microseconds
-Average scan time: 456.46 microseconds 
-Worst scan time: 1447.83 microseconds 
-Average time: 404.40 microseconds 
-Worst time: 2685.38 microseconds 
+Snapshot 1: [ 101 / 82 / 23 / 38 / 22 / ]
+started at: 0.001840, ended at: 0.001843
+
+Writer 0: Value 95 written to location 4 at 0.001857
+Writer 3: Value 77 written to location 0 at 0.001917
+Writer 2: Value 66 written to location 3 at 0.001933
+Writer 1: Value 90 written to location 1 at 0.001934
+Writer 0: Value 5 written to location 2 at 0.001955
+Writer 2: Value 25 written to location 2 at 0.002024
+Writer 3: Value 8 written to location 1 at 0.002034
+Writer 1: Value 79 written to location 0 at 0.002039
+Writer 0: Value 18 written to location 1 at 0.002061
+Writer 2: Value 40 written to location 4 at 0.002114
+
+Average update time: 5.25 microseconds
+Worst update time: 24.40 microseconds
+Average scan time: 6.20 microseconds 
+Worst scan time: 25.63 microseconds 
+Average time: 5.49 microseconds 
+Worst time: 25.63 microseconds 

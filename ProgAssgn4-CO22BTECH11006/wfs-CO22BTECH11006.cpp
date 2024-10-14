@@ -52,6 +52,7 @@ class WaitFreeSnapshot {
 private:
     vector<atomic<StampedValue<T>>> a_table; // Array of atomic MRMW registers
     vector<vector<T>> helpsnap; // Stores recently taken snapshots by each writer thread
+    vector<int> seq_nos; // Array of sequence numbers for each writer thread
     int nw; // Number of writer threads
 
     vector<StampedValue<T>> collect() {
@@ -70,14 +71,13 @@ public:
         }
         helpsnap = vector<vector<T>>(writer_threads, vector<T>(capacity));
         nw = writer_threads;
+        seq_nos = vector<int>(writer_threads,0);
     }
 
     void update(int thread_id, int location, T value) {
-        StampedValue<T> oldStampedValue = a_table[location].load();
-        int oldstamp = oldStampedValue.stamp;
-        int newstamp = oldstamp + 1;
+        int newstamp = seq_nos[thread_id] + 1;
+        seq_nos[thread_id] = newstamp;
         a_table[location].store(StampedValue<T>(newstamp, value, thread_id));
-
         // Take snapshot for current writer thread
         helpsnap[thread_id] = scan();
     }
@@ -139,7 +139,7 @@ void* writer(void* arg) {
     vector<LogEntry>* logs = new vector<LogEntry>();
 
     while(!term) {
-        int v = 10 + thread_id*10;
+        int v = 1 + (rand() % 101);
         int loc = rand()%M;
         auto current_time = chrono::high_resolution_clock::now();
         double current_time_sec = chrono::duration<double>(current_time- start_time).count();

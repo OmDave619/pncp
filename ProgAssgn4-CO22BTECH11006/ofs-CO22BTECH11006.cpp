@@ -51,6 +51,7 @@ template <typename T>
 class ObstructionFreeSnapshot {
 private:
     vector<atomic<StampedValue<T>>> a_table; // Array of atomic MRMW registers
+    vector<int> seq_nos; // Array of sequence numbers for each writer thread
 
     vector<StampedValue<T>> collect() {
         vector<StampedValue<T>> copy(a_table.size());
@@ -61,17 +62,20 @@ private:
     }
 
 public:
-    ObstructionFreeSnapshot(int capacity) {
+    ObstructionFreeSnapshot(int capacity, int writer_threads) {
         a_table = vector<atomic<StampedValue<T>>>(capacity);
         for (int i = 0; i < capacity; i++) {
             a_table[i].store(StampedValue<T>(0, T(), -1));
         }
+        seq_nos = vector<int>(writer_threads);
+        for (int i = 0; i < writer_threads; i++) {
+            seq_nos[i] = 0;  //storing the local sequence number of each threada
+        }
     }
 
     void update(int thread_id, int location, T value) {
-        StampedValue<T> oldStampedValue = a_table[location].load();
-        int oldstamp = oldStampedValue.stamp;
-        int newstamp = oldstamp + 1;
+        int newstamp = seq_nos[thread_id] + 1;
+        seq_nos[thread_id] = newstamp;
         a_table[location].store(StampedValue<T>(newstamp, value, thread_id));
     }
 
@@ -216,7 +220,7 @@ int main() {
     start_time = chrono::high_resolution_clock::now();
 
     // Create the snapshot object
-    ObstructionFreeSnapshot<int> OFsnapshot(M);
+    ObstructionFreeSnapshot<int> OFsnapshot(M, nw);
 
     // Create nw writer threads
     vector<pthread_t> writer_threads(nw);
