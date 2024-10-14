@@ -125,7 +125,7 @@ void* writer(void* arg) {
     vector<LogEntry>* logs = new vector<LogEntry>();
 
     while(!term) {
-        int v = 10 + thread_id*10;
+        int v = 1 + (rand() % 101);
         int loc = rand()%M;
         auto current_time = chrono::high_resolution_clock::now();
         double current_time_sec = chrono::duration<double>(current_time- start_time).count();
@@ -176,11 +176,11 @@ void *snapshot(void *arg) {
 
         // Create log message
         stringstream ss;
-        ss << "Snapshot " << thread_id << ": [ ";
+        ss << "\nSnapshot " << thread_id << ": [ ";
         for (int j = 0; j < M; j++) {
             ss << result[j] << " / ";
         }
-        ss << "] , started at: " << to_string(begin_collect_sec) << ", ended at: " << to_string(end_collect_sec) << "\n";
+        ss << "]\nstarted at: " << to_string(begin_collect_sec) << ", ended at: " << to_string(end_collect_sec) << "\n\n";
 
         // Create LogEntry
         LogEntry entry;

@@ -188,13 +188,13 @@ void *snapshot(void *arg) {
 
         scanOperationTime[thread_id].push_back(time_collect);
 
-        // Create log message
+       // Create log message
         stringstream ss;
-        ss << "Snapshot " << thread_id << ": [ ";
+        ss << "\nSnapshot " << thread_id << ": [ ";
         for (int j = 0; j < M; j++) {
             ss << result[j] << " / ";
         }
-        ss << "] , started at: " << to_string(begin_collect_sec) << ", ended at: " << to_string(end_collect_sec) << "\n";
+        ss << "]\nstarted at: " << to_string(begin_collect_sec) << ", ended at: " << to_string(end_collect_sec) << "\n\n";
 
         // Create LogEntry
         LogEntry entry;
