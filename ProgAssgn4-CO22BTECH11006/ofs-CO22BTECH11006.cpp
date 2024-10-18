@@ -92,7 +92,7 @@ public:
                 flag = false;
                 break;
             }
-            if (flag) break;     //both arrays are equal break out of while loop 
+            if (flag) break; // Both copies are equal, double collect is successful, break from the loop
             oldCopy = newCopy;
         }
         vector<T> result(a_table.size());

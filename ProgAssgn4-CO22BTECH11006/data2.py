@@ -128,7 +128,7 @@ def experiment_scalability(is_average_case=True):
     
     # Define the varying number of writer threads
     nw_values = [4, 8, 16, 32]
-    M = 40
+    M = 1000
     muw = 0.5
     mus = 0.5
     k = 5
@@ -193,20 +193,10 @@ def experiment_scalability(is_average_case=True):
     linestyles = {'ofs': '-', 'wfs': '--'}
     
     for algo in ['ofs', 'wfs']:
-        for metric in ['update', 'scan']:
+        for metric in ['update', 'scan', 'all']:
             y_values = [aggregated_data[nw][algo][metric] for nw in nw_values]
             label = f"{'Obstruction-Free' if algo == 'ofs' else 'Wait-Free'} - {metric.capitalize()}"
             plt.plot(nw_values, y_values, label=label, marker=markers[metric], linestyle=linestyles[algo])
-        
-        # Handle 'all' metric separately
-        if not is_average_case:
-            y_values_all = [aggregated_data[nw][algo]['all'] for nw in nw_values]
-            label_all = f"{'Obstruction-Free' if algo == 'ofs' else 'Wait-Free'} - All (Worst)"
-            plt.scatter(nw_values, y_values_all, label=label_all, marker=markers['all'])
-        else:
-            y_values_all = [aggregated_data[nw][algo]['all'] for nw in nw_values]
-            label_all = f"{'Obstruction-Free' if algo == 'ofs' else 'Wait-Free'} - All (Average)"
-            plt.plot(nw_values, y_values_all, label=label_all, marker=markers['all'], linestyle=linestyles[algo])
     
     plt.xlabel('Number of Writer Threads (nw)')
     plt.ylabel('Average Time (μs)' if is_average_case else 'Worst Time (μs)')
@@ -226,7 +216,7 @@ def experiment_impact_on_scan(is_average_case=True):
     # Define the varying ratios
     ratios = [10, 8, 6, 4, 2, 1]
     ns_fixed = 4
-    M = 20
+    M = 1000
     muw = 0.5
     mus = 0.5
     k = 5
@@ -287,20 +277,11 @@ def experiment_impact_on_scan(is_average_case=True):
     linestyles = {'ofs': '-', 'wfs': '--'}
     
     for algo in ['ofs', 'wfs']:
-        for metric in ['update', 'scan']:
+        for metric in ['update', 'scan', 'all']:
             y_values = [aggregated_data[ratio][algo][metric] for ratio in ratios]
             label = f"{'Obstruction-Free' if algo == 'ofs' else 'Wait-Free'} - {metric.capitalize()}"
             plt.plot(ratios, y_values, label=label, marker=markers[metric], linestyle=linestyles[algo])
         
-        # Handle 'all' metric separately
-        if not is_average_case:
-            y_values_all = [aggregated_data[ratio][algo]['all'] for ratio in ratios]
-            label_all = f"{'Obstruction-Free' if algo == 'ofs' else 'Wait-Free'} - All (Worst)"
-            plt.scatter(ratios, y_values_all, label=label_all, marker=markers['all'])
-        else:
-            y_values_all = [aggregated_data[ratio][algo]['all'] for ratio in ratios]
-            label_all = f"{'Obstruction-Free' if algo == 'ofs' else 'Wait-Free'} - All (Average)"
-            plt.plot(ratios, y_values_all, label=label_all, marker=markers['all'], linestyle=linestyles[algo])
     
     plt.xlabel('Ratio of nw/ns')
     plt.ylabel('Average Time (μs)' if is_average_case else 'Worst Time (μs)')
@@ -318,7 +299,7 @@ def experiment_varying_M(is_average_case=True):
     print(f"Starting Experiment {experiment_num} - {'Average-Case' if is_average_case else 'Worst-Case'} Varying M")
     
     # Define varying M values
-    M_values = [5, 10, 20, 40, 100, 200, 500, 1000]
+    M_values = [100, 200,400,600, 1000]
     nw = 20
     ns = 2
     muw = 0.5
@@ -377,111 +358,11 @@ def experiment_varying_M(is_average_case=True):
     linestyles = {'ofs': '-', 'wfs': '--'}
     
     for algo in ['ofs', 'wfs']:
-        for metric in ['update', 'scan']:
+        for metric in ['update', 'scan','all']:
             y_values = [aggregated_data[M][algo][metric] for M in M_values]
             label = f"{'Obstruction-Free' if algo == 'ofs' else 'Wait-Free'} - {metric.capitalize()}"
             plt.plot(M_values, y_values, label=label, marker=markers[metric], linestyle=linestyles[algo])
         
-        # Handle 'all' metric separately
-        if not is_average_case:
-            y_values_all = [aggregated_data[M][algo]['all'] for M in M_values]
-            label_all = f"{'Obstruction-Free' if algo == 'ofs' else 'Wait-Free'} - All (Worst)"
-            plt.scatter(M_values, y_values_all, label=label_all, marker=markers['all'])
-        else:
-            y_values_all = [aggregated_data[M][algo]['all'] for M in M_values]
-            label_all = f"{'Obstruction-Free' if algo == 'ofs' else 'Wait-Free'} - All (Average)"
-            plt.plot(M_values, y_values_all, label=label_all, marker=markers['all'], linestyle=linestyles[algo])
-    
-    plt.xlabel('Number of Locations (M)')
-    plt.ylabel('Average Time (μs)' if is_average_case else 'Worst Time (μs)')
-    plt.title(f"Experiment {experiment_num}: {'Average-Case' if is_average_case else 'Worst-Case'} Performance with Varying M")
-    plt.legend()
-    plt.grid(True)
-    plt.xscale('log')  # Use logarithmic scale for better visualization with large M
-    plt.xticks(M_values, M_values)  # Ensure all M_values are shown as ticks
-    plt.savefig(f"Experiment{experiment_num}_{'Average' if is_average_case else 'Worst'}_Varying_M.png")
-    plt.show()
-    print(f"Experiment {experiment_num} completed.\n")
-
-# Function to perform Experiment 5 and 6 (Varying M)
-def experiment_varying_M(is_average_case=True):
-    experiment_num = 5 if is_average_case else 6
-    print(f"Starting Experiment {experiment_num} - {'Average-Case' if is_average_case else 'Worst-Case'} Varying M")
-    
-    # Define varying M values
-    M_values = [5, 10, 20, 40, 100, 200, 500, 1000]
-    nw = 20
-    ns = 2
-    muw = 0.5
-    mus = 0.5
-    k = 10
-    
-    # Data structure: {M: {'ofs': {'update': [], 'scan': [], 'all': []}, 'wfs': {...}}}
-    data = defaultdict(lambda: {'ofs': {'update': [], 'scan': [], 'all': []},
-                                'wfs': {'update': [], 'scan': [], 'all': []}})
-    
-    for M in M_values:
-        print(f"\nConfiguration: nw={nw}, ns={ns}, M={M}, muw={muw}, mus={mus}, k={k}")
-        
-        for run in range(1, NUM_RUNS + 1):
-            print(f"  Run {run}/{NUM_RUNS}")
-            run_data = run_single_run(nw, ns, M, muw, mus, k)
-            if run_data:
-                # Obstruction-Free
-                ofs = run_data['ofs']
-                if is_average_case:
-                    data[M]['ofs']['update'].append(ofs['average_update_time'])
-                    data[M]['ofs']['scan'].append(ofs['average_scan_time'])
-                    data[M]['ofs']['all'].append(ofs['average_time'])
-                else:
-                    data[M]['ofs']['update'].append(ofs['worst_update_time'])
-                    data[M]['ofs']['scan'].append(ofs['worst_scan_time'])
-                    data[M]['ofs']['all'].append(ofs['worst_time'])
-                
-                # Wait-Free
-                wfs = run_data['wfs']
-                if is_average_case:
-                    data[M]['wfs']['update'].append(wfs['average_update_time'])
-                    data[M]['wfs']['scan'].append(wfs['average_scan_time'])
-                    data[M]['wfs']['all'].append(wfs['average_time'])
-                else:
-                    data[M]['wfs']['update'].append(wfs['worst_update_time'])
-                    data[M]['wfs']['scan'].append(wfs['worst_scan_time'])
-                    data[M]['wfs']['all'].append(wfs['worst_time'])
-            else:
-                print(f"  Run {run} failed and was skipped.")
-    
-    # Aggregate data
-    aggregated_data = defaultdict(lambda: {'ofs': {'update': None, 'scan': None, 'all': None},
-                                           'wfs': {'update': None, 'scan': None, 'all': None}})
-    for M in M_values:
-        for algo in ['ofs', 'wfs']:
-            for metric in ['update', 'scan', 'all']:
-                if is_average_case:
-                    aggregated_data[M][algo][metric] = average(data[M][algo][metric])
-                else:
-                    aggregated_data[M][algo][metric] = maximum(data[M][algo][metric])
-    
-    # Plotting
-    plt.figure(figsize=(14, 8))
-    markers = {'update': 'o', 'scan': 's', 'all': '^'}
-    linestyles = {'ofs': '-', 'wfs': '--'}
-    
-    for algo in ['ofs', 'wfs']:
-        for metric in ['update', 'scan']:
-            y_values = [aggregated_data[M][algo][metric] for M in M_values]
-            label = f"{'Obstruction-Free' if algo == 'ofs' else 'Wait-Free'} - {metric.capitalize()}"
-            plt.plot(M_values, y_values, label=label, marker=markers[metric], linestyle=linestyles[algo])
-        
-        # Handle 'all' metric separately
-        if not is_average_case:
-            y_values_all = [aggregated_data[M][algo]['all'] for M in M_values]
-            label_all = f"{'Obstruction-Free' if algo == 'ofs' else 'Wait-Free'} - All (Worst)"
-            plt.scatter(M_values, y_values_all, label=label_all, marker=markers['all'])
-        else:
-            y_values_all = [aggregated_data[M][algo]['all'] for M in M_values]
-            label_all = f"{'Obstruction-Free' if algo == 'ofs' else 'Wait-Free'} - All (Average)"
-            plt.plot(M_values, y_values_all, label=label_all, marker=markers['all'], linestyle=linestyles[algo])
     
     plt.xlabel('Number of Locations (M)')
     plt.ylabel('Average Time (μs)' if is_average_case else 'Worst Time (μs)')
